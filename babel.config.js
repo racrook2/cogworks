@@ -85,9 +85,12 @@ module.exports = function(api) {
       [
         'module-resolver',
         {
-          root: ['./app/javascript']
+          root: ['./app/javascript'],
+          alias: {
+            'images': './app/assets/images'
+          }
         }
       ]
     ].filter(Boolean)
   }
-}
+};

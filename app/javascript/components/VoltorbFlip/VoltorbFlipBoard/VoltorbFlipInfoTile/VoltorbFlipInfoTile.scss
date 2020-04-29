@@ -1,5 +1,25 @@
+@import 'app/assets/stylesheets/colors';
+
 .VoltorbFlip__VoltorbFlipInfoTile {
-  background-color: yellow;
-  height: 112px;
-  width: 112px;
+  color: $white;
+  font-weight: bold;
+  position: relative;
+
+  &__tile {
+    vertical-align: middle;
+  }
+
+  &__value {
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 10px;
+  }
+
+  &__count {
+    position: absolute;
+    right: 14px;
+    top: 48px;
+  }
 }

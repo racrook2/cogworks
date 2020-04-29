@@ -1,13 +1,11 @@
-.VoltorbFlip__VoltorbFlipNumberTile {
-  background-color: red;
-  height: 112px;
-  width: 112px;
+@import 'app/assets/stylesheets/colors';
 
+.VoltorbFlip__VoltorbFlipNumberTile {
   &--selected {
-    background-color: blue;
+    outline: 4px $red solid;
   }
 
-  &--flipped {
-    background-color: green;
+  &__tile {
+    vertical-align: middle;
   }
 }

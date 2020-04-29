@@ -1,6 +1,7 @@
 import React from 'react'
 import VoltorbFlipNumberTile from 'components/VoltorbFlip/VoltorbFlipBoard/VoltorbFlipNumberTile/VoltorbFlipNumberTile'
 import VoltorbFlipInfoTile from 'components/VoltorbFlip/VoltorbFlipBoard/VoltorbFlipInfoTile/VoltorbFlipInfoTile'
+import './VoltorbFlipBoard.scss'
 
 class VoltorbFlipBoard extends React.Component {
   constructor(props) {
@@ -26,10 +27,72 @@ class VoltorbFlipBoard extends React.Component {
     }
   }
 
-  onClick = (row, col) => {
-    if (row === this.state.selected.row && col === this.state.selected.col && !this.state.flipped[row][col]) {
-      this.state.flipped[row][col] = true
+  componentDidMount() {
+    document.onkeydown = (e) => {
+      if (e.key === 'ArrowLeft') {
+        this.onKeyDown(0, -1)
+      } else if (e.key === 'ArrowUp') {
+        this.onKeyDown(-1, 0)
+      } else if (e.key === 'ArrowRight') {
+        this.onKeyDown(0, 1)
+      } else if (e.key === 'ArrowDown') {
+        this.onKeyDown(1, 0)
+      } else if (e.key === ' ') {
+        this.onClick(this.state.selected.row, this.state.selected.col)
+      }
+    }
+  }
+
+  onKeyDown = (rowInc, colInc) => {
+    if (this.state.selected.row === undefined || this.state.selected.col === undefined) {
+      this.setState({
+        selected: {
+          row: 0,
+          col: 0
+        }
+      })
     } else {
+      this.setState(state => {
+        let row = state.selected.row + rowInc;
+        let col = state.selected.col + colInc;
+
+        if (row < 0) {
+          row = this.props.rows - 1
+        } else if (row >= this.props.rows) {
+          row = 0
+        }
+
+        if (col < 0) {
+          col = this.props.cols - 1
+        } else if (col >= this.props.cols) {
+          col = 0
+        }
+
+        return {
+          selected: {
+            row,
+            col
+          }
+        }
+      })
+    }
+  };
+
+  onClick = (row, col) => {
+    if (row === undefined || col === undefined) {
+      return
+    }
+
+    if (row === this.state.selected.row && col === this.state.selected.col && !this.state.flipped[row][col]) {
+      this.setState(state => {
+        let flipped = state.flipped;
+        flipped[row][col] = true;
+
+        return {
+          flipped
+        }
+      })
+    } else if (row !== this.state.selected.row || col !== this.state.selected.col) {
       this.setState({
         selected: {
           row,
@@ -93,7 +156,11 @@ class VoltorbFlipBoard extends React.Component {
             />
           }
 
-          tiles.push(<td key={col}>{ tile }</td>)
+          tiles.push(
+            <td key={col}>
+              { tile }
+            </td>
+          )
         }
       }
 
@@ -105,9 +172,9 @@ class VoltorbFlipBoard extends React.Component {
 
   render() {
     return (
-      <table>
+      <table className='VoltorbFlip__VoltorbFlipBoard'>
         <tbody>
-        { this.createBoard() }
+          { this.createBoard() }
         </tbody>
       </table>
     )
