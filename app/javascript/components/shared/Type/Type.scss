@@ -1,0 +1,84 @@
+@import 'app/assets/stylesheets/colors';
+
+.Type {
+  align-items: center;
+  border-radius: 4px;
+  color: $white;
+  display: inline-flex;
+  height: 24px;
+  justify-content: center;
+  padding-top: 2px;
+  width: 72px;
+}
+
+.Type--Bug {
+  background-color: $bug;
+}
+
+.Type--Dark {
+  background-color: $dark;
+}
+
+.Type--Dragon {
+  background-color: $dragon;
+}
+
+.Type--Electric {
+  background-color: $electric;
+}
+
+.Type--Fairy {
+  background-color: $fairy;
+}
+
+.Type--Fighting {
+  background-color: $fighting;
+}
+
+.Type--Fire {
+  background-color: $fire;
+}
+
+.Type--Flying {
+  background-color: $flying;
+}
+
+.Type--Ghost {
+  background-color: $ghost;
+}
+
+.Type--Grass {
+  background-color: $grass;
+}
+
+.Type--Ground {
+  background-color: $ground;
+}
+
+.Type--Ice {
+  background-color: $ice;
+}
+
+.Type--Normal {
+  background-color: $normal;
+}
+
+.Type--Poison {
+  background-color: $poison;
+}
+
+.Type--Psychic {
+  background-color: $psychic;
+}
+
+.Type--Rock {
+  background-color: $rock;
+}
+
+.Type--Steel {
+  background-color: $steel;
+}
+
+.Type--Water {
+  background-color: $water;
+}

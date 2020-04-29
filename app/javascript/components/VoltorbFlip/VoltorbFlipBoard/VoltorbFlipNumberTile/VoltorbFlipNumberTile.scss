@@ -1,0 +1,13 @@
+.VoltorbFlip__VoltorbFlipNumberTile {
+  background-color: red;
+  height: 112px;
+  width: 112px;
+
+  &--selected {
+    background-color: blue;
+  }
+
+  &--flipped {
+    background-color: green;
+  }
+}

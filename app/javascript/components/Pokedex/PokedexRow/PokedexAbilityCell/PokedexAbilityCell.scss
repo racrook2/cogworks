@@ -1,0 +1,8 @@
+@import 'app/assets/stylesheets/colors';
+
+.Pokedex__PokedexAbilityCell {
+  &__hidden-ability {
+    color: $darkgray;
+    font-style: italic;
+  }
+}

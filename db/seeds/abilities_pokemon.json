@@ -1,0 +1,12185 @@
+[
+  {
+    "name": "Bulbasaur",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Bulbasaur",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Ivysaur",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Ivysaur",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Venusaur",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Venusaur",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Venusaur",
+    "subname": "Mega Venusaur",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Charmander",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Charmander",
+    "ability": "Solar Power",
+    "sort": 2
+  },
+  {
+    "name": "Charmeleon",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Charmeleon",
+    "ability": "Solar Power",
+    "sort": 2
+  },
+  {
+    "name": "Charizard",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Charizard",
+    "ability": "Solar Power",
+    "sort": 2
+  },
+  {
+    "name": "Charizard",
+    "subname": "Mega Charizard X",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Charizard",
+    "subname": "Mega Charizard Y",
+    "ability": "Drought",
+    "sort": 0
+  },
+  {
+    "name": "Squirtle",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Squirtle",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Wartortle",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Wartortle",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Blastoise",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Blastoise",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Blastoise",
+    "subname": "Mega Blastoise",
+    "ability": "Mega Launcher",
+    "sort": 0
+  },
+  {
+    "name": "Caterpie",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Caterpie",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Metapod",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Butterfree",
+    "ability": "Compound Eyes",
+    "sort": 0
+  },
+  {
+    "name": "Butterfree",
+    "ability": "Tinted Lens",
+    "sort": 2
+  },
+  {
+    "name": "Weedle",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Weedle",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Kakuna",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Beedrill",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Beedrill",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Beedrill",
+    "subname": "Mega Beedrill",
+    "ability": "Adaptability",
+    "sort": 0
+  },
+  {
+    "name": "Pidgey",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Pidgey",
+    "ability": "Tangled Feet",
+    "sort": 1
+  },
+  {
+    "name": "Pidgey",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Pidgeotto",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Pidgeotto",
+    "ability": "Tangled Feet",
+    "sort": 1
+  },
+  {
+    "name": "Pidgeotto",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Pidgeot",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Pidgeot",
+    "ability": "Tangled Feet",
+    "sort": 1
+  },
+  {
+    "name": "Pidgeot",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Pidgeot",
+    "subname": "Mega Pidgeot",
+    "ability": "No Guard",
+    "sort": 0
+  },
+  {
+    "name": "Rattata",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Rattata",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Rattata",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Rattata",
+    "subname": "Alolan Rattata",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Rattata",
+    "subname": "Alolan Rattata",
+    "ability": "Hustle",
+    "sort": 1
+  },
+  {
+    "name": "Rattata",
+    "subname": "Alolan Rattata",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Raticate",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Raticate",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Raticate",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Raticate",
+    "subname": "Alolan Raticate",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Raticate",
+    "subname": "Alolan Raticate",
+    "ability": "Hustle",
+    "sort": 1
+  },
+  {
+    "name": "Raticate",
+    "subname": "Alolan Raticate",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Spearow",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Spearow",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Fearow",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Fearow",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Ekans",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Ekans",
+    "ability": "Shed Skin",
+    "sort": 1
+  },
+  {
+    "name": "Ekans",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Arbok",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Arbok",
+    "ability": "Shed Skin",
+    "sort": 1
+  },
+  {
+    "name": "Arbok",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Pichu",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Pichu",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Pikachu",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Pikachu",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Raichu",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Raichu",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Raichu",
+    "subname": "Alolan Raichu",
+    "ability": "Surge Surfer",
+    "sort": 0
+  },
+  {
+    "name": "Sandshrew",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Sandshrew",
+    "ability": "Sand Rush",
+    "sort": 2
+  },
+  {
+    "name": "Sandshrew",
+    "subname": "Alolan Sandshrew",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Sandshrew",
+    "subname": "Alolan Sandshrew",
+    "ability": "Slush Rush",
+    "sort": 2
+  },
+  {
+    "name": "Sandslash",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Sandslash",
+    "ability": "Sand Rush",
+    "sort": 2
+  },
+  {
+    "name": "Sandslash",
+    "subname": "Alolan Sandslash",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Sandslash",
+    "subname": "Alolan Sandslash",
+    "ability": "Slush Rush",
+    "sort": 2
+  },
+  {
+    "name": "Nidoran♀",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidoran♀",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidoran♀",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Nidorina",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidorina",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidorina",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Nidoqueen",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidoqueen",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidoqueen",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Nidoran♂",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidoran♂",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidoran♂",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Nidorino",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidorino",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidorino",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Nidoking",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Nidoking",
+    "ability": "Rivalry",
+    "sort": 1
+  },
+  {
+    "name": "Nidoking",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Cleffa",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Cleffa",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Cleffa",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Clefairy",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Clefairy",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Clefairy",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Clefable",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Clefable",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Clefable",
+    "ability": "Unaware",
+    "sort": 2
+  },
+  {
+    "name": "Vulpix",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Vulpix",
+    "ability": "Drought",
+    "sort": 2
+  },
+  {
+    "name": "Vulpix",
+    "subname": "Alolan Vulpix",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Vulpix",
+    "subname": "Alolan Vulpix",
+    "ability": "Snow Warning",
+    "sort": 2
+  },
+  {
+    "name": "Ninetales",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Ninetales",
+    "ability": "Drought",
+    "sort": 2
+  },
+  {
+    "name": "Ninetales",
+    "subname": "Alolan Ninetales",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Ninetales",
+    "subname": "Alolan Ninetales",
+    "ability": "Snow Warning",
+    "sort": 2
+  },
+  {
+    "name": "Igglybuff",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Igglybuff",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Igglybuff",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Jigglypuff",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Jigglypuff",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Jigglypuff",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Wigglytuff",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Zubat",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Zubat",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Golbat",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Golbat",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Crobat",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Crobat",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Oddish",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Oddish",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Gloom",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Gloom",
+    "ability": "Stench",
+    "sort": 2
+  },
+  {
+    "name": "Vileplume",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Vileplume",
+    "ability": "Effect Spore",
+    "sort": 2
+  },
+  {
+    "name": "Bellossom",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Bellossom",
+    "ability": "Healer",
+    "sort": 2
+  },
+  {
+    "name": "Paras",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Paras",
+    "ability": "Dry Skin",
+    "sort": 1
+  },
+  {
+    "name": "Paras",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Parasect",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Parasect",
+    "ability": "Dry Skin",
+    "sort": 1
+  },
+  {
+    "name": "Parasect",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Venonat",
+    "ability": "Compound Eyes",
+    "sort": 0
+  },
+  {
+    "name": "Venonat",
+    "ability": "Tinted Lens",
+    "sort": 1
+  },
+  {
+    "name": "Venonat",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Venomoth",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Venomoth",
+    "ability": "Tinted Lens",
+    "sort": 1
+  },
+  {
+    "name": "Venomoth",
+    "ability": "Wonder Skin",
+    "sort": 2
+  },
+  {
+    "name": "Diglett",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Diglett",
+    "ability": "Arena Trap",
+    "sort": 1
+  },
+  {
+    "name": "Diglett",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Diglett",
+    "subname": "Alolan Diglett",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Diglett",
+    "subname": "Alolan Diglett",
+    "ability": "Tangling Hair",
+    "sort": 1
+  },
+  {
+    "name": "Diglett",
+    "subname": "Alolan Diglett",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Dugtrio",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Dugtrio",
+    "ability": "Arena Trap",
+    "sort": 1
+  },
+  {
+    "name": "Dugtrio",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Dugtrio",
+    "subname": "Alolan Dugtrio",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Dugtrio",
+    "subname": "Alolan Dugtrio",
+    "ability": "Tangling Hair",
+    "sort": 1
+  },
+  {
+    "name": "Dugtrio",
+    "subname": "Alolan Dugtrio",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Meowth",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Meowth",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Meowth",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Meowth",
+    "subname": "Alolan Meowth",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Meowth",
+    "subname": "Alolan Meowth",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Meowth",
+    "subname": "Alolan Meowth",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Meowth",
+    "subname": "Galarian Meowth",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Meowth",
+    "subname": "Galarian Meowth",
+    "ability": "Tough Claws",
+    "sort": 1
+  },
+  {
+    "name": "Meowth",
+    "subname": "Galarian Meowth",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Persian",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Persian",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Persian",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Persian",
+    "subname": "Alolan Persian",
+    "ability": "Fur Coat",
+    "sort": 0
+  },
+  {
+    "name": "Persian",
+    "subname": "Alolan Persian",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Persian",
+    "subname": "Alolan Persian",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Perrserker",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Perrserker",
+    "ability": "Tough Claws",
+    "sort": 1
+  },
+  {
+    "name": "Perrserker",
+    "ability": "Steely Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Psyduck",
+    "ability": "Damp",
+    "sort": 0
+  },
+  {
+    "name": "Psyduck",
+    "ability": "Cloud Nine",
+    "sort": 1
+  },
+  {
+    "name": "Psyduck",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Golduck",
+    "ability": "Damp",
+    "sort": 0
+  },
+  {
+    "name": "Golduck",
+    "ability": "Cloud Nine",
+    "sort": 1
+  },
+  {
+    "name": "Golduck",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Mankey",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Mankey",
+    "ability": "Anger Point",
+    "sort": 1
+  },
+  {
+    "name": "Mankey",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Primeape",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Primeape",
+    "ability": "Anger Point",
+    "sort": 1
+  },
+  {
+    "name": "Primeape",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Growlithe",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Growlithe",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Growlithe",
+    "ability": "Justified",
+    "sort": 2
+  },
+  {
+    "name": "Arcanine",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Arcanine",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Arcanine",
+    "ability": "Justified",
+    "sort": 2
+  },
+  {
+    "name": "Poliwag",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Poliwag",
+    "ability": "Damp",
+    "sort": 1
+  },
+  {
+    "name": "Poliwag",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Poliwhirl",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Poliwhirl",
+    "ability": "Damp",
+    "sort": 1
+  },
+  {
+    "name": "Poliwhirl",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Poliwrath",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Poliwrath",
+    "ability": "Damp",
+    "sort": 1
+  },
+  {
+    "name": "Poliwrath",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Politoed",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Politoed",
+    "ability": "Damp",
+    "sort": 1
+  },
+  {
+    "name": "Politoed",
+    "ability": "Drizzle",
+    "sort": 2
+  },
+  {
+    "name": "Abra",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Abra",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Abra",
+    "ability": "Magic Guard",
+    "sort": 2
+  },
+  {
+    "name": "Kadabra",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Kadabra",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Kadabra",
+    "ability": "Magic Guard",
+    "sort": 2
+  },
+  {
+    "name": "Alakazam",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Alakazam",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Alakazam",
+    "ability": "Magic Guard",
+    "sort": 2
+  },
+  {
+    "name": "Alakazam",
+    "subname": "Mega Alakazam",
+    "ability": "Trace",
+    "sort": 0
+  },
+  {
+    "name": "Machop",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Machop",
+    "ability": "No Guard",
+    "sort": 1
+  },
+  {
+    "name": "Machop",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Machoke",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Machoke",
+    "ability": "No Guard",
+    "sort": 1
+  },
+  {
+    "name": "Machoke",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Machamp",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Machamp",
+    "ability": "No Guard",
+    "sort": 1
+  },
+  {
+    "name": "Machamp",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Bellsprout",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Bellsprout",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Weepinbell",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Weepinbell",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Victreebel",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Victreebel",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Tentacool",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Tentacool",
+    "ability": "Liquid Ooze",
+    "sort": 1
+  },
+  {
+    "name": "Tentacool",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Tentacruel",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Tentacruel",
+    "ability": "Liquid Ooze",
+    "sort": 1
+  },
+  {
+    "name": "Tentacruel",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Geodude",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Geodude",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Geodude",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Geodude",
+    "subname": "Alolan Geodude",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Geodude",
+    "subname": "Alolan Geodude",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Geodude",
+    "subname": "Alolan Geodude",
+    "ability": "Galvanize",
+    "sort": 2
+  },
+  {
+    "name": "Graveler",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Graveler",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Graveler",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Graveler",
+    "subname": "Alolan Graveler",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Graveler",
+    "subname": "Alolan Graveler",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Graveler",
+    "subname": "Alolan Graveler",
+    "ability": "Galvanize",
+    "sort": 2
+  },
+  {
+    "name": "Golem",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Golem",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Golem",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Golem",
+    "subname": "Alolan Golem",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Golem",
+    "subname": "Alolan Golem",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Golem",
+    "subname": "Alolan Golem",
+    "ability": "Galvanize",
+    "sort": 2
+  },
+  {
+    "name": "Ponyta",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Ponyta",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Ponyta",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Ponyta",
+    "subname": "Galarian Ponyta",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Ponyta",
+    "subname": "Galarian Ponyta",
+    "ability": "Pastel Veil",
+    "sort": 1
+  },
+  {
+    "name": "Ponyta",
+    "subname": "Galarian Ponyta",
+    "ability": "Anticipation",
+    "sort": 2
+  },
+  {
+    "name": "Rapidash",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Rapidash",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Rapidash",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Rapidash",
+    "subname": "Galarian Rapidash",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Rapidash",
+    "subname": "Galarian Rapidash",
+    "ability": "Pastel Veil",
+    "sort": 1
+  },
+  {
+    "name": "Rapidash",
+    "subname": "Galarian Rapidash",
+    "ability": "Anticipation",
+    "sort": 2
+  },
+  {
+    "name": "Slowpoke",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Slowpoke",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Slowpoke",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Slowpoke",
+    "subname": "Galarian Slowpoke",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Slowpoke",
+    "subname": "Galarian Slowpoke",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Slowpoke",
+    "subname": "Galarian Slowpoke",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Slowbro",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Slowbro",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Slowbro",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Slowbro",
+    "subname": "Mega Slowbro",
+    "ability": "Shell Armor",
+    "sort": 0
+  },
+  {
+    "name": "Slowking",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Slowking",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Slowking",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Magnemite",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Magnemite",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Magnemite",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Magneton",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Magneton",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Magneton",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Magnezone",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Magnezone",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Magnezone",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Farfetch'd",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Farfetch'd",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Farfetch'd",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Farfetch'd",
+    "subname": "Galarian Farfetch'd",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Farfetch'd",
+    "subname": "Galarian Farfetch'd",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Sirfetch'd",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Sirfetch'd",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Doduo",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Doduo",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Doduo",
+    "ability": "Tangled Feet",
+    "sort": 2
+  },
+  {
+    "name": "Dodrio",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Dodrio",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Dodrio",
+    "ability": "Tangled Feet",
+    "sort": 2
+  },
+  {
+    "name": "Seel",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Seel",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Seel",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Dewgong",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Dewgong",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Dewgong",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Grimer",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Grimer",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Grimer",
+    "ability": "Poison Touch",
+    "sort": 2
+  },
+  {
+    "name": "Grimer",
+    "subname": "Alolan Grimer",
+    "ability": "Poison Touch",
+    "sort": 0
+  },
+  {
+    "name": "Grimer",
+    "subname": "Alolan Grimer",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Grimer",
+    "subname": "Alolan Grimer",
+    "ability": "Power of Alchemy",
+    "sort": 2
+  },
+  {
+    "name": "Muk",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Muk",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Muk",
+    "ability": "Poison Touch",
+    "sort": 2
+  },
+  {
+    "name": "Muk",
+    "subname": "Alolan Muk",
+    "ability": "Poison Touch",
+    "sort": 0
+  },
+  {
+    "name": "Muk",
+    "subname": "Alolan Muk",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Muk",
+    "subname": "Alolan Muk",
+    "ability": "Power of Alchemy",
+    "sort": 2
+  },
+  {
+    "name": "Shellder",
+    "ability": "Shell Armor",
+    "sort": 0
+  },
+  {
+    "name": "Shellder",
+    "ability": "Skill Link",
+    "sort": 1
+  },
+  {
+    "name": "Shellder",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Cloyster",
+    "ability": "Shell Armor",
+    "sort": 0
+  },
+  {
+    "name": "Cloyster",
+    "ability": "Skill Link",
+    "sort": 1
+  },
+  {
+    "name": "Cloyster",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Gastly",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Haunter",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Gengar",
+    "ability": "Cursed Body",
+    "sort": 0
+  },
+  {
+    "name": "Gengar",
+    "subname": "Mega Gengar",
+    "ability": "Shadow Tag",
+    "sort": 0
+  },
+  {
+    "name": "Onix",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Onix",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Onix",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Steelix",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Steelix",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Steelix",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Steelix",
+    "subname": "Mega Steelix",
+    "ability": "Sand Force",
+    "sort": 0
+  },
+  {
+    "name": "Drowzee",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Drowzee",
+    "ability": "Forewarn",
+    "sort": 1
+  },
+  {
+    "name": "Drowzee",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Hypno",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Hypno",
+    "ability": "Forewarn",
+    "sort": 1
+  },
+  {
+    "name": "Hypno",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Krabby",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Krabby",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Krabby",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Kingler",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Kingler",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Kingler",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Voltorb",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Voltorb",
+    "ability": "Static",
+    "sort": 1
+  },
+  {
+    "name": "Voltorb",
+    "ability": "Aftermath",
+    "sort": 2
+  },
+  {
+    "name": "Electrode",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Electrode",
+    "ability": "Static",
+    "sort": 1
+  },
+  {
+    "name": "Electrode",
+    "ability": "Aftermath",
+    "sort": 2
+  },
+  {
+    "name": "Exeggcute",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Exeggcute",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Exeggutor",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Exeggutor",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Exeggutor",
+    "subname": "Alolan Exeggutor",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Exeggutor",
+    "subname": "Alolan Exeggutor",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Cubone",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Cubone",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Cubone",
+    "ability": "Battle Armor",
+    "sort": 2
+  },
+  {
+    "name": "Marowak",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Marowak",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Marowak",
+    "ability": "Battle Armor",
+    "sort": 2
+  },
+  {
+    "name": "Marowak",
+    "subname": "Alolan Marowak",
+    "ability": "Cursed Body",
+    "sort": 0
+  },
+  {
+    "name": "Marowak",
+    "subname": "Alolan Marowak",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Marowak",
+    "subname": "Alolan Marowak",
+    "ability": "Rock Head",
+    "sort": 2
+  },
+  {
+    "name": "Tyrogue",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Tyrogue",
+    "ability": "Steadfast",
+    "sort": 1
+  },
+  {
+    "name": "Tyrogue",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Hitmonlee",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Hitmonlee",
+    "ability": "Reckless",
+    "sort": 1
+  },
+  {
+    "name": "Hitmonlee",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Hitmonchan",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Hitmonchan",
+    "ability": "Iron Fist",
+    "sort": 1
+  },
+  {
+    "name": "Hitmonchan",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Hitmontop",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Hitmontop",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Hitmontop",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Lickitung",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Lickitung",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Lickitung",
+    "ability": "Cloud Nine",
+    "sort": 2
+  },
+  {
+    "name": "Lickilicky",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Lickilicky",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Lickilicky",
+    "ability": "Cloud Nine",
+    "sort": 2
+  },
+  {
+    "name": "Koffing",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Koffing",
+    "ability": "Neutralizing Gas",
+    "sort": 1
+  },
+  {
+    "name": "Koffing",
+    "ability": "Stench",
+    "sort": 2
+  },
+  {
+    "name": "Weezing",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Weezing",
+    "ability": "Neutralizing Gas",
+    "sort": 1
+  },
+  {
+    "name": "Weezing",
+    "ability": "Stench",
+    "sort": 2
+  },
+  {
+    "name": "Weezing",
+    "subname": "Galarian Weezing",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Weezing",
+    "subname": "Galarian Weezing",
+    "ability": "Neutralizing Gas",
+    "sort": 1
+  },
+  {
+    "name": "Weezing",
+    "subname": "Galarian Weezing",
+    "ability": "Misty Surge",
+    "sort": 2
+  },
+  {
+    "name": "Rhyhorn",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Rhyhorn",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Rhyhorn",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Rhydon",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Rhydon",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Rhydon",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Rhyperior",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Rhyperior",
+    "ability": "Solid Rock",
+    "sort": 1
+  },
+  {
+    "name": "Rhyperior",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Happiny",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Happiny",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Happiny",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Chansey",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Chansey",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Chansey",
+    "ability": "Healer",
+    "sort": 2
+  },
+  {
+    "name": "Blissey",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Blissey",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Blissey",
+    "ability": "Healer",
+    "sort": 2
+  },
+  {
+    "name": "Tangela",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Tangela",
+    "ability": "Leaf Guard",
+    "sort": 1
+  },
+  {
+    "name": "Tangela",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Tangrowth",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Tangrowth",
+    "ability": "Leaf Guard",
+    "sort": 1
+  },
+  {
+    "name": "Tangrowth",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Kangaskhan",
+    "ability": "Early Bird",
+    "sort": 0
+  },
+  {
+    "name": "Kangaskhan",
+    "ability": "Scrappy",
+    "sort": 1
+  },
+  {
+    "name": "Kangaskhan",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Kangaskhan",
+    "subname": "Mega Kangaskhan",
+    "ability": "Parental Bond",
+    "sort": 0
+  },
+  {
+    "name": "Horsea",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Horsea",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Horsea",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Seadra",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Seadra",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Seadra",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Kingdra",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Kingdra",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Kingdra",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Goldeen",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Goldeen",
+    "ability": "Water Veil",
+    "sort": 1
+  },
+  {
+    "name": "Goldeen",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Seaking",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Seaking",
+    "ability": "Water Veil",
+    "sort": 1
+  },
+  {
+    "name": "Seaking",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Staryu",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Staryu",
+    "ability": "Natural Cure",
+    "sort": 1
+  },
+  {
+    "name": "Staryu",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Starmie",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Starmie",
+    "ability": "Natural Cure",
+    "sort": 1
+  },
+  {
+    "name": "Starmie",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Mime Jr.",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Mime Jr.",
+    "ability": "Filter",
+    "sort": 1
+  },
+  {
+    "name": "Mime Jr.",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Mr. Mime",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Mr. Mime",
+    "ability": "Filter",
+    "sort": 1
+  },
+  {
+    "name": "Mr. Mime",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Mr. Mime",
+    "subname": "Galarian Mr. Mime",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Mr. Mime",
+    "subname": "Galarian Mr. Mime",
+    "ability": "Screen Cleaner",
+    "sort": 1
+  },
+  {
+    "name": "Mr. Mime",
+    "subname": "Galarian Mr. Mime",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Mr. Rime",
+    "ability": "Tangled Feet",
+    "sort": 0
+  },
+  {
+    "name": "Mr. Rime",
+    "ability": "Screen Cleaner",
+    "sort": 1
+  },
+  {
+    "name": "Mr. Rime",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Scyther",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Scyther",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Scyther",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Scizor",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Scizor",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Scizor",
+    "ability": "Light Metal",
+    "sort": 2
+  },
+  {
+    "name": "Scizor",
+    "subname": "Mega Scizor",
+    "ability": "Technician",
+    "sort": 0
+  },
+  {
+    "name": "Smoochum",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Smoochum",
+    "ability": "Forewarn",
+    "sort": 1
+  },
+  {
+    "name": "Smoochum",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Jynx",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Jynx",
+    "ability": "Forewarn",
+    "sort": 1
+  },
+  {
+    "name": "Jynx",
+    "ability": "Dry Skin",
+    "sort": 2
+  },
+  {
+    "name": "Elekid",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Elekid",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Electabuzz",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Electabuzz",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Electivire",
+    "ability": "Motor Drive",
+    "sort": 0
+  },
+  {
+    "name": "Electivire",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Magby",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Magby",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Magmar",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Magmar",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Magmortar",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Magmortar",
+    "ability": "Vital Spirit",
+    "sort": 2
+  },
+  {
+    "name": "Pinsir",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Pinsir",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Pinsir",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Pinsir",
+    "subname": "Mega Pinsir",
+    "ability": "Aerilate",
+    "sort": 0
+  },
+  {
+    "name": "Tauros",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Tauros",
+    "ability": "Anger Point",
+    "sort": 1
+  },
+  {
+    "name": "Tauros",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Magikarp",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Magikarp",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Gyarados",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Gyarados",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Gyarados",
+    "subname": "Mega Gyarados",
+    "ability": "Mold Breaker",
+    "sort": 0
+  },
+  {
+    "name": "Lapras",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Lapras",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Lapras",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Ditto",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Ditto",
+    "ability": "Imposter",
+    "sort": 2
+  },
+  {
+    "name": "Eevee",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Eevee",
+    "ability": "Adaptability",
+    "sort": 1
+  },
+  {
+    "name": "Eevee",
+    "ability": "Anticipation",
+    "sort": 2
+  },
+  {
+    "name": "Vaporeon",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Vaporeon",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Jolteon",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Jolteon",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Flareon",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Flareon",
+    "ability": "Guts",
+    "sort": 2
+  },
+  {
+    "name": "Espeon",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Espeon",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Umbreon",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Umbreon",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Leafeon",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Leafeon",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Glaceon",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Glaceon",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Sylveon",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Sylveon",
+    "ability": "Pixilate",
+    "sort": 2
+  },
+  {
+    "name": "Porygon",
+    "ability": "Trace",
+    "sort": 0
+  },
+  {
+    "name": "Porygon",
+    "ability": "Download",
+    "sort": 1
+  },
+  {
+    "name": "Porygon",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Porygon2",
+    "ability": "Trace",
+    "sort": 0
+  },
+  {
+    "name": "Porygon2",
+    "ability": "Download",
+    "sort": 1
+  },
+  {
+    "name": "Porygon2",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Porygon-Z",
+    "ability": "Adaptability",
+    "sort": 0
+  },
+  {
+    "name": "Porygon-Z",
+    "ability": "Download",
+    "sort": 1
+  },
+  {
+    "name": "Porygon-Z",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Omanyte",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Omanyte",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Omanyte",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Omastar",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Omastar",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Omastar",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Kabuto",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Kabuto",
+    "ability": "Battle Armor",
+    "sort": 1
+  },
+  {
+    "name": "Kabuto",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Kabutops",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Kabutops",
+    "ability": "Battle Armor",
+    "sort": 1
+  },
+  {
+    "name": "Kabutops",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Aerodactyl",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Aerodactyl",
+    "ability": "Pressure",
+    "sort": 1
+  },
+  {
+    "name": "Aerodactyl",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Aerodactyl",
+    "subname": "Mega Aerodactyl",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Munchlax",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Munchlax",
+    "ability": "Thick Fat",
+    "sort": 1
+  },
+  {
+    "name": "Munchlax",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Snorlax",
+    "ability": "Immunity",
+    "sort": 0
+  },
+  {
+    "name": "Snorlax",
+    "ability": "Thick Fat",
+    "sort": 1
+  },
+  {
+    "name": "Snorlax",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Articuno",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Articuno",
+    "ability": "Snow Cloak",
+    "sort": 2
+  },
+  {
+    "name": "Zapdos",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Zapdos",
+    "ability": "Static",
+    "sort": 2
+  },
+  {
+    "name": "Moltres",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Moltres",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Dratini",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Dratini",
+    "ability": "Marvel Scale",
+    "sort": 2
+  },
+  {
+    "name": "Dragonair",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Dragonair",
+    "ability": "Marvel Scale",
+    "sort": 2
+  },
+  {
+    "name": "Dragonite",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Dragonite",
+    "ability": "Multiscale",
+    "sort": 2
+  },
+  {
+    "name": "Mewtwo",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Mewtwo",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Mewtwo",
+    "subname": "Mega Mewtwo X",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Mewtwo",
+    "subname": "Mega Mewtwo Y",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Mew",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Chikorita",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Chikorita",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Bayleef",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Bayleef",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Meganium",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Meganium",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Cyndaquil",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Cyndaquil",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Quilava",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Quilava",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Typhlosion",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Typhlosion",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Totodile",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Totodile",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Croconaw",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Croconaw",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Feraligatr",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Feraligatr",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Sentret",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Sentret",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Sentret",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Furret",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Furret",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Furret",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Hoothoot",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Hoothoot",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Hoothoot",
+    "ability": "Tinted Lens",
+    "sort": 2
+  },
+  {
+    "name": "Noctowl",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Noctowl",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Noctowl",
+    "ability": "Tinted Lens",
+    "sort": 2
+  },
+  {
+    "name": "Ledyba",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Ledyba",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Ledyba",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Ledian",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Ledian",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Ledian",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Spinarak",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Spinarak",
+    "ability": "Insomnia",
+    "sort": 1
+  },
+  {
+    "name": "Spinarak",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Ariados",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Ariados",
+    "ability": "Insomnia",
+    "sort": 1
+  },
+  {
+    "name": "Ariados",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Chinchou",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Chinchou",
+    "ability": "Illuminate",
+    "sort": 1
+  },
+  {
+    "name": "Chinchou",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Lanturn",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Lanturn",
+    "ability": "Illuminate",
+    "sort": 1
+  },
+  {
+    "name": "Lanturn",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Togepi",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Togepi",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Togepi",
+    "ability": "Super Luck",
+    "sort": 2
+  },
+  {
+    "name": "Togetic",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Togetic",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Togetic",
+    "ability": "Super Luck",
+    "sort": 2
+  },
+  {
+    "name": "Togekiss",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Togekiss",
+    "ability": "Serene Grace",
+    "sort": 1
+  },
+  {
+    "name": "Togekiss",
+    "ability": "Super Luck",
+    "sort": 2
+  },
+  {
+    "name": "Natu",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Natu",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Natu",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Xatu",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Xatu",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Xatu",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Mareep",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Mareep",
+    "ability": "Plus",
+    "sort": 2
+  },
+  {
+    "name": "Flaaffy",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Flaaffy",
+    "ability": "Plus",
+    "sort": 2
+  },
+  {
+    "name": "Ampharos",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Ampharos",
+    "ability": "Plus",
+    "sort": 2
+  },
+  {
+    "name": "Ampharos",
+    "subname": "Mega Ampharos",
+    "ability": "Mold Breaker",
+    "sort": 0
+  },
+  {
+    "name": "Azurill",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Azurill",
+    "ability": "Huge Power",
+    "sort": 1
+  },
+  {
+    "name": "Azurill",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Marill",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Marill",
+    "ability": "Huge Power",
+    "sort": 1
+  },
+  {
+    "name": "Marill",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Azumarill",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Azumarill",
+    "ability": "Huge Power",
+    "sort": 1
+  },
+  {
+    "name": "Azumarill",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Bonsly",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Bonsly",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Bonsly",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Sudowoodo",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Sudowoodo",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Sudowoodo",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Hoppip",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Hoppip",
+    "ability": "Leaf Guard",
+    "sort": 1
+  },
+  {
+    "name": "Hoppip",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Skiploom",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Skiploom",
+    "ability": "Leaf Guard",
+    "sort": 1
+  },
+  {
+    "name": "Skiploom",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Jumpluff",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Jumpluff",
+    "ability": "Leaf Guard",
+    "sort": 1
+  },
+  {
+    "name": "Jumpluff",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Aipom",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Aipom",
+    "ability": "Pickup",
+    "sort": 1
+  },
+  {
+    "name": "Aipom",
+    "ability": "Skill Link",
+    "sort": 2
+  },
+  {
+    "name": "Ambipom",
+    "ability": "Technician",
+    "sort": 0
+  },
+  {
+    "name": "Ambipom",
+    "ability": "Pickup",
+    "sort": 1
+  },
+  {
+    "name": "Ambipom",
+    "ability": "Skill Link",
+    "sort": 2
+  },
+  {
+    "name": "Sunkern",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sunkern",
+    "ability": "Solar Power",
+    "sort": 1
+  },
+  {
+    "name": "Sunkern",
+    "ability": "Early Bird",
+    "sort": 2
+  },
+  {
+    "name": "Sunflora",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sunflora",
+    "ability": "Solar Power",
+    "sort": 1
+  },
+  {
+    "name": "Sunflora",
+    "ability": "Early Bird",
+    "sort": 2
+  },
+  {
+    "name": "Yanma",
+    "ability": "Speed Boost",
+    "sort": 0
+  },
+  {
+    "name": "Yanma",
+    "ability": "Compound Eyes",
+    "sort": 1
+  },
+  {
+    "name": "Yanma",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Yanmega",
+    "ability": "Speed Boost",
+    "sort": 0
+  },
+  {
+    "name": "Yanmega",
+    "ability": "Tinted Lens",
+    "sort": 1
+  },
+  {
+    "name": "Yanmega",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Wooper",
+    "ability": "Damp",
+    "sort": 0
+  },
+  {
+    "name": "Wooper",
+    "ability": "Water Absorb",
+    "sort": 1
+  },
+  {
+    "name": "Wooper",
+    "ability": "Unaware",
+    "sort": 2
+  },
+  {
+    "name": "Quagsire",
+    "ability": "Damp",
+    "sort": 0
+  },
+  {
+    "name": "Quagsire",
+    "ability": "Water Absorb",
+    "sort": 1
+  },
+  {
+    "name": "Quagsire",
+    "ability": "Unaware",
+    "sort": 2
+  },
+  {
+    "name": "Murkrow",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Murkrow",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Murkrow",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Honchkrow",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Honchkrow",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Honchkrow",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Misdreavus",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Mismagius",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Unown",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Wynaut",
+    "ability": "Shadow Tag",
+    "sort": 0
+  },
+  {
+    "name": "Wynaut",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Wobbuffet",
+    "ability": "Shadow Tag",
+    "sort": 0
+  },
+  {
+    "name": "Wobbuffet",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Girafarig",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Girafarig",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Girafarig",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Pineco",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Pineco",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Forretress",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Forretress",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Dunsparce",
+    "ability": "Serene Grace",
+    "sort": 0
+  },
+  {
+    "name": "Dunsparce",
+    "ability": "Run Away",
+    "sort": 1
+  },
+  {
+    "name": "Dunsparce",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Gligar",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Gligar",
+    "ability": "Sand Veil",
+    "sort": 1
+  },
+  {
+    "name": "Gligar",
+    "ability": "Immunity",
+    "sort": 2
+  },
+  {
+    "name": "Gliscor",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Gliscor",
+    "ability": "Sand Veil",
+    "sort": 1
+  },
+  {
+    "name": "Gliscor",
+    "ability": "Poison Heal",
+    "sort": 2
+  },
+  {
+    "name": "Snubbull",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Snubbull",
+    "ability": "Run Away",
+    "sort": 1
+  },
+  {
+    "name": "Snubbull",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Granbull",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Granbull",
+    "ability": "Quick Feet",
+    "sort": 1
+  },
+  {
+    "name": "Granbull",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Qwilfish",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Qwilfish",
+    "ability": "Swift Swim",
+    "sort": 1
+  },
+  {
+    "name": "Qwilfish",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Shuckle",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Shuckle",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Shuckle",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Heracross",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Heracross",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Heracross",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Heracross",
+    "subname": "Mega Heracross",
+    "ability": "Skill Link",
+    "sort": 0
+  },
+  {
+    "name": "Sneasel",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Sneasel",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Sneasel",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Weavile",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Weavile",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Teddiursa",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Teddiursa",
+    "ability": "Quick Feet",
+    "sort": 1
+  },
+  {
+    "name": "Teddiursa",
+    "ability": "Honey Gather",
+    "sort": 2
+  },
+  {
+    "name": "Ursaring",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Ursaring",
+    "ability": "Quick Feet",
+    "sort": 1
+  },
+  {
+    "name": "Ursaring",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Slugma",
+    "ability": "Magma Armor",
+    "sort": 0
+  },
+  {
+    "name": "Slugma",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Slugma",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Magcargo",
+    "ability": "Magma Armor",
+    "sort": 0
+  },
+  {
+    "name": "Magcargo",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Magcargo",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Swinub",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Swinub",
+    "ability": "Snow Cloak",
+    "sort": 1
+  },
+  {
+    "name": "Swinub",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Piloswine",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Piloswine",
+    "ability": "Snow Cloak",
+    "sort": 1
+  },
+  {
+    "name": "Piloswine",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Mamoswine",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Mamoswine",
+    "ability": "Snow Cloak",
+    "sort": 1
+  },
+  {
+    "name": "Mamoswine",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Corsola",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Corsola",
+    "ability": "Natural Cure",
+    "sort": 1
+  },
+  {
+    "name": "Corsola",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Corsola",
+    "subname": "Galarian Corsola",
+    "ability": "Weak Armor",
+    "sort": 0
+  },
+  {
+    "name": "Corsola",
+    "subname": "Galarian Corsola",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Cursola",
+    "ability": "Weak Armor",
+    "sort": 0
+  },
+  {
+    "name": "Cursola",
+    "ability": "Perish Body",
+    "sort": 2
+  },
+  {
+    "name": "Remoraid",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Remoraid",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Remoraid",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Octillery",
+    "ability": "Suction Cups",
+    "sort": 0
+  },
+  {
+    "name": "Octillery",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Octillery",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Delibird",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Delibird",
+    "ability": "Hustle",
+    "sort": 1
+  },
+  {
+    "name": "Delibird",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Mantyke",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Mantyke",
+    "ability": "Water Absorb",
+    "sort": 1
+  },
+  {
+    "name": "Mantyke",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Mantine",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Mantine",
+    "ability": "Water Absorb",
+    "sort": 1
+  },
+  {
+    "name": "Mantine",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Skarmory",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Skarmory",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Skarmory",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Houndour",
+    "ability": "Early Bird",
+    "sort": 0
+  },
+  {
+    "name": "Houndour",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Houndour",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Houndoom",
+    "ability": "Early Bird",
+    "sort": 0
+  },
+  {
+    "name": "Houndoom",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Houndoom",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Houndoom",
+    "subname": "Mega Houndoom",
+    "ability": "Solar Power",
+    "sort": 0
+  },
+  {
+    "name": "Phanpy",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Phanpy",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Donphan",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Donphan",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Stantler",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Stantler",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Stantler",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Smeargle",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Smeargle",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Smeargle",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Miltank",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Miltank",
+    "ability": "Scrappy",
+    "sort": 1
+  },
+  {
+    "name": "Miltank",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Raikou",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Raikou",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Entei",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Entei",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Suicune",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Suicune",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Larvitar",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Larvitar",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Pupitar",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Tyranitar",
+    "ability": "Sand Stream",
+    "sort": 0
+  },
+  {
+    "name": "Tyranitar",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Tyranitar",
+    "subname": "Mega Tyranitar",
+    "ability": "Sand Stream",
+    "sort": 0
+  },
+  {
+    "name": "Lugia",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Lugia",
+    "ability": "Multiscale",
+    "sort": 2
+  },
+  {
+    "name": "Ho-Oh",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Ho-Oh",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Celebi",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Treecko",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Treecko",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Grovyle",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Grovyle",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Sceptile",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Sceptile",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Sceptile",
+    "subname": "Mega Sceptile",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Torchic",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Torchic",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Combusken",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Combusken",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Blaziken",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Blaziken",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Blaziken",
+    "subname": "Mega Blaziken",
+    "ability": "Speed Boost",
+    "sort": 0
+  },
+  {
+    "name": "Mudkip",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Mudkip",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Marshtomp",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Marshtomp",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Swampert",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Swampert",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Swampert",
+    "subname": "Mega Swampert",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Poochyena",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Poochyena",
+    "ability": "Quick Feet",
+    "sort": 1
+  },
+  {
+    "name": "Poochyena",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Mightyena",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Mightyena",
+    "ability": "Quick Feet",
+    "sort": 1
+  },
+  {
+    "name": "Mightyena",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Zigzagoon",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Zigzagoon",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Zigzagoon",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Zigzagoon",
+    "subname": "Galarian Zigzagoon",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Zigzagoon",
+    "subname": "Galarian Zigzagoon",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Zigzagoon",
+    "subname": "Galarian Zigzagoon",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Linoone",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Linoone",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Linoone",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Linoone",
+    "subname": "Galarian Linoone",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Linoone",
+    "subname": "Galarian Linoone",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Linoone",
+    "subname": "Galarian Linoone",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Obstagoon",
+    "ability": "Reckless",
+    "sort": 0
+  },
+  {
+    "name": "Obstagoon",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Obstagoon",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Wurmple",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Wurmple",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Silcoon",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Beautifly",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Beautifly",
+    "ability": "Rivalry",
+    "sort": 2
+  },
+  {
+    "name": "Cascoon",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Dustox",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Dustox",
+    "ability": "Compound Eyes",
+    "sort": 2
+  },
+  {
+    "name": "Lotad",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Lotad",
+    "ability": "Rain Dish",
+    "sort": 1
+  },
+  {
+    "name": "Lotad",
+    "ability": "Own Tempo",
+    "sort": 2
+  },
+  {
+    "name": "Lombre",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Lombre",
+    "ability": "Rain Dish",
+    "sort": 1
+  },
+  {
+    "name": "Lombre",
+    "ability": "Own Tempo",
+    "sort": 2
+  },
+  {
+    "name": "Ludicolo",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Ludicolo",
+    "ability": "Rain Dish",
+    "sort": 1
+  },
+  {
+    "name": "Ludicolo",
+    "ability": "Own Tempo",
+    "sort": 2
+  },
+  {
+    "name": "Seedot",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Seedot",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Seedot",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Nuzleaf",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Nuzleaf",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Nuzleaf",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Shiftry",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Shiftry",
+    "ability": "Early Bird",
+    "sort": 1
+  },
+  {
+    "name": "Shiftry",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Taillow",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Taillow",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Swellow",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Swellow",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Wingull",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Wingull",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Wingull",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Pelipper",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Pelipper",
+    "ability": "Drizzle",
+    "sort": 1
+  },
+  {
+    "name": "Pelipper",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Ralts",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Ralts",
+    "ability": "Trace",
+    "sort": 1
+  },
+  {
+    "name": "Ralts",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Kirlia",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Kirlia",
+    "ability": "Trace",
+    "sort": 1
+  },
+  {
+    "name": "Kirlia",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Gardevoir",
+    "ability": "Synchronize",
+    "sort": 0
+  },
+  {
+    "name": "Gardevoir",
+    "ability": "Trace",
+    "sort": 1
+  },
+  {
+    "name": "Gardevoir",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Gardevoir",
+    "subname": "Mega Gardevoir",
+    "ability": "Pixilate",
+    "sort": 0
+  },
+  {
+    "name": "Gallade",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Gallade",
+    "ability": "Justified",
+    "sort": 2
+  },
+  {
+    "name": "Gallade",
+    "subname": "Mega Gallade",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Surskit",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Surskit",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Masquerain",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Masquerain",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Shroomish",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Shroomish",
+    "ability": "Poison Heal",
+    "sort": 1
+  },
+  {
+    "name": "Shroomish",
+    "ability": "Quick Feet",
+    "sort": 2
+  },
+  {
+    "name": "Breloom",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Breloom",
+    "ability": "Poison Heal",
+    "sort": 1
+  },
+  {
+    "name": "Breloom",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Slakoth",
+    "ability": "Truant",
+    "sort": 0
+  },
+  {
+    "name": "Vigoroth",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Slaking",
+    "ability": "Truant",
+    "sort": 0
+  },
+  {
+    "name": "Nincada",
+    "ability": "Compound Eyes",
+    "sort": 0
+  },
+  {
+    "name": "Nincada",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Ninjask",
+    "ability": "Speed Boost",
+    "sort": 0
+  },
+  {
+    "name": "Ninjask",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Shedinja",
+    "ability": "Wonder Guard",
+    "sort": 0
+  },
+  {
+    "name": "Whismur",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Whismur",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Loudred",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Loudred",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Exploud",
+    "ability": "Soundproof",
+    "sort": 0
+  },
+  {
+    "name": "Exploud",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Makuhita",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Makuhita",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Makuhita",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Hariyama",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Hariyama",
+    "ability": "Guts",
+    "sort": 1
+  },
+  {
+    "name": "Hariyama",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Nosepass",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Nosepass",
+    "ability": "Magnet Pull",
+    "sort": 1
+  },
+  {
+    "name": "Nosepass",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Probopass",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Probopass",
+    "ability": "Magnet Pull",
+    "sort": 1
+  },
+  {
+    "name": "Probopass",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Skitty",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Skitty",
+    "ability": "Normalize",
+    "sort": 1
+  },
+  {
+    "name": "Skitty",
+    "ability": "Wonder Skin",
+    "sort": 2
+  },
+  {
+    "name": "Delcatty",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Delcatty",
+    "ability": "Normalize",
+    "sort": 1
+  },
+  {
+    "name": "Delcatty",
+    "ability": "Wonder Skin",
+    "sort": 2
+  },
+  {
+    "name": "Sableye",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Sableye",
+    "ability": "Stall",
+    "sort": 1
+  },
+  {
+    "name": "Sableye",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Sableye",
+    "subname": "Mega Sableye",
+    "ability": "Magic Bounce",
+    "sort": 0
+  },
+  {
+    "name": "Mawile",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Mawile",
+    "ability": "Intimidate",
+    "sort": 1
+  },
+  {
+    "name": "Mawile",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Mawile",
+    "subname": "Mega Mawile",
+    "ability": "Huge Power",
+    "sort": 0
+  },
+  {
+    "name": "Aron",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Aron",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Aron",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Lairon",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Lairon",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Lairon",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Aggron",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Aggron",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Aggron",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Aggron",
+    "subname": "Mega Aggron",
+    "ability": "Filter",
+    "sort": 0
+  },
+  {
+    "name": "Meditite",
+    "ability": "Pure Power",
+    "sort": 0
+  },
+  {
+    "name": "Meditite",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Medicham",
+    "ability": "Pure Power",
+    "sort": 0
+  },
+  {
+    "name": "Medicham",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Medicham",
+    "subname": "Mega Medicham",
+    "ability": "Pure Power",
+    "sort": 0
+  },
+  {
+    "name": "Electrike",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Electrike",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Electrike",
+    "ability": "Minus",
+    "sort": 2
+  },
+  {
+    "name": "Manectric",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Manectric",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Manectric",
+    "ability": "Minus",
+    "sort": 2
+  },
+  {
+    "name": "Manectric",
+    "subname": "Mega Manectric",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Plusle",
+    "ability": "Plus",
+    "sort": 0
+  },
+  {
+    "name": "Plusle",
+    "ability": "Lightning Rod",
+    "sort": 2
+  },
+  {
+    "name": "Minun",
+    "ability": "Minus",
+    "sort": 0
+  },
+  {
+    "name": "Minun",
+    "ability": "Volt Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Volbeat",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Volbeat",
+    "ability": "Swarm",
+    "sort": 1
+  },
+  {
+    "name": "Volbeat",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Illumise",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Illumise",
+    "ability": "Tinted Lens",
+    "sort": 1
+  },
+  {
+    "name": "Illumise",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Budew",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Budew",
+    "ability": "Poison Point",
+    "sort": 1
+  },
+  {
+    "name": "Budew",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Roselia",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Roselia",
+    "ability": "Poison Point",
+    "sort": 1
+  },
+  {
+    "name": "Roselia",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Roserade",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Roserade",
+    "ability": "Poison Point",
+    "sort": 1
+  },
+  {
+    "name": "Roserade",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Gulpin",
+    "ability": "Liquid Ooze",
+    "sort": 0
+  },
+  {
+    "name": "Gulpin",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Gulpin",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Swalot",
+    "ability": "Liquid Ooze",
+    "sort": 0
+  },
+  {
+    "name": "Swalot",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Swalot",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Carvanha",
+    "ability": "Rough Skin",
+    "sort": 0
+  },
+  {
+    "name": "Carvanha",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Sharpedo",
+    "ability": "Rough Skin",
+    "sort": 0
+  },
+  {
+    "name": "Sharpedo",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Sharpedo",
+    "subname": "Mega Sharpedo",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Wailmer",
+    "ability": "Water Veil",
+    "sort": 0
+  },
+  {
+    "name": "Wailmer",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Wailmer",
+    "ability": "Pressure",
+    "sort": 2
+  },
+  {
+    "name": "Wailord",
+    "ability": "Water Veil",
+    "sort": 0
+  },
+  {
+    "name": "Wailord",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Wailord",
+    "ability": "Pressure",
+    "sort": 2
+  },
+  {
+    "name": "Numel",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Numel",
+    "ability": "Simple",
+    "sort": 1
+  },
+  {
+    "name": "Numel",
+    "ability": "Own Tempo",
+    "sort": 2
+  },
+  {
+    "name": "Camerupt",
+    "ability": "Magma Armor",
+    "sort": 0
+  },
+  {
+    "name": "Camerupt",
+    "ability": "Solid Rock",
+    "sort": 1
+  },
+  {
+    "name": "Camerupt",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Camerupt",
+    "subname": "Mega Camerupt",
+    "ability": "Sheer Force",
+    "sort": 0
+  },
+  {
+    "name": "Torkoal",
+    "ability": "White Smoke",
+    "sort": 0
+  },
+  {
+    "name": "Torkoal",
+    "ability": "Drought",
+    "sort": 1
+  },
+  {
+    "name": "Torkoal",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Spoink",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Spoink",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Spoink",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Grumpig",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Grumpig",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Grumpig",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Spinda",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Spinda",
+    "ability": "Tangled Feet",
+    "sort": 1
+  },
+  {
+    "name": "Spinda",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Trapinch",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Trapinch",
+    "ability": "Arena Trap",
+    "sort": 1
+  },
+  {
+    "name": "Trapinch",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Vibrava",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Flygon",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Cacnea",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Cacnea",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Cacturne",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Cacturne",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Swablu",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Swablu",
+    "ability": "Cloud Nine",
+    "sort": 2
+  },
+  {
+    "name": "Altaria",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Altaria",
+    "ability": "Cloud Nine",
+    "sort": 2
+  },
+  {
+    "name": "Altaria",
+    "subname": "Mega Altaria",
+    "ability": "Pixilate",
+    "sort": 0
+  },
+  {
+    "name": "Zangoose",
+    "ability": "Immunity",
+    "sort": 0
+  },
+  {
+    "name": "Zangoose",
+    "ability": "Toxic Boost",
+    "sort": 2
+  },
+  {
+    "name": "Seviper",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Seviper",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Lunatone",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Solrock",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Barboach",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Barboach",
+    "ability": "Anticipation",
+    "sort": 1
+  },
+  {
+    "name": "Barboach",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Whiscash",
+    "ability": "Oblivious",
+    "sort": 0
+  },
+  {
+    "name": "Whiscash",
+    "ability": "Anticipation",
+    "sort": 1
+  },
+  {
+    "name": "Whiscash",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Corphish",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Corphish",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Corphish",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Crawdaunt",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Crawdaunt",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Crawdaunt",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Baltoy",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Claydol",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Lileep",
+    "ability": "Suction Cups",
+    "sort": 0
+  },
+  {
+    "name": "Lileep",
+    "ability": "Storm Drain",
+    "sort": 2
+  },
+  {
+    "name": "Cradily",
+    "ability": "Suction Cups",
+    "sort": 0
+  },
+  {
+    "name": "Cradily",
+    "ability": "Storm Drain",
+    "sort": 2
+  },
+  {
+    "name": "Anorith",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Anorith",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Armaldo",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Armaldo",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Feebas",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Feebas",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Feebas",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Milotic",
+    "ability": "Marvel Scale",
+    "sort": 0
+  },
+  {
+    "name": "Milotic",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Milotic",
+    "ability": "Cute Charm",
+    "sort": 2
+  },
+  {
+    "name": "Castform",
+    "ability": "Forecast",
+    "sort": 0
+  },
+  {
+    "name": "Castform",
+    "subname": "Sunny Form",
+    "ability": "Forecast",
+    "sort": 0
+  },
+  {
+    "name": "Castform",
+    "subname": "Rainy Form",
+    "ability": "Forecast",
+    "sort": 0
+  },
+  {
+    "name": "Castform",
+    "subname": "Snowy Form",
+    "ability": "Forecast",
+    "sort": 0
+  },
+  {
+    "name": "Kecleon",
+    "ability": "Color Change",
+    "sort": 0
+  },
+  {
+    "name": "Kecleon",
+    "ability": "Protean",
+    "sort": 2
+  },
+  {
+    "name": "Shuppet",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Shuppet",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Shuppet",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Banette",
+    "ability": "Insomnia",
+    "sort": 0
+  },
+  {
+    "name": "Banette",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Banette",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Banette",
+    "subname": "Mega Banette",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Duskull",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Duskull",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Dusclops",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Dusclops",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Dusknoir",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Dusknoir",
+    "ability": "Frisk",
+    "sort": 2
+  },
+  {
+    "name": "Tropius",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Tropius",
+    "ability": "Solar Power",
+    "sort": 1
+  },
+  {
+    "name": "Tropius",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Chingling",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Chimecho",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Absol",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Absol",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Absol",
+    "ability": "Justified",
+    "sort": 2
+  },
+  {
+    "name": "Absol",
+    "subname": "Mega Absol",
+    "ability": "Magic Bounce",
+    "sort": 0
+  },
+  {
+    "name": "Snorunt",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Snorunt",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Snorunt",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Glalie",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Glalie",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Glalie",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Glalie",
+    "subname": "Mega Glalie",
+    "ability": "Refrigerate",
+    "sort": 0
+  },
+  {
+    "name": "Froslass",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Froslass",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Spheal",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Spheal",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Spheal",
+    "ability": "Oblivious",
+    "sort": 2
+  },
+  {
+    "name": "Sealeo",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Sealeo",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Sealeo",
+    "ability": "Oblivious",
+    "sort": 2
+  },
+  {
+    "name": "Walrein",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Walrein",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Walrein",
+    "ability": "Oblivious",
+    "sort": 2
+  },
+  {
+    "name": "Clamperl",
+    "ability": "Shell Armor",
+    "sort": 0
+  },
+  {
+    "name": "Clamperl",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Huntail",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Huntail",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Gorebyss",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Gorebyss",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Relicanth",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Relicanth",
+    "ability": "Rock Head",
+    "sort": 1
+  },
+  {
+    "name": "Relicanth",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Luvdisc",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Luvdisc",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Bagon",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Bagon",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Shelgon",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Shelgon",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Salamence",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Salamence",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Salamence",
+    "subname": "Mega Salamence",
+    "ability": "Aerilate",
+    "sort": 0
+  },
+  {
+    "name": "Beldum",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Beldum",
+    "ability": "Light Metal",
+    "sort": 2
+  },
+  {
+    "name": "Metang",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Metang",
+    "ability": "Light Metal",
+    "sort": 2
+  },
+  {
+    "name": "Metagross",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Metagross",
+    "ability": "Light Metal",
+    "sort": 2
+  },
+  {
+    "name": "Metagross",
+    "subname": "Mega Metagross",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Regirock",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Regirock",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Regice",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Regice",
+    "ability": "Ice Body",
+    "sort": 2
+  },
+  {
+    "name": "Registeel",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Registeel",
+    "ability": "Light Metal",
+    "sort": 2
+  },
+  {
+    "name": "Latias",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Latias",
+    "subname": "Mega Latias",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Latios",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Latios",
+    "subname": "Mega Latios",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Kyogre",
+    "ability": "Drizzle",
+    "sort": 0
+  },
+  {
+    "name": "Kyogre",
+    "subname": "Primal Kyogre",
+    "ability": "Primordial Sea",
+    "sort": 0
+  },
+  {
+    "name": "Groudon",
+    "ability": "Drought",
+    "sort": 0
+  },
+  {
+    "name": "Groudon",
+    "subname": "Primal Groudon",
+    "ability": "Desolate Land",
+    "sort": 0
+  },
+  {
+    "name": "Rayquaza",
+    "ability": "Air Lock",
+    "sort": 0
+  },
+  {
+    "name": "Rayquaza",
+    "subname": "Mega Rayquaza",
+    "ability": "Delta Stream",
+    "sort": 0
+  },
+  {
+    "name": "Jirachi",
+    "ability": "Serene Grace",
+    "sort": 0
+  },
+  {
+    "name": "Deoxys",
+    "subname": "Normal Forme",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Deoxys",
+    "subname": "Attack Forme",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Deoxys",
+    "subname": "Defense Forme",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Deoxys",
+    "subname": "Speed Forme",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Turtwig",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Turtwig",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Grotle",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Grotle",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Torterra",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Torterra",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Chimchar",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Chimchar",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Monferno",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Monferno",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Infernape",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Infernape",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Piplup",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Piplup",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Prinplup",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Prinplup",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Empoleon",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Empoleon",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Starly",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Starly",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Staravia",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Staravia",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Staraptor",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Staraptor",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Bidoof",
+    "ability": "Simple",
+    "sort": 0
+  },
+  {
+    "name": "Bidoof",
+    "ability": "Unaware",
+    "sort": 1
+  },
+  {
+    "name": "Bidoof",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Bibarel",
+    "ability": "Simple",
+    "sort": 0
+  },
+  {
+    "name": "Bibarel",
+    "ability": "Unaware",
+    "sort": 1
+  },
+  {
+    "name": "Bibarel",
+    "ability": "Moody",
+    "sort": 2
+  },
+  {
+    "name": "Kricketot",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Kricketot",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Kricketune",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Kricketune",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Shinx",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Shinx",
+    "ability": "Intimidate",
+    "sort": 1
+  },
+  {
+    "name": "Shinx",
+    "ability": "Guts",
+    "sort": 2
+  },
+  {
+    "name": "Luxio",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Luxio",
+    "ability": "Intimidate",
+    "sort": 1
+  },
+  {
+    "name": "Luxio",
+    "ability": "Guts",
+    "sort": 2
+  },
+  {
+    "name": "Luxray",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Luxray",
+    "ability": "Intimidate",
+    "sort": 1
+  },
+  {
+    "name": "Luxray",
+    "ability": "Guts",
+    "sort": 2
+  },
+  {
+    "name": "Cranidos",
+    "ability": "Mold Breaker",
+    "sort": 0
+  },
+  {
+    "name": "Cranidos",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Rampardos",
+    "ability": "Mold Breaker",
+    "sort": 0
+  },
+  {
+    "name": "Rampardos",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Shieldon",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Shieldon",
+    "ability": "Soundproof",
+    "sort": 2
+  },
+  {
+    "name": "Bastiodon",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Bastiodon",
+    "ability": "Soundproof",
+    "sort": 2
+  },
+  {
+    "name": "Burmy",
+    "subname": "Plant Cloak",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Burmy",
+    "subname": "Plant Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Burmy",
+    "subname": "Sandy Cloak",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Burmy",
+    "subname": "Sandy Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Burmy",
+    "subname": "Trash Cloak",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Burmy",
+    "subname": "Trash Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Plant Cloak",
+    "ability": "Anticipation",
+    "sort": 0
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Plant Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Sandy Cloak",
+    "ability": "Anticipation",
+    "sort": 0
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Sandy Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Trash Cloak",
+    "ability": "Anticipation",
+    "sort": 0
+  },
+  {
+    "name": "Wormadam",
+    "subname": "Trash Cloak",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Mothim",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Mothim",
+    "ability": "Tinted Lens",
+    "sort": 2
+  },
+  {
+    "name": "Combee",
+    "ability": "Honey Gather",
+    "sort": 0
+  },
+  {
+    "name": "Combee",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Vespiquen",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Vespiquen",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Pachirisu",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Pachirisu",
+    "ability": "Pickup",
+    "sort": 1
+  },
+  {
+    "name": "Pachirisu",
+    "ability": "Volt Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Buizel",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Buizel",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Floatzel",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Floatzel",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Cherubi",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Cherrim",
+    "subname": "Overcast Form",
+    "ability": "Flower Gift",
+    "sort": 0
+  },
+  {
+    "name": "Cherrim",
+    "subname": "Sunshine Form",
+    "ability": "Flower Gift",
+    "sort": 0
+  },
+  {
+    "name": "Shellos",
+    "subname": "East Sea",
+    "ability": "Sticky Hold",
+    "sort": 0
+  },
+  {
+    "name": "Shellos",
+    "subname": "East Sea",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Shellos",
+    "subname": "East Sea",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Shellos",
+    "subname": "West Sea",
+    "ability": "Sticky Hold",
+    "sort": 0
+  },
+  {
+    "name": "Shellos",
+    "subname": "West Sea",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Shellos",
+    "subname": "West Sea",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "East Sea",
+    "ability": "Sticky Hold",
+    "sort": 0
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "East Sea",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "East Sea",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "West Sea",
+    "ability": "Sticky Hold",
+    "sort": 0
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "West Sea",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Gastrodon",
+    "subname": "West Sea",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Drifloon",
+    "ability": "Aftermath",
+    "sort": 0
+  },
+  {
+    "name": "Drifloon",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Drifloon",
+    "ability": "Flare Boost",
+    "sort": 2
+  },
+  {
+    "name": "Drifblim",
+    "ability": "Aftermath",
+    "sort": 0
+  },
+  {
+    "name": "Drifblim",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Drifblim",
+    "ability": "Flare Boost",
+    "sort": 2
+  },
+  {
+    "name": "Buneary",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Buneary",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Buneary",
+    "ability": "Limber",
+    "sort": 2
+  },
+  {
+    "name": "Lopunny",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Lopunny",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Lopunny",
+    "ability": "Limber",
+    "sort": 2
+  },
+  {
+    "name": "Lopunny",
+    "subname": "Mega Lopunny",
+    "ability": "Scrappy",
+    "sort": 0
+  },
+  {
+    "name": "Glameow",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Glameow",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Glameow",
+    "ability": "Keen Eye",
+    "sort": 2
+  },
+  {
+    "name": "Purugly",
+    "ability": "Thick Fat",
+    "sort": 0
+  },
+  {
+    "name": "Purugly",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Purugly",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Stunky",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Stunky",
+    "ability": "Aftermath",
+    "sort": 1
+  },
+  {
+    "name": "Stunky",
+    "ability": "Keen Eye",
+    "sort": 2
+  },
+  {
+    "name": "Skuntank",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Skuntank",
+    "ability": "Aftermath",
+    "sort": 1
+  },
+  {
+    "name": "Skuntank",
+    "ability": "Keen Eye",
+    "sort": 2
+  },
+  {
+    "name": "Bronzor",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Bronzor",
+    "ability": "Heatproof",
+    "sort": 1
+  },
+  {
+    "name": "Bronzor",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Bronzong",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Bronzong",
+    "ability": "Heatproof",
+    "sort": 1
+  },
+  {
+    "name": "Bronzong",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Chatot",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Chatot",
+    "ability": "Tangled Feet",
+    "sort": 1
+  },
+  {
+    "name": "Chatot",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Spiritomb",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Spiritomb",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Gible",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Gible",
+    "ability": "Rough Skin",
+    "sort": 2
+  },
+  {
+    "name": "Gabite",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Gabite",
+    "ability": "Rough Skin",
+    "sort": 2
+  },
+  {
+    "name": "Garchomp",
+    "ability": "Sand Veil",
+    "sort": 0
+  },
+  {
+    "name": "Garchomp",
+    "ability": "Rough Skin",
+    "sort": 2
+  },
+  {
+    "name": "Garchomp",
+    "subname": "Mega Garchomp",
+    "ability": "Sand Force",
+    "sort": 0
+  },
+  {
+    "name": "Riolu",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Riolu",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Riolu",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Lucario",
+    "ability": "Steadfast",
+    "sort": 0
+  },
+  {
+    "name": "Lucario",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Lucario",
+    "ability": "Justified",
+    "sort": 2
+  },
+  {
+    "name": "Lucario",
+    "subname": "Mega Lucario",
+    "ability": "Adaptability",
+    "sort": 0
+  },
+  {
+    "name": "Hippopotas",
+    "ability": "Sand Stream",
+    "sort": 0
+  },
+  {
+    "name": "Hippopotas",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Hippowdon",
+    "ability": "Sand Stream",
+    "sort": 0
+  },
+  {
+    "name": "Hippowdon",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Skorupi",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Skorupi",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Skorupi",
+    "ability": "Keen Eye",
+    "sort": 2
+  },
+  {
+    "name": "Drapion",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Drapion",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Drapion",
+    "ability": "Keen Eye",
+    "sort": 2
+  },
+  {
+    "name": "Croagunk",
+    "ability": "Anticipation",
+    "sort": 0
+  },
+  {
+    "name": "Croagunk",
+    "ability": "Dry Skin",
+    "sort": 1
+  },
+  {
+    "name": "Croagunk",
+    "ability": "Poison Touch",
+    "sort": 2
+  },
+  {
+    "name": "Toxicroak",
+    "ability": "Anticipation",
+    "sort": 0
+  },
+  {
+    "name": "Toxicroak",
+    "ability": "Dry Skin",
+    "sort": 1
+  },
+  {
+    "name": "Toxicroak",
+    "ability": "Poison Touch",
+    "sort": 2
+  },
+  {
+    "name": "Carnivine",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Finneon",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Finneon",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Finneon",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Lumineon",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Lumineon",
+    "ability": "Storm Drain",
+    "sort": 1
+  },
+  {
+    "name": "Lumineon",
+    "ability": "Water Veil",
+    "sort": 2
+  },
+  {
+    "name": "Snover",
+    "ability": "Snow Warning",
+    "sort": 0
+  },
+  {
+    "name": "Snover",
+    "ability": "Soundproof",
+    "sort": 2
+  },
+  {
+    "name": "Abomasnow",
+    "ability": "Snow Warning",
+    "sort": 0
+  },
+  {
+    "name": "Abomasnow",
+    "ability": "Soundproof",
+    "sort": 2
+  },
+  {
+    "name": "Abomasnow",
+    "subname": "Mega Abomasnow",
+    "ability": "Snow Warning",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "subname": "Heat Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "subname": "Wash Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "subname": "Frost Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "subname": "Fan Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Rotom",
+    "subname": "Mow Rotom",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Uxie",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Mesprit",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Azelf",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Dialga",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Dialga",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Palkia",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Palkia",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Heatran",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Heatran",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Regigigas",
+    "ability": "Slow Start",
+    "sort": 0
+  },
+  {
+    "name": "Giratina",
+    "subname": "Altered Forme",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Giratina",
+    "subname": "Altered Forme",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Giratina",
+    "subname": "Origin Forme",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Cresselia",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Phione",
+    "ability": "Hydration",
+    "sort": 0
+  },
+  {
+    "name": "Manaphy",
+    "ability": "Hydration",
+    "sort": 0
+  },
+  {
+    "name": "Darkrai",
+    "ability": "Bad Dreams",
+    "sort": 0
+  },
+  {
+    "name": "Shaymin",
+    "subname": "Land Forme",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Shaymin",
+    "subname": "Sky Forme",
+    "ability": "Serene Grace",
+    "sort": 0
+  },
+  {
+    "name": "Arceus",
+    "ability": "Multitype",
+    "sort": 0
+  },
+  {
+    "name": "Victini",
+    "ability": "Victory Star",
+    "sort": 0
+  },
+  {
+    "name": "Snivy",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Snivy",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Servine",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Servine",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Serperior",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Serperior",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Tepig",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Tepig",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Pignite",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Pignite",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Emboar",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Emboar",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Oshawott",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Oshawott",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Dewott",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Dewott",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Samurott",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Samurott",
+    "ability": "Shell Armor",
+    "sort": 2
+  },
+  {
+    "name": "Patrat",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Patrat",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Patrat",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Watchog",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Watchog",
+    "ability": "Keen Eye",
+    "sort": 1
+  },
+  {
+    "name": "Watchog",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Lillipup",
+    "ability": "Vital Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Lillipup",
+    "ability": "Pickup",
+    "sort": 1
+  },
+  {
+    "name": "Lillipup",
+    "ability": "Run Away",
+    "sort": 2
+  },
+  {
+    "name": "Herdier",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Herdier",
+    "ability": "Sand Rush",
+    "sort": 1
+  },
+  {
+    "name": "Herdier",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Stoutland",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Stoutland",
+    "ability": "Sand Rush",
+    "sort": 1
+  },
+  {
+    "name": "Stoutland",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Purrloin",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Purrloin",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Purrloin",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Liepard",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Liepard",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Liepard",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Pansage",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Pansage",
+    "ability": "Overgrow",
+    "sort": 2
+  },
+  {
+    "name": "Simisage",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Simisage",
+    "ability": "Overgrow",
+    "sort": 2
+  },
+  {
+    "name": "Pansear",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Pansear",
+    "ability": "Blaze",
+    "sort": 2
+  },
+  {
+    "name": "Simisear",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Simisear",
+    "ability": "Blaze",
+    "sort": 2
+  },
+  {
+    "name": "Panpour",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Panpour",
+    "ability": "Torrent",
+    "sort": 2
+  },
+  {
+    "name": "Simipour",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Simipour",
+    "ability": "Torrent",
+    "sort": 2
+  },
+  {
+    "name": "Munna",
+    "ability": "Forewarn",
+    "sort": 0
+  },
+  {
+    "name": "Munna",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Munna",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Musharna",
+    "ability": "Forewarn",
+    "sort": 0
+  },
+  {
+    "name": "Musharna",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Musharna",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Pidove",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Pidove",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Pidove",
+    "ability": "Rivalry",
+    "sort": 2
+  },
+  {
+    "name": "Tranquill",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Tranquill",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Tranquill",
+    "ability": "Rivalry",
+    "sort": 2
+  },
+  {
+    "name": "Unfezant",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Unfezant",
+    "ability": "Super Luck",
+    "sort": 1
+  },
+  {
+    "name": "Unfezant",
+    "ability": "Rivalry",
+    "sort": 2
+  },
+  {
+    "name": "Blitzle",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Blitzle",
+    "ability": "Motor Drive",
+    "sort": 1
+  },
+  {
+    "name": "Blitzle",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Zebstrika",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Zebstrika",
+    "ability": "Motor Drive",
+    "sort": 1
+  },
+  {
+    "name": "Zebstrika",
+    "ability": "Sap Sipper",
+    "sort": 2
+  },
+  {
+    "name": "Roggenrola",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Roggenrola",
+    "ability": "Weak Armor",
+    "sort": 1
+  },
+  {
+    "name": "Roggenrola",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Boldore",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Boldore",
+    "ability": "Weak Armor",
+    "sort": 1
+  },
+  {
+    "name": "Boldore",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Gigalith",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Gigalith",
+    "ability": "Sand Stream",
+    "sort": 1
+  },
+  {
+    "name": "Gigalith",
+    "ability": "Sand Force",
+    "sort": 2
+  },
+  {
+    "name": "Woobat",
+    "ability": "Unaware",
+    "sort": 0
+  },
+  {
+    "name": "Woobat",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Woobat",
+    "ability": "Simple",
+    "sort": 2
+  },
+  {
+    "name": "Swoobat",
+    "ability": "Unaware",
+    "sort": 0
+  },
+  {
+    "name": "Swoobat",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Swoobat",
+    "ability": "Simple",
+    "sort": 2
+  },
+  {
+    "name": "Drilbur",
+    "ability": "Sand Rush",
+    "sort": 0
+  },
+  {
+    "name": "Drilbur",
+    "ability": "Sand Force",
+    "sort": 1
+  },
+  {
+    "name": "Drilbur",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Excadrill",
+    "ability": "Sand Rush",
+    "sort": 0
+  },
+  {
+    "name": "Excadrill",
+    "ability": "Sand Force",
+    "sort": 1
+  },
+  {
+    "name": "Excadrill",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Audino",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Audino",
+    "ability": "Regenerator",
+    "sort": 1
+  },
+  {
+    "name": "Audino",
+    "ability": "Klutz",
+    "sort": 2
+  },
+  {
+    "name": "Audino",
+    "subname": "Mega Audino",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Timburr",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Timburr",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Timburr",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Gurdurr",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Gurdurr",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Gurdurr",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Conkeldurr",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Conkeldurr",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Conkeldurr",
+    "ability": "Iron Fist",
+    "sort": 2
+  },
+  {
+    "name": "Tympole",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Tympole",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Tympole",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Palpitoad",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Palpitoad",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Palpitoad",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Seismitoad",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Seismitoad",
+    "ability": "Poison Touch",
+    "sort": 1
+  },
+  {
+    "name": "Seismitoad",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Throh",
+    "ability": "Guts",
+    "sort": 0
+  },
+  {
+    "name": "Throh",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Throh",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Sawk",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Sawk",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Sawk",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Sewaddle",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Sewaddle",
+    "ability": "Chlorophyll",
+    "sort": 1
+  },
+  {
+    "name": "Sewaddle",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Swadloon",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Swadloon",
+    "ability": "Chlorophyll",
+    "sort": 1
+  },
+  {
+    "name": "Swadloon",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Leavanny",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Leavanny",
+    "ability": "Chlorophyll",
+    "sort": 1
+  },
+  {
+    "name": "Leavanny",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Venipede",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Venipede",
+    "ability": "Swarm",
+    "sort": 1
+  },
+  {
+    "name": "Venipede",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Whirlipede",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Whirlipede",
+    "ability": "Swarm",
+    "sort": 1
+  },
+  {
+    "name": "Whirlipede",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Scolipede",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Scolipede",
+    "ability": "Swarm",
+    "sort": 1
+  },
+  {
+    "name": "Scolipede",
+    "ability": "Speed Boost",
+    "sort": 2
+  },
+  {
+    "name": "Cottonee",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Cottonee",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Cottonee",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Whimsicott",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Whimsicott",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Whimsicott",
+    "ability": "Chlorophyll",
+    "sort": 2
+  },
+  {
+    "name": "Petilil",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Petilil",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Petilil",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Lilligant",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Lilligant",
+    "ability": "Own Tempo",
+    "sort": 1
+  },
+  {
+    "name": "Lilligant",
+    "ability": "Leaf Guard",
+    "sort": 2
+  },
+  {
+    "name": "Basculin",
+    "subname": "Red-Striped Form",
+    "ability": "Reckless",
+    "sort": 0
+  },
+  {
+    "name": "Basculin",
+    "subname": "Red-Striped Form",
+    "ability": "Adaptability",
+    "sort": 1
+  },
+  {
+    "name": "Basculin",
+    "subname": "Red-Striped Form",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Basculin",
+    "subname": "Blue-Striped Form",
+    "ability": "Rock Head",
+    "sort": 0
+  },
+  {
+    "name": "Basculin",
+    "subname": "Blue-Striped Form",
+    "ability": "Adaptability",
+    "sort": 1
+  },
+  {
+    "name": "Basculin",
+    "subname": "Blue-Striped Form",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Sandile",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Sandile",
+    "ability": "Moxie",
+    "sort": 1
+  },
+  {
+    "name": "Sandile",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Krokorok",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Krokorok",
+    "ability": "Moxie",
+    "sort": 1
+  },
+  {
+    "name": "Krokorok",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Krookodile",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Krookodile",
+    "ability": "Moxie",
+    "sort": 1
+  },
+  {
+    "name": "Krookodile",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Darumaka",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Darumaka",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Darumaka",
+    "subname": "Galarian Darumaka",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Darumaka",
+    "subname": "Galarian Darumaka",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Standard Mode",
+    "ability": "Sheer Force",
+    "sort": 0
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Standard Mode",
+    "ability": "Zen Mode",
+    "sort": 2
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Zen Mode",
+    "ability": "Zen Mode",
+    "sort": 0
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Galarian Standard Mode",
+    "ability": "Gorilla Tactics",
+    "sort": 0
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Galarian Standard Mode",
+    "ability": "Zen Mode",
+    "sort": 2
+  },
+  {
+    "name": "Darmanitan",
+    "subname": "Galarian Zen Mode",
+    "ability": "Zen Mode",
+    "sort": 0
+  },
+  {
+    "name": "Maractus",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Maractus",
+    "ability": "Chlorophyll",
+    "sort": 1
+  },
+  {
+    "name": "Maractus",
+    "ability": "Storm Drain",
+    "sort": 2
+  },
+  {
+    "name": "Dwebble",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Dwebble",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Dwebble",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Crustle",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Crustle",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Crustle",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Scraggy",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Scraggy",
+    "ability": "Moxie",
+    "sort": 1
+  },
+  {
+    "name": "Scraggy",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Scrafty",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Scrafty",
+    "ability": "Moxie",
+    "sort": 1
+  },
+  {
+    "name": "Scrafty",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Sigilyph",
+    "ability": "Wonder Skin",
+    "sort": 0
+  },
+  {
+    "name": "Sigilyph",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Sigilyph",
+    "ability": "Tinted Lens",
+    "sort": 2
+  },
+  {
+    "name": "Yamask",
+    "ability": "Mummy",
+    "sort": 0
+  },
+  {
+    "name": "Yamask",
+    "subname": "Galarian Yamask",
+    "ability": "Wandering Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Cofagrigus",
+    "ability": "Mummy",
+    "sort": 0
+  },
+  {
+    "name": "Runerigus",
+    "ability": "Wandering Spirit",
+    "sort": 0
+  },
+  {
+    "name": "Tirtouga",
+    "ability": "Solid Rock",
+    "sort": 0
+  },
+  {
+    "name": "Tirtouga",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Tirtouga",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Carracosta",
+    "ability": "Solid Rock",
+    "sort": 0
+  },
+  {
+    "name": "Carracosta",
+    "ability": "Sturdy",
+    "sort": 1
+  },
+  {
+    "name": "Carracosta",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Archen",
+    "ability": "Defeatist",
+    "sort": 0
+  },
+  {
+    "name": "Archeops",
+    "ability": "Defeatist",
+    "sort": 0
+  },
+  {
+    "name": "Trubbish",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Trubbish",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Trubbish",
+    "ability": "Aftermath",
+    "sort": 2
+  },
+  {
+    "name": "Garbodor",
+    "ability": "Stench",
+    "sort": 0
+  },
+  {
+    "name": "Garbodor",
+    "ability": "Weak Armor",
+    "sort": 1
+  },
+  {
+    "name": "Garbodor",
+    "ability": "Aftermath",
+    "sort": 2
+  },
+  {
+    "name": "Zorua",
+    "ability": "Illusion",
+    "sort": 0
+  },
+  {
+    "name": "Zoroark",
+    "ability": "Illusion",
+    "sort": 0
+  },
+  {
+    "name": "Minccino",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Minccino",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Minccino",
+    "ability": "Skill Link",
+    "sort": 2
+  },
+  {
+    "name": "Cinccino",
+    "ability": "Cute Charm",
+    "sort": 0
+  },
+  {
+    "name": "Cinccino",
+    "ability": "Technician",
+    "sort": 1
+  },
+  {
+    "name": "Cinccino",
+    "ability": "Skill Link",
+    "sort": 2
+  },
+  {
+    "name": "Gothita",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Gothita",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Gothita",
+    "ability": "Shadow Tag",
+    "sort": 2
+  },
+  {
+    "name": "Gothorita",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Gothorita",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Gothorita",
+    "ability": "Shadow Tag",
+    "sort": 2
+  },
+  {
+    "name": "Gothitelle",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Gothitelle",
+    "ability": "Competitive",
+    "sort": 1
+  },
+  {
+    "name": "Gothitelle",
+    "ability": "Shadow Tag",
+    "sort": 2
+  },
+  {
+    "name": "Solosis",
+    "ability": "Overcoat",
+    "sort": 0
+  },
+  {
+    "name": "Solosis",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Solosis",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Duosion",
+    "ability": "Overcoat",
+    "sort": 0
+  },
+  {
+    "name": "Duosion",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Duosion",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Reuniclus",
+    "ability": "Overcoat",
+    "sort": 0
+  },
+  {
+    "name": "Reuniclus",
+    "ability": "Magic Guard",
+    "sort": 1
+  },
+  {
+    "name": "Reuniclus",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Ducklett",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Ducklett",
+    "ability": "Big Pecks",
+    "sort": 1
+  },
+  {
+    "name": "Ducklett",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Swanna",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Swanna",
+    "ability": "Big Pecks",
+    "sort": 1
+  },
+  {
+    "name": "Swanna",
+    "ability": "Hydration",
+    "sort": 2
+  },
+  {
+    "name": "Vanillite",
+    "ability": "Ice Body",
+    "sort": 0
+  },
+  {
+    "name": "Vanillite",
+    "ability": "Snow Cloak",
+    "sort": 1
+  },
+  {
+    "name": "Vanillite",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Vanillish",
+    "ability": "Ice Body",
+    "sort": 0
+  },
+  {
+    "name": "Vanillish",
+    "ability": "Snow Cloak",
+    "sort": 1
+  },
+  {
+    "name": "Vanillish",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Vanilluxe",
+    "ability": "Ice Body",
+    "sort": 0
+  },
+  {
+    "name": "Vanilluxe",
+    "ability": "Snow Warning",
+    "sort": 1
+  },
+  {
+    "name": "Vanilluxe",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Deerling",
+    "subname": "Spring Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Deerling",
+    "subname": "Spring Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Deerling",
+    "subname": "Spring Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Deerling",
+    "subname": "Summer Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Deerling",
+    "subname": "Summer Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Deerling",
+    "subname": "Summer Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Deerling",
+    "subname": "Autumn Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Deerling",
+    "subname": "Autumn Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Deerling",
+    "subname": "Autumn Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Deerling",
+    "subname": "Winter Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Deerling",
+    "subname": "Winter Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Deerling",
+    "subname": "Winter Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Spring Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Spring Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Spring Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Summer Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Summer Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Summer Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Autumn Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Autumn Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Autumn Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Winter Form",
+    "ability": "Chlorophyll",
+    "sort": 0
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Winter Form",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "subname": "Winter Form",
+    "ability": "Serene Grace",
+    "sort": 2
+  },
+  {
+    "name": "Emolga",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Emolga",
+    "ability": "Motor Drive",
+    "sort": 2
+  },
+  {
+    "name": "Karrablast",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Karrablast",
+    "ability": "Shed Skin",
+    "sort": 1
+  },
+  {
+    "name": "Karrablast",
+    "ability": "No Guard",
+    "sort": 2
+  },
+  {
+    "name": "Escavalier",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Escavalier",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Escavalier",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Foongus",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Foongus",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Amoonguss",
+    "ability": "Effect Spore",
+    "sort": 0
+  },
+  {
+    "name": "Amoonguss",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Frillish",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Frillish",
+    "ability": "Cursed Body",
+    "sort": 1
+  },
+  {
+    "name": "Frillish",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Jellicent",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Jellicent",
+    "ability": "Cursed Body",
+    "sort": 1
+  },
+  {
+    "name": "Jellicent",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Alomomola",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Alomomola",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Alomomola",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Joltik",
+    "ability": "Compound Eyes",
+    "sort": 0
+  },
+  {
+    "name": "Joltik",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Joltik",
+    "ability": "Swarm",
+    "sort": 2
+  },
+  {
+    "name": "Galvantula",
+    "ability": "Compound Eyes",
+    "sort": 0
+  },
+  {
+    "name": "Galvantula",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Galvantula",
+    "ability": "Swarm",
+    "sort": 2
+  },
+  {
+    "name": "Ferroseed",
+    "ability": "Iron Barbs",
+    "sort": 0
+  },
+  {
+    "name": "Ferrothorn",
+    "ability": "Iron Barbs",
+    "sort": 0
+  },
+  {
+    "name": "Ferrothorn",
+    "ability": "Anticipation",
+    "sort": 2
+  },
+  {
+    "name": "Klink",
+    "ability": "Plus",
+    "sort": 0
+  },
+  {
+    "name": "Klink",
+    "ability": "Minus",
+    "sort": 1
+  },
+  {
+    "name": "Klink",
+    "ability": "Clear Body",
+    "sort": 2
+  },
+  {
+    "name": "Klang",
+    "ability": "Plus",
+    "sort": 0
+  },
+  {
+    "name": "Klang",
+    "ability": "Minus",
+    "sort": 1
+  },
+  {
+    "name": "Klang",
+    "ability": "Clear Body",
+    "sort": 2
+  },
+  {
+    "name": "Klinklang",
+    "ability": "Plus",
+    "sort": 0
+  },
+  {
+    "name": "Klinklang",
+    "ability": "Minus",
+    "sort": 1
+  },
+  {
+    "name": "Klinklang",
+    "ability": "Clear Body",
+    "sort": 2
+  },
+  {
+    "name": "Tynamo",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Eelektrik",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Eelektross",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Elgyem",
+    "ability": "Telepathy",
+    "sort": 0
+  },
+  {
+    "name": "Elgyem",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Elgyem",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Beheeyem",
+    "ability": "Telepathy",
+    "sort": 0
+  },
+  {
+    "name": "Beheeyem",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Beheeyem",
+    "ability": "Analytic",
+    "sort": 2
+  },
+  {
+    "name": "Litwick",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Litwick",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Litwick",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Lampent",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Lampent",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Lampent",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Chandelure",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Chandelure",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Chandelure",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Axew",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Axew",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Axew",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Fraxure",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Fraxure",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Fraxure",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Haxorus",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Haxorus",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Haxorus",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Cubchoo",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Cubchoo",
+    "ability": "Slush Rush",
+    "sort": 1
+  },
+  {
+    "name": "Cubchoo",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Beartic",
+    "ability": "Snow Cloak",
+    "sort": 0
+  },
+  {
+    "name": "Beartic",
+    "ability": "Slush Rush",
+    "sort": 1
+  },
+  {
+    "name": "Beartic",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Cryogonal",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Shelmet",
+    "ability": "Hydration",
+    "sort": 0
+  },
+  {
+    "name": "Shelmet",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Shelmet",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Accelgor",
+    "ability": "Hydration",
+    "sort": 0
+  },
+  {
+    "name": "Accelgor",
+    "ability": "Sticky Hold",
+    "sort": 1
+  },
+  {
+    "name": "Accelgor",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Stunfisk",
+    "ability": "Static",
+    "sort": 0
+  },
+  {
+    "name": "Stunfisk",
+    "ability": "Limber",
+    "sort": 1
+  },
+  {
+    "name": "Stunfisk",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Stunfisk",
+    "subname": "Galarian Stunfisk",
+    "ability": "Mimicry",
+    "sort": 0
+  },
+  {
+    "name": "Mienfoo",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Mienfoo",
+    "ability": "Regenerator",
+    "sort": 1
+  },
+  {
+    "name": "Mienfoo",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Mienshao",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Mienshao",
+    "ability": "Regenerator",
+    "sort": 1
+  },
+  {
+    "name": "Mienshao",
+    "ability": "Reckless",
+    "sort": 2
+  },
+  {
+    "name": "Druddigon",
+    "ability": "Rough Skin",
+    "sort": 0
+  },
+  {
+    "name": "Druddigon",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Druddigon",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Golett",
+    "ability": "Iron Fist",
+    "sort": 0
+  },
+  {
+    "name": "Golett",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Golett",
+    "ability": "No Guard",
+    "sort": 2
+  },
+  {
+    "name": "Golurk",
+    "ability": "Iron Fist",
+    "sort": 0
+  },
+  {
+    "name": "Golurk",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Golurk",
+    "ability": "No Guard",
+    "sort": 2
+  },
+  {
+    "name": "Pawniard",
+    "ability": "Defiant",
+    "sort": 0
+  },
+  {
+    "name": "Pawniard",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Pawniard",
+    "ability": "Pressure",
+    "sort": 2
+  },
+  {
+    "name": "Bisharp",
+    "ability": "Defiant",
+    "sort": 0
+  },
+  {
+    "name": "Bisharp",
+    "ability": "Inner Focus",
+    "sort": 1
+  },
+  {
+    "name": "Bisharp",
+    "ability": "Pressure",
+    "sort": 2
+  },
+  {
+    "name": "Bouffalant",
+    "ability": "Reckless",
+    "sort": 0
+  },
+  {
+    "name": "Bouffalant",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Bouffalant",
+    "ability": "Soundproof",
+    "sort": 2
+  },
+  {
+    "name": "Rufflet",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Rufflet",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Rufflet",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Braviary",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Braviary",
+    "ability": "Sheer Force",
+    "sort": 1
+  },
+  {
+    "name": "Braviary",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Vullaby",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Vullaby",
+    "ability": "Overcoat",
+    "sort": 1
+  },
+  {
+    "name": "Vullaby",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Mandibuzz",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Mandibuzz",
+    "ability": "Overcoat",
+    "sort": 1
+  },
+  {
+    "name": "Mandibuzz",
+    "ability": "Weak Armor",
+    "sort": 2
+  },
+  {
+    "name": "Heatmor",
+    "ability": "Gluttony",
+    "sort": 0
+  },
+  {
+    "name": "Heatmor",
+    "ability": "Flash Fire",
+    "sort": 1
+  },
+  {
+    "name": "Heatmor",
+    "ability": "White Smoke",
+    "sort": 2
+  },
+  {
+    "name": "Durant",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Durant",
+    "ability": "Hustle",
+    "sort": 1
+  },
+  {
+    "name": "Durant",
+    "ability": "Truant",
+    "sort": 2
+  },
+  {
+    "name": "Deino",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Zweilous",
+    "ability": "Hustle",
+    "sort": 0
+  },
+  {
+    "name": "Hydreigon",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Larvesta",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Larvesta",
+    "ability": "Swarm",
+    "sort": 2
+  },
+  {
+    "name": "Volcarona",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Volcarona",
+    "ability": "Swarm",
+    "sort": 2
+  },
+  {
+    "name": "Cobalion",
+    "ability": "Justified",
+    "sort": 0
+  },
+  {
+    "name": "Terrakion",
+    "ability": "Justified",
+    "sort": 0
+  },
+  {
+    "name": "Virizion",
+    "ability": "Justified",
+    "sort": 0
+  },
+  {
+    "name": "Tornadus",
+    "subname": "Incarnate Forme",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Tornadus",
+    "subname": "Incarnate Forme",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Tornadus",
+    "subname": "Therian Forme",
+    "ability": "Regenerator",
+    "sort": 0
+  },
+  {
+    "name": "Thundurus",
+    "subname": "Incarnate Forme",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Thundurus",
+    "subname": "Incarnate Forme",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Thundurus",
+    "subname": "Therian Forme",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Reshiram",
+    "ability": "Turboblaze",
+    "sort": 0
+  },
+  {
+    "name": "Zekrom",
+    "ability": "Teravolt",
+    "sort": 0
+  },
+  {
+    "name": "Landorus",
+    "subname": "Incarnate Forme",
+    "ability": "Sand Force",
+    "sort": 0
+  },
+  {
+    "name": "Landorus",
+    "subname": "Incarnate Forme",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Landorus",
+    "subname": "Therian Forme",
+    "ability": "Intimidate",
+    "sort": 0
+  },
+  {
+    "name": "Kyurem",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Kyurem",
+    "subname": "Black Kyurem",
+    "ability": "Teravolt",
+    "sort": 0
+  },
+  {
+    "name": "Kyurem",
+    "subname": "White Kyurem",
+    "ability": "Turboblaze",
+    "sort": 0
+  },
+  {
+    "name": "Keldeo",
+    "subname": "Ordinary Forme",
+    "ability": "Justified",
+    "sort": 0
+  },
+  {
+    "name": "Keldeo",
+    "subname": "Resolute Forme",
+    "ability": "Justified",
+    "sort": 0
+  },
+  {
+    "name": "Meloetta",
+    "subname": "Aria Forme",
+    "ability": "Serene Grace",
+    "sort": 0
+  },
+  {
+    "name": "Meloetta",
+    "subname": "Pirouette Forme",
+    "ability": "Serene Grace",
+    "sort": 0
+  },
+  {
+    "name": "Genesect",
+    "ability": "Download",
+    "sort": 0
+  },
+  {
+    "name": "Chespin",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Chespin",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Quilladin",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Quilladin",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Chesnaught",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Chesnaught",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Fennekin",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Fennekin",
+    "ability": "Magician",
+    "sort": 2
+  },
+  {
+    "name": "Braixen",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Braixen",
+    "ability": "Magician",
+    "sort": 2
+  },
+  {
+    "name": "Delphox",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Delphox",
+    "ability": "Magician",
+    "sort": 2
+  },
+  {
+    "name": "Froakie",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Froakie",
+    "ability": "Protean",
+    "sort": 2
+  },
+  {
+    "name": "Frogadier",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Frogadier",
+    "ability": "Protean",
+    "sort": 2
+  },
+  {
+    "name": "Greninja",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Greninja",
+    "ability": "Protean",
+    "sort": 2
+  },
+  {
+    "name": "Greninja",
+    "subname": "Ash-Greninja",
+    "ability": "Battle Bond",
+    "sort": 0
+  },
+  {
+    "name": "Bunnelby",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Bunnelby",
+    "ability": "Cheek Pouch",
+    "sort": 1
+  },
+  {
+    "name": "Bunnelby",
+    "ability": "Huge Power",
+    "sort": 2
+  },
+  {
+    "name": "Diggersby",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Diggersby",
+    "ability": "Cheek Pouch",
+    "sort": 1
+  },
+  {
+    "name": "Diggersby",
+    "ability": "Huge Power",
+    "sort": 2
+  },
+  {
+    "name": "Fletchling",
+    "ability": "Big Pecks",
+    "sort": 0
+  },
+  {
+    "name": "Fletchling",
+    "ability": "Gale Wings",
+    "sort": 2
+  },
+  {
+    "name": "Fletchinder",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Fletchinder",
+    "ability": "Gale Wings",
+    "sort": 2
+  },
+  {
+    "name": "Talonflame",
+    "ability": "Flame Body",
+    "sort": 0
+  },
+  {
+    "name": "Talonflame",
+    "ability": "Gale Wings",
+    "sort": 2
+  },
+  {
+    "name": "Scatterbug",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Scatterbug",
+    "ability": "Compound Eyes",
+    "sort": 1
+  },
+  {
+    "name": "Scatterbug",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Spewpa",
+    "ability": "Shed Skin",
+    "sort": 0
+  },
+  {
+    "name": "Spewpa",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Vivillon",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Vivillon",
+    "ability": "Compound Eyes",
+    "sort": 1
+  },
+  {
+    "name": "Vivillon",
+    "ability": "Friend Guard",
+    "sort": 2
+  },
+  {
+    "name": "Litleo",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Litleo",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Litleo",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Pyroar",
+    "ability": "Rivalry",
+    "sort": 0
+  },
+  {
+    "name": "Pyroar",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Pyroar",
+    "ability": "Moxie",
+    "sort": 2
+  },
+  {
+    "name": "Flabébé",
+    "ability": "Flower Veil",
+    "sort": 0
+  },
+  {
+    "name": "Flabébé",
+    "ability": "Symbiosis",
+    "sort": 2
+  },
+  {
+    "name": "Floette",
+    "ability": "Flower Veil",
+    "sort": 0
+  },
+  {
+    "name": "Floette",
+    "ability": "Symbiosis",
+    "sort": 2
+  },
+  {
+    "name": "Floette",
+    "subname": "Eternal Floette",
+    "ability": "Flower Veil",
+    "sort": 0
+  },
+  {
+    "name": "Florges",
+    "ability": "Flower Veil",
+    "sort": 0
+  },
+  {
+    "name": "Florges",
+    "ability": "Symbiosis",
+    "sort": 2
+  },
+  {
+    "name": "Skiddo",
+    "ability": "Sap Sipper",
+    "sort": 0
+  },
+  {
+    "name": "Skiddo",
+    "ability": "Grass Pelt",
+    "sort": 2
+  },
+  {
+    "name": "Gogoat",
+    "ability": "Sap Sipper",
+    "sort": 0
+  },
+  {
+    "name": "Gogoat",
+    "ability": "Grass Pelt",
+    "sort": 2
+  },
+  {
+    "name": "Pancham",
+    "ability": "Iron Fist",
+    "sort": 0
+  },
+  {
+    "name": "Pancham",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Pancham",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Pangoro",
+    "ability": "Iron Fist",
+    "sort": 0
+  },
+  {
+    "name": "Pangoro",
+    "ability": "Mold Breaker",
+    "sort": 1
+  },
+  {
+    "name": "Pangoro",
+    "ability": "Scrappy",
+    "sort": 2
+  },
+  {
+    "name": "Furfrou",
+    "ability": "Fur Coat",
+    "sort": 0
+  },
+  {
+    "name": "Espurr",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Espurr",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Espurr",
+    "ability": "Own Tempo",
+    "sort": 2
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Male",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Male",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Male",
+    "ability": "Prankster",
+    "sort": 2
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Female",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Female",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Meowstic",
+    "subname": "Female",
+    "ability": "Competitive",
+    "sort": 2
+  },
+  {
+    "name": "Honedge",
+    "ability": "No Guard",
+    "sort": 0
+  },
+  {
+    "name": "Doublade",
+    "ability": "No Guard",
+    "sort": 0
+  },
+  {
+    "name": "Aegislash",
+    "subname": "Blade Forme",
+    "ability": "Stance Change",
+    "sort": 0
+  },
+  {
+    "name": "Aegislash",
+    "subname": "Shield Forme",
+    "ability": "Stance Change",
+    "sort": 0
+  },
+  {
+    "name": "Spritzee",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Spritzee",
+    "ability": "Aroma Veil",
+    "sort": 2
+  },
+  {
+    "name": "Aromatisse",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Aromatisse",
+    "ability": "Aroma Veil",
+    "sort": 2
+  },
+  {
+    "name": "Swirlix",
+    "ability": "Sweet Veil",
+    "sort": 0
+  },
+  {
+    "name": "Swirlix",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Slurpuff",
+    "ability": "Sweet Veil",
+    "sort": 0
+  },
+  {
+    "name": "Slurpuff",
+    "ability": "Unburden",
+    "sort": 2
+  },
+  {
+    "name": "Inkay",
+    "ability": "Contrary",
+    "sort": 0
+  },
+  {
+    "name": "Inkay",
+    "ability": "Suction Cups",
+    "sort": 1
+  },
+  {
+    "name": "Inkay",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Malamar",
+    "ability": "Contrary",
+    "sort": 0
+  },
+  {
+    "name": "Malamar",
+    "ability": "Suction Cups",
+    "sort": 1
+  },
+  {
+    "name": "Malamar",
+    "ability": "Infiltrator",
+    "sort": 2
+  },
+  {
+    "name": "Binacle",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Binacle",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Binacle",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Barbaracle",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Barbaracle",
+    "ability": "Sniper",
+    "sort": 1
+  },
+  {
+    "name": "Barbaracle",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Skrelp",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Skrelp",
+    "ability": "Poison Touch",
+    "sort": 1
+  },
+  {
+    "name": "Skrelp",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Dragalge",
+    "ability": "Poison Point",
+    "sort": 0
+  },
+  {
+    "name": "Dragalge",
+    "ability": "Poison Touch",
+    "sort": 1
+  },
+  {
+    "name": "Dragalge",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Clauncher",
+    "ability": "Mega Launcher",
+    "sort": 0
+  },
+  {
+    "name": "Clawitzer",
+    "ability": "Mega Launcher",
+    "sort": 0
+  },
+  {
+    "name": "Helioptile",
+    "ability": "Dry Skin",
+    "sort": 0
+  },
+  {
+    "name": "Helioptile",
+    "ability": "Sand Veil",
+    "sort": 1
+  },
+  {
+    "name": "Helioptile",
+    "ability": "Solar Power",
+    "sort": 2
+  },
+  {
+    "name": "Heliolisk",
+    "ability": "Dry Skin",
+    "sort": 0
+  },
+  {
+    "name": "Heliolisk",
+    "ability": "Sand Veil",
+    "sort": 1
+  },
+  {
+    "name": "Heliolisk",
+    "ability": "Solar Power",
+    "sort": 2
+  },
+  {
+    "name": "Tyrunt",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Tyrunt",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Tyrantrum",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Tyrantrum",
+    "ability": "Rock Head",
+    "sort": 2
+  },
+  {
+    "name": "Amaura",
+    "ability": "Refrigerate",
+    "sort": 0
+  },
+  {
+    "name": "Amaura",
+    "ability": "Snow Warning",
+    "sort": 2
+  },
+  {
+    "name": "Aurorus",
+    "ability": "Refrigerate",
+    "sort": 0
+  },
+  {
+    "name": "Aurorus",
+    "ability": "Snow Warning",
+    "sort": 2
+  },
+  {
+    "name": "Hawlucha",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Hawlucha",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Hawlucha",
+    "ability": "Mold Breaker",
+    "sort": 2
+  },
+  {
+    "name": "Dedenne",
+    "ability": "Cheek Pouch",
+    "sort": 0
+  },
+  {
+    "name": "Dedenne",
+    "ability": "Pickup",
+    "sort": 1
+  },
+  {
+    "name": "Dedenne",
+    "ability": "Plus",
+    "sort": 2
+  },
+  {
+    "name": "Carbink",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Carbink",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Goomy",
+    "ability": "Sap Sipper",
+    "sort": 0
+  },
+  {
+    "name": "Goomy",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Goomy",
+    "ability": "Gooey",
+    "sort": 2
+  },
+  {
+    "name": "Sliggoo",
+    "ability": "Sap Sipper",
+    "sort": 0
+  },
+  {
+    "name": "Sliggoo",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Sliggoo",
+    "ability": "Gooey",
+    "sort": 2
+  },
+  {
+    "name": "Goodra",
+    "ability": "Sap Sipper",
+    "sort": 0
+  },
+  {
+    "name": "Goodra",
+    "ability": "Hydration",
+    "sort": 1
+  },
+  {
+    "name": "Goodra",
+    "ability": "Gooey",
+    "sort": 2
+  },
+  {
+    "name": "Klefki",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Klefki",
+    "ability": "Magician",
+    "sort": 2
+  },
+  {
+    "name": "Phantump",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Phantump",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Phantump",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Trevenant",
+    "ability": "Natural Cure",
+    "sort": 0
+  },
+  {
+    "name": "Trevenant",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Trevenant",
+    "ability": "Harvest",
+    "sort": 2
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Small Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Small Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Small Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Average Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Average Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Average Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Large Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Large Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Large Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Super Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Super Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Pumpkaboo",
+    "subname": "Super Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Small Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Small Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Small Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Average Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Average Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Average Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Large Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Large Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Large Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Super Size",
+    "ability": "Pickup",
+    "sort": 0
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Super Size",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Gourgeist",
+    "subname": "Super Size",
+    "ability": "Insomnia",
+    "sort": 2
+  },
+  {
+    "name": "Bergmite",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Bergmite",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Bergmite",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Avalugg",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Avalugg",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Avalugg",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Noibat",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Noibat",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Noibat",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Noivern",
+    "ability": "Frisk",
+    "sort": 0
+  },
+  {
+    "name": "Noivern",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Noivern",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Xerneas",
+    "ability": "Fairy Aura",
+    "sort": 0
+  },
+  {
+    "name": "Yveltal",
+    "ability": "Dark Aura",
+    "sort": 0
+  },
+  {
+    "name": "Zygarde",
+    "subname": "50% Forme",
+    "ability": "Aura Break",
+    "sort": 0
+  },
+  {
+    "name": "Zygarde",
+    "subname": "50% Forme",
+    "ability": "Power Construct",
+    "sort": 1
+  },
+  {
+    "name": "Zygarde",
+    "subname": "10% Forme",
+    "ability": "Aura Break",
+    "sort": 0
+  },
+  {
+    "name": "Zygarde",
+    "subname": "10% Forme",
+    "ability": "Power Construct",
+    "sort": 1
+  },
+  {
+    "name": "Zygarde",
+    "subname": "Complete Forme",
+    "ability": "Power Construct",
+    "sort": 0
+  },
+  {
+    "name": "Diancie",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Diancie",
+    "subname": "Mega Diancie",
+    "ability": "Magic Bounce",
+    "sort": 0
+  },
+  {
+    "name": "Hoopa",
+    "subname": "Hoopa Confined",
+    "ability": "Magician",
+    "sort": 0
+  },
+  {
+    "name": "Hoopa",
+    "subname": "Hoopa Unbound",
+    "ability": "Magician",
+    "sort": 0
+  },
+  {
+    "name": "Volcanion",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Rowlet",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Rowlet",
+    "ability": "Long Reach",
+    "sort": 2
+  },
+  {
+    "name": "Dartrix",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Dartrix",
+    "ability": "Long Reach",
+    "sort": 2
+  },
+  {
+    "name": "Decidueye",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Decidueye",
+    "ability": "Long Reach",
+    "sort": 2
+  },
+  {
+    "name": "Litten",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Litten",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Torracat",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Torracat",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Incineroar",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Incineroar",
+    "ability": "Intimidate",
+    "sort": 2
+  },
+  {
+    "name": "Popplio",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Popplio",
+    "ability": "Liquid Voice",
+    "sort": 2
+  },
+  {
+    "name": "Brionne",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Brionne",
+    "ability": "Liquid Voice",
+    "sort": 2
+  },
+  {
+    "name": "Primarina",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Primarina",
+    "ability": "Liquid Voice",
+    "sort": 2
+  },
+  {
+    "name": "Pikipek",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Pikipek",
+    "ability": "Skill Link",
+    "sort": 1
+  },
+  {
+    "name": "Pikipek",
+    "ability": "Pickup",
+    "sort": 2
+  },
+  {
+    "name": "Trumbeak",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Trumbeak",
+    "ability": "Skill Link",
+    "sort": 1
+  },
+  {
+    "name": "Trumbeak",
+    "ability": "Pickup",
+    "sort": 2
+  },
+  {
+    "name": "Toucannon",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Toucannon",
+    "ability": "Skill Link",
+    "sort": 1
+  },
+  {
+    "name": "Toucannon",
+    "ability": "Sheer Force",
+    "sort": 2
+  },
+  {
+    "name": "Yungoos",
+    "ability": "Stakeout",
+    "sort": 0
+  },
+  {
+    "name": "Yungoos",
+    "ability": "Strong Jaw",
+    "sort": 1
+  },
+  {
+    "name": "Yungoos",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Gumshoos",
+    "ability": "Stakeout",
+    "sort": 0
+  },
+  {
+    "name": "Gumshoos",
+    "ability": "Strong Jaw",
+    "sort": 1
+  },
+  {
+    "name": "Gumshoos",
+    "ability": "Adaptability",
+    "sort": 2
+  },
+  {
+    "name": "Grubbin",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Charjabug",
+    "ability": "Battery",
+    "sort": 0
+  },
+  {
+    "name": "Vikavolt",
+    "ability": "Levitate",
+    "sort": 0
+  },
+  {
+    "name": "Crabrawler",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Crabrawler",
+    "ability": "Iron Fist",
+    "sort": 1
+  },
+  {
+    "name": "Crabrawler",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Crabominable",
+    "ability": "Hyper Cutter",
+    "sort": 0
+  },
+  {
+    "name": "Crabominable",
+    "ability": "Iron Fist",
+    "sort": 1
+  },
+  {
+    "name": "Crabominable",
+    "ability": "Anger Point",
+    "sort": 2
+  },
+  {
+    "name": "Oricorio",
+    "subname": "Baile Style",
+    "ability": "Dancer",
+    "sort": 0
+  },
+  {
+    "name": "Oricorio",
+    "subname": "Pom-Pom Style",
+    "ability": "Dancer",
+    "sort": 0
+  },
+  {
+    "name": "Oricorio",
+    "subname": "Pa'u Style",
+    "ability": "Dancer",
+    "sort": 0
+  },
+  {
+    "name": "Oricorio",
+    "subname": "Sensu Style",
+    "ability": "Dancer",
+    "sort": 0
+  },
+  {
+    "name": "Cutiefly",
+    "ability": "Honey Gather",
+    "sort": 0
+  },
+  {
+    "name": "Cutiefly",
+    "ability": "Shield Dust",
+    "sort": 1
+  },
+  {
+    "name": "Cutiefly",
+    "ability": "Sweet Veil",
+    "sort": 2
+  },
+  {
+    "name": "Ribombee",
+    "ability": "Honey Gather",
+    "sort": 0
+  },
+  {
+    "name": "Ribombee",
+    "ability": "Shield Dust",
+    "sort": 1
+  },
+  {
+    "name": "Ribombee",
+    "ability": "Sweet Veil",
+    "sort": 2
+  },
+  {
+    "name": "Rockruff",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Rockruff",
+    "ability": "Vital Spirit",
+    "sort": 1
+  },
+  {
+    "name": "Rockruff",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midday Form",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midday Form",
+    "ability": "Sand Rush",
+    "sort": 1
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midday Form",
+    "ability": "Steadfast",
+    "sort": 2
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midnight Form",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midnight Form",
+    "ability": "Vital Spirit",
+    "sort": 1
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Midnight Form",
+    "ability": "No Guard",
+    "sort": 2
+  },
+  {
+    "name": "Lycanroc",
+    "subname": "Dusk Form",
+    "ability": "Tough Claws",
+    "sort": 0
+  },
+  {
+    "name": "Wishiwashi",
+    "subname": "Solo Form",
+    "ability": "Schooling",
+    "sort": 0
+  },
+  {
+    "name": "Wishiwashi",
+    "subname": "School Form",
+    "ability": "Schooling",
+    "sort": 0
+  },
+  {
+    "name": "Mareanie",
+    "ability": "Merciless",
+    "sort": 0
+  },
+  {
+    "name": "Mareanie",
+    "ability": "Limber",
+    "sort": 1
+  },
+  {
+    "name": "Mareanie",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Toxapex",
+    "ability": "Merciless",
+    "sort": 0
+  },
+  {
+    "name": "Toxapex",
+    "ability": "Limber",
+    "sort": 1
+  },
+  {
+    "name": "Toxapex",
+    "ability": "Regenerator",
+    "sort": 2
+  },
+  {
+    "name": "Mudbray",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Mudbray",
+    "ability": "Stamina",
+    "sort": 1
+  },
+  {
+    "name": "Mudbray",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Mudsdale",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Mudsdale",
+    "ability": "Stamina",
+    "sort": 1
+  },
+  {
+    "name": "Mudsdale",
+    "ability": "Inner Focus",
+    "sort": 2
+  },
+  {
+    "name": "Dewpider",
+    "ability": "Water Bubble",
+    "sort": 0
+  },
+  {
+    "name": "Dewpider",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Araquanid",
+    "ability": "Water Bubble",
+    "sort": 0
+  },
+  {
+    "name": "Araquanid",
+    "ability": "Water Absorb",
+    "sort": 2
+  },
+  {
+    "name": "Fomantis",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Fomantis",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Lurantis",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Lurantis",
+    "ability": "Contrary",
+    "sort": 2
+  },
+  {
+    "name": "Morelull",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Morelull",
+    "ability": "Effect Spore",
+    "sort": 1
+  },
+  {
+    "name": "Morelull",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Shiinotic",
+    "ability": "Illuminate",
+    "sort": 0
+  },
+  {
+    "name": "Shiinotic",
+    "ability": "Effect Spore",
+    "sort": 1
+  },
+  {
+    "name": "Shiinotic",
+    "ability": "Rain Dish",
+    "sort": 2
+  },
+  {
+    "name": "Salandit",
+    "ability": "Corrosion",
+    "sort": 0
+  },
+  {
+    "name": "Salandit",
+    "ability": "Oblivious",
+    "sort": 2
+  },
+  {
+    "name": "Salazzle",
+    "ability": "Corrosion",
+    "sort": 0
+  },
+  {
+    "name": "Salazzle",
+    "ability": "Oblivious",
+    "sort": 2
+  },
+  {
+    "name": "Stufful",
+    "ability": "Fluffy",
+    "sort": 0
+  },
+  {
+    "name": "Stufful",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Stufful",
+    "ability": "Cute Charm",
+    "sort": 2
+  },
+  {
+    "name": "Bewear",
+    "ability": "Fluffy",
+    "sort": 0
+  },
+  {
+    "name": "Bewear",
+    "ability": "Klutz",
+    "sort": 1
+  },
+  {
+    "name": "Bewear",
+    "ability": "Unnerve",
+    "sort": 2
+  },
+  {
+    "name": "Bounsweet",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Bounsweet",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Bounsweet",
+    "ability": "Sweet Veil",
+    "sort": 2
+  },
+  {
+    "name": "Steenee",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Steenee",
+    "ability": "Oblivious",
+    "sort": 1
+  },
+  {
+    "name": "Steenee",
+    "ability": "Sweet Veil",
+    "sort": 2
+  },
+  {
+    "name": "Tsareena",
+    "ability": "Leaf Guard",
+    "sort": 0
+  },
+  {
+    "name": "Tsareena",
+    "ability": "Queenly Majesty",
+    "sort": 1
+  },
+  {
+    "name": "Tsareena",
+    "ability": "Sweet Veil",
+    "sort": 2
+  },
+  {
+    "name": "Comfey",
+    "ability": "Flower Veil",
+    "sort": 0
+  },
+  {
+    "name": "Comfey",
+    "ability": "Triage",
+    "sort": 1
+  },
+  {
+    "name": "Comfey",
+    "ability": "Natural Cure",
+    "sort": 2
+  },
+  {
+    "name": "Oranguru",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Oranguru",
+    "ability": "Telepathy",
+    "sort": 1
+  },
+  {
+    "name": "Oranguru",
+    "ability": "Symbiosis",
+    "sort": 2
+  },
+  {
+    "name": "Passimian",
+    "ability": "Receiver",
+    "sort": 0
+  },
+  {
+    "name": "Passimian",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Wimpod",
+    "ability": "Wimp Out",
+    "sort": 0
+  },
+  {
+    "name": "Golisopod",
+    "ability": "Emergency Exit",
+    "sort": 0
+  },
+  {
+    "name": "Sandygast",
+    "ability": "Water Compaction",
+    "sort": 0
+  },
+  {
+    "name": "Sandygast",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Palossand",
+    "ability": "Water Compaction",
+    "sort": 0
+  },
+  {
+    "name": "Palossand",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Pyukumuku",
+    "ability": "Innards Out",
+    "sort": 0
+  },
+  {
+    "name": "Pyukumuku",
+    "ability": "Unaware",
+    "sort": 2
+  },
+  {
+    "name": "Type: Null",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Silvally",
+    "ability": "RKS System",
+    "sort": 0
+  },
+  {
+    "name": "Minior",
+    "subname": "Meteor Form",
+    "ability": "Shields Down",
+    "sort": 0
+  },
+  {
+    "name": "Minior",
+    "subname": "Core Form",
+    "ability": "Shields Down",
+    "sort": 0
+  },
+  {
+    "name": "Komala",
+    "ability": "Comatose",
+    "sort": 0
+  },
+  {
+    "name": "Turtonator",
+    "ability": "Shell Armor",
+    "sort": 0
+  },
+  {
+    "name": "Togedemaru",
+    "ability": "Iron Barbs",
+    "sort": 0
+  },
+  {
+    "name": "Togedemaru",
+    "ability": "Lightning Rod",
+    "sort": 1
+  },
+  {
+    "name": "Togedemaru",
+    "ability": "Sturdy",
+    "sort": 2
+  },
+  {
+    "name": "Mimikyu",
+    "ability": "Disguise",
+    "sort": 0
+  },
+  {
+    "name": "Bruxish",
+    "ability": "Dazzling",
+    "sort": 0
+  },
+  {
+    "name": "Bruxish",
+    "ability": "Strong Jaw",
+    "sort": 1
+  },
+  {
+    "name": "Bruxish",
+    "ability": "Wonder Skin",
+    "sort": 2
+  },
+  {
+    "name": "Drampa",
+    "ability": "Berserk",
+    "sort": 0
+  },
+  {
+    "name": "Drampa",
+    "ability": "Sap Sipper",
+    "sort": 1
+  },
+  {
+    "name": "Drampa",
+    "ability": "Cloud Nine",
+    "sort": 2
+  },
+  {
+    "name": "Dhelmise",
+    "ability": "Steelworker",
+    "sort": 0
+  },
+  {
+    "name": "Jangmo-o",
+    "ability": "Bulletproof",
+    "sort": 0
+  },
+  {
+    "name": "Jangmo-o",
+    "ability": "Soundproof",
+    "sort": 1
+  },
+  {
+    "name": "Jangmo-o",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Hakamo-o",
+    "ability": "Bulletproof",
+    "sort": 0
+  },
+  {
+    "name": "Hakamo-o",
+    "ability": "Soundproof",
+    "sort": 1
+  },
+  {
+    "name": "Hakamo-o",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Kommo-o",
+    "ability": "Bulletproof",
+    "sort": 0
+  },
+  {
+    "name": "Kommo-o",
+    "ability": "Soundproof",
+    "sort": 1
+  },
+  {
+    "name": "Kommo-o",
+    "ability": "Overcoat",
+    "sort": 2
+  },
+  {
+    "name": "Tapu Koko",
+    "ability": "Electric Surge",
+    "sort": 0
+  },
+  {
+    "name": "Tapu Koko",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Tapu Lele",
+    "ability": "Psychic Surge",
+    "sort": 0
+  },
+  {
+    "name": "Tapu Lele",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Tapu Bulu",
+    "ability": "Grassy Surge",
+    "sort": 0
+  },
+  {
+    "name": "Tapu Bulu",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Tapu Fini",
+    "ability": "Misty Surge",
+    "sort": 0
+  },
+  {
+    "name": "Tapu Fini",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Cosmog",
+    "ability": "Unaware",
+    "sort": 0
+  },
+  {
+    "name": "Cosmoem",
+    "ability": "Sturdy",
+    "sort": 0
+  },
+  {
+    "name": "Solgaleo",
+    "ability": "Full Metal Body",
+    "sort": 0
+  },
+  {
+    "name": "Lunala",
+    "ability": "Shadow Shield",
+    "sort": 0
+  },
+  {
+    "name": "Nihilego",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Buzzwole",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Pheromosa",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Xurkitree",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Celesteela",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Kartana",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Guzzlord",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Necrozma",
+    "ability": "Prism Armor",
+    "sort": 0
+  },
+  {
+    "name": "Necrozma",
+    "subname": "Dusk Mane Necrozma",
+    "ability": "Prism Armor",
+    "sort": 0
+  },
+  {
+    "name": "Necrozma",
+    "subname": "Dawn Wings Necrozma",
+    "ability": "Prism Armor",
+    "sort": 0
+  },
+  {
+    "name": "Necrozma",
+    "subname": "Ultra Necrozma",
+    "ability": "Neuroforce",
+    "sort": 0
+  },
+  {
+    "name": "Magearna",
+    "ability": "Soul-Heart",
+    "sort": 0
+  },
+  {
+    "name": "Marshadow",
+    "ability": "Technician",
+    "sort": 0
+  },
+  {
+    "name": "Poipole",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Naganadel",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Stakataka",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Blacephalon",
+    "ability": "Beast Boost",
+    "sort": 0
+  },
+  {
+    "name": "Zeraora",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Meltan",
+    "ability": "Magnet Pull",
+    "sort": 0
+  },
+  {
+    "name": "Melmetal",
+    "ability": "Iron Fist",
+    "sort": 0
+  },
+  {
+    "name": "Grookey",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Grookey",
+    "ability": "Grassy Surge",
+    "sort": 2
+  },
+  {
+    "name": "Thwackey",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Thwackey",
+    "ability": "Grassy Surge",
+    "sort": 2
+  },
+  {
+    "name": "Rillaboom",
+    "ability": "Overgrow",
+    "sort": 0
+  },
+  {
+    "name": "Rillaboom",
+    "ability": "Grassy Surge",
+    "sort": 2
+  },
+  {
+    "name": "Scorbunny",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Scorbunny",
+    "ability": "Libero",
+    "sort": 2
+  },
+  {
+    "name": "Raboot",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Raboot",
+    "ability": "Libero",
+    "sort": 2
+  },
+  {
+    "name": "Cinderace",
+    "ability": "Blaze",
+    "sort": 0
+  },
+  {
+    "name": "Cinderace",
+    "ability": "Libero",
+    "sort": 2
+  },
+  {
+    "name": "Sobble",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Sobble",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Drizzile",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Drizzile",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Inteleon",
+    "ability": "Torrent",
+    "sort": 0
+  },
+  {
+    "name": "Inteleon",
+    "ability": "Sniper",
+    "sort": 2
+  },
+  {
+    "name": "Skwovet",
+    "ability": "Cheek Pouch",
+    "sort": 0
+  },
+  {
+    "name": "Skwovet",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Greedent",
+    "ability": "Cheek Pouch",
+    "sort": 0
+  },
+  {
+    "name": "Greedent",
+    "ability": "Gluttony",
+    "sort": 2
+  },
+  {
+    "name": "Rookidee",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Rookidee",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Rookidee",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Corvisquire",
+    "ability": "Keen Eye",
+    "sort": 0
+  },
+  {
+    "name": "Corvisquire",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Corvisquire",
+    "ability": "Big Pecks",
+    "sort": 2
+  },
+  {
+    "name": "Corviknight",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Corviknight",
+    "ability": "Unnerve",
+    "sort": 1
+  },
+  {
+    "name": "Corviknight",
+    "ability": "Mirror Armor",
+    "sort": 2
+  },
+  {
+    "name": "Blipbug",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Blipbug",
+    "ability": "Compound Eyes",
+    "sort": 1
+  },
+  {
+    "name": "Blipbug",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Dottler",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Dottler",
+    "ability": "Compound Eyes",
+    "sort": 1
+  },
+  {
+    "name": "Dottler",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Orbeetle",
+    "ability": "Swarm",
+    "sort": 0
+  },
+  {
+    "name": "Orbeetle",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Orbeetle",
+    "ability": "Telepathy",
+    "sort": 2
+  },
+  {
+    "name": "Nickit",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Nickit",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Nickit",
+    "ability": "Stakeout",
+    "sort": 2
+  },
+  {
+    "name": "Thievul",
+    "ability": "Run Away",
+    "sort": 0
+  },
+  {
+    "name": "Thievul",
+    "ability": "Unburden",
+    "sort": 1
+  },
+  {
+    "name": "Thievul",
+    "ability": "Stakeout",
+    "sort": 2
+  },
+  {
+    "name": "Gossifleur",
+    "ability": "Cotton Down",
+    "sort": 0
+  },
+  {
+    "name": "Gossifleur",
+    "ability": "Regenerator",
+    "sort": 1
+  },
+  {
+    "name": "Gossifleur",
+    "ability": "Effect Spore",
+    "sort": 2
+  },
+  {
+    "name": "Eldegoss",
+    "ability": "Cotton Down",
+    "sort": 0
+  },
+  {
+    "name": "Eldegoss",
+    "ability": "Regenerator",
+    "sort": 1
+  },
+  {
+    "name": "Eldegoss",
+    "ability": "Effect Spore",
+    "sort": 2
+  },
+  {
+    "name": "Wooloo",
+    "ability": "Fluffy",
+    "sort": 0
+  },
+  {
+    "name": "Wooloo",
+    "ability": "Run Away",
+    "sort": 1
+  },
+  {
+    "name": "Wooloo",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Dubwool",
+    "ability": "Fluffy",
+    "sort": 0
+  },
+  {
+    "name": "Dubwool",
+    "ability": "Steadfast",
+    "sort": 1
+  },
+  {
+    "name": "Dubwool",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Chewtle",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Chewtle",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Chewtle",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Drednaw",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Drednaw",
+    "ability": "Shell Armor",
+    "sort": 1
+  },
+  {
+    "name": "Drednaw",
+    "ability": "Swift Swim",
+    "sort": 2
+  },
+  {
+    "name": "Yamper",
+    "ability": "Ball Fetch",
+    "sort": 0
+  },
+  {
+    "name": "Yamper",
+    "ability": "Rattled",
+    "sort": 2
+  },
+  {
+    "name": "Boltund",
+    "ability": "Strong Jaw",
+    "sort": 0
+  },
+  {
+    "name": "Boltund",
+    "ability": "Competitive",
+    "sort": 2
+  },
+  {
+    "name": "Rolycoly",
+    "ability": "Steam Engine",
+    "sort": 0
+  },
+  {
+    "name": "Rolycoly",
+    "ability": "Heatproof",
+    "sort": 1
+  },
+  {
+    "name": "Rolycoly",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Carkol",
+    "ability": "Steam Engine",
+    "sort": 0
+  },
+  {
+    "name": "Carkol",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Carkol",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Coalossal",
+    "ability": "Steam Engine",
+    "sort": 0
+  },
+  {
+    "name": "Coalossal",
+    "ability": "Flame Body",
+    "sort": 1
+  },
+  {
+    "name": "Coalossal",
+    "ability": "Flash Fire",
+    "sort": 2
+  },
+  {
+    "name": "Applin",
+    "ability": "Ripen",
+    "sort": 0
+  },
+  {
+    "name": "Applin",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Applin",
+    "ability": "Bulletproof",
+    "sort": 2
+  },
+  {
+    "name": "Flapple",
+    "ability": "Ripen",
+    "sort": 0
+  },
+  {
+    "name": "Flapple",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Flapple",
+    "ability": "Hustle",
+    "sort": 2
+  },
+  {
+    "name": "Appletun",
+    "ability": "Ripen",
+    "sort": 0
+  },
+  {
+    "name": "Appletun",
+    "ability": "Gluttony",
+    "sort": 1
+  },
+  {
+    "name": "Appletun",
+    "ability": "Thick Fat",
+    "sort": 2
+  },
+  {
+    "name": "Silicobra",
+    "ability": "Sand Spit",
+    "sort": 0
+  },
+  {
+    "name": "Silicobra",
+    "ability": "Shed Skin",
+    "sort": 1
+  },
+  {
+    "name": "Silicobra",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Sandaconda",
+    "ability": "Sand Spit",
+    "sort": 0
+  },
+  {
+    "name": "Sandaconda",
+    "ability": "Shed Skin",
+    "sort": 1
+  },
+  {
+    "name": "Sandaconda",
+    "ability": "Sand Veil",
+    "sort": 2
+  },
+  {
+    "name": "Cramorant",
+    "ability": "Gulp Missile",
+    "sort": 0
+  },
+  {
+    "name": "Arrokuda",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Arrokuda",
+    "ability": "Propeller Tail",
+    "sort": 2
+  },
+  {
+    "name": "Barraskewda",
+    "ability": "Swift Swim",
+    "sort": 0
+  },
+  {
+    "name": "Barraskewda",
+    "ability": "Propeller Tail",
+    "sort": 2
+  },
+  {
+    "name": "Toxel",
+    "ability": "Rattled",
+    "sort": 0
+  },
+  {
+    "name": "Toxel",
+    "ability": "Static",
+    "sort": 1
+  },
+  {
+    "name": "Toxel",
+    "ability": "Klutz",
+    "sort": 2
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Amped Form",
+    "ability": "Punk Rock",
+    "sort": 0
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Amped Form",
+    "ability": "Plus",
+    "sort": 1
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Amped Form",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Low Key Form",
+    "ability": "Punk Rock",
+    "sort": 0
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Low Key Form",
+    "ability": "Minus",
+    "sort": 1
+  },
+  {
+    "name": "Toxtricity",
+    "subname": "Low Key Form",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Sizzlipede",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Sizzlipede",
+    "ability": "White Smoke",
+    "sort": 1
+  },
+  {
+    "name": "Sizzlipede",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Centiskorch",
+    "ability": "Flash Fire",
+    "sort": 0
+  },
+  {
+    "name": "Centiskorch",
+    "ability": "White Smoke",
+    "sort": 1
+  },
+  {
+    "name": "Centiskorch",
+    "ability": "Flame Body",
+    "sort": 2
+  },
+  {
+    "name": "Clobbopus",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Clobbopus",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Grapploct",
+    "ability": "Limber",
+    "sort": 0
+  },
+  {
+    "name": "Grapploct",
+    "ability": "Technician",
+    "sort": 2
+  },
+  {
+    "name": "Sinistea",
+    "ability": "Weak Armor",
+    "sort": 0
+  },
+  {
+    "name": "Sinistea",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Polteageist",
+    "ability": "Weak Armor",
+    "sort": 0
+  },
+  {
+    "name": "Polteageist",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Hatenna",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Hatenna",
+    "ability": "Anticipation",
+    "sort": 1
+  },
+  {
+    "name": "Hatenna",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Hattrem",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Hattrem",
+    "ability": "Anticipation",
+    "sort": 1
+  },
+  {
+    "name": "Hattrem",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Hatterene",
+    "ability": "Healer",
+    "sort": 0
+  },
+  {
+    "name": "Hatterene",
+    "ability": "Anticipation",
+    "sort": 1
+  },
+  {
+    "name": "Hatterene",
+    "ability": "Magic Bounce",
+    "sort": 2
+  },
+  {
+    "name": "Impidimp",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Impidimp",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Impidimp",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Morgrem",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Morgrem",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Morgrem",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Grimmsnarl",
+    "ability": "Prankster",
+    "sort": 0
+  },
+  {
+    "name": "Grimmsnarl",
+    "ability": "Frisk",
+    "sort": 1
+  },
+  {
+    "name": "Grimmsnarl",
+    "ability": "Pickpocket",
+    "sort": 2
+  },
+  {
+    "name": "Milcery",
+    "ability": "Sweet Veil",
+    "sort": 0
+  },
+  {
+    "name": "Milcery",
+    "ability": "Aroma Veil",
+    "sort": 2
+  },
+  {
+    "name": "Alcremie",
+    "ability": "Sweet Veil",
+    "sort": 0
+  },
+  {
+    "name": "Alcremie",
+    "ability": "Aroma Veil",
+    "sort": 2
+  },
+  {
+    "name": "Falinks",
+    "ability": "Battle Armor",
+    "sort": 0
+  },
+  {
+    "name": "Falinks",
+    "ability": "Defiant",
+    "sort": 2
+  },
+  {
+    "name": "Pincurchin",
+    "ability": "Lightning Rod",
+    "sort": 0
+  },
+  {
+    "name": "Pincurchin",
+    "ability": "Electric Surge",
+    "sort": 2
+  },
+  {
+    "name": "Snom",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Snom",
+    "ability": "Ice Scales",
+    "sort": 2
+  },
+  {
+    "name": "Frosmoth",
+    "ability": "Shield Dust",
+    "sort": 0
+  },
+  {
+    "name": "Frosmoth",
+    "ability": "Ice Scales",
+    "sort": 2
+  },
+  {
+    "name": "Stonjourner",
+    "ability": "Power Spot",
+    "sort": 0
+  },
+  {
+    "name": "Eiscue",
+    "subname": "Ice Face",
+    "ability": "Ice Face",
+    "sort": 0
+  },
+  {
+    "name": "Eiscue",
+    "subname": "Noice Face",
+    "ability": "Ice Face",
+    "sort": 0
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Male",
+    "ability": "Inner Focus",
+    "sort": 0
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Male",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Male",
+    "ability": "Psychic Surge",
+    "sort": 2
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Female",
+    "ability": "Own Tempo",
+    "sort": 0
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Female",
+    "ability": "Synchronize",
+    "sort": 1
+  },
+  {
+    "name": "Indeedee",
+    "subname": "Female",
+    "ability": "Psychic Surge",
+    "sort": 2
+  },
+  {
+    "name": "Morpeko",
+    "subname": "Full Belly Mode",
+    "ability": "Hunger Switch",
+    "sort": 0
+  },
+  {
+    "name": "Morpeko",
+    "subname": "Hangry Mode",
+    "ability": "Hunger Switch",
+    "sort": 0
+  },
+  {
+    "name": "Cufant",
+    "ability": "Sheer Force",
+    "sort": 0
+  },
+  {
+    "name": "Cufant",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Copperajah",
+    "ability": "Sheer Force",
+    "sort": 0
+  },
+  {
+    "name": "Copperajah",
+    "ability": "Heavy Metal",
+    "sort": 2
+  },
+  {
+    "name": "Dracozolt",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Dracozolt",
+    "ability": "Hustle",
+    "sort": 1
+  },
+  {
+    "name": "Dracozolt",
+    "ability": "Sand Rush",
+    "sort": 2
+  },
+  {
+    "name": "Arctozolt",
+    "ability": "Volt Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Arctozolt",
+    "ability": "Static",
+    "sort": 1
+  },
+  {
+    "name": "Arctozolt",
+    "ability": "Slush Rush",
+    "sort": 2
+  },
+  {
+    "name": "Dracovish",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Dracovish",
+    "ability": "Strong Jaw",
+    "sort": 1
+  },
+  {
+    "name": "Dracovish",
+    "ability": "Sand Rush",
+    "sort": 2
+  },
+  {
+    "name": "Arctovish",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Arctovish",
+    "ability": "Ice Body",
+    "sort": 1
+  },
+  {
+    "name": "Arctovish",
+    "ability": "Slush Rush",
+    "sort": 2
+  },
+  {
+    "name": "Duraludon",
+    "ability": "Light Metal",
+    "sort": 0
+  },
+  {
+    "name": "Duraludon",
+    "ability": "Heavy Metal",
+    "sort": 1
+  },
+  {
+    "name": "Duraludon",
+    "ability": "Stalwart",
+    "sort": 2
+  },
+  {
+    "name": "Dreepy",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Dreepy",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Dreepy",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Drakloak",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Drakloak",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Drakloak",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Dragapult",
+    "ability": "Clear Body",
+    "sort": 0
+  },
+  {
+    "name": "Dragapult",
+    "ability": "Infiltrator",
+    "sort": 1
+  },
+  {
+    "name": "Dragapult",
+    "ability": "Cursed Body",
+    "sort": 2
+  },
+  {
+    "name": "Zacian",
+    "subname": "Hero of Many Battles",
+    "ability": "Intrepid Sword",
+    "sort": 0
+  },
+  {
+    "name": "Zacian",
+    "subname": "Crowned Sword",
+    "ability": "Intrepid Sword",
+    "sort": 0
+  },
+  {
+    "name": "Zamazenta",
+    "subname": "Hero of Many Battles",
+    "ability": "Dauntless Shield",
+    "sort": 0
+  },
+  {
+    "name": "Zamazenta",
+    "subname": "Crowned Shield",
+    "ability": "Dauntless Shield",
+    "sort": 0
+  },
+  {
+    "name": "Eternatus",
+    "ability": "Pressure",
+    "sort": 0
+  },
+  {
+    "name": "Eternatus",
+    "subname": "Eternamax",
+    "ability": "Pressure",
+    "sort": 0
+  }
+]
