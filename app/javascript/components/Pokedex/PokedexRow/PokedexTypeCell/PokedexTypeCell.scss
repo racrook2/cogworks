@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
 
-  &__type + &__type {
+  & &__type + &__type {
     margin-left: 6px;
   }
 }

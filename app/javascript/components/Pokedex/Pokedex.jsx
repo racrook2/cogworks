@@ -1,55 +1,45 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import Table from 'components/shared/Table/Table'
 import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow'
-import './Pokedex.scss'
 
-class Pokedex extends React.Component {
-  constructor(props) {
-    super(props);
+function Pokedex() {
+  const [ loading, setLoading ] = useState(true);
+  const [ pokemon, setPokemon ] = useState([]);
 
-    this.state = {
-      pokemon: []
-    }
-  }
-
-  componentDidMount() {
+  useEffect(() => {
     fetch('/pokemon')
       .then(response =>
         response.json()
       )
-      .then(data =>
-        this.setState({ pokemon: data })
-      )
-  }
+      .then(data => {
+        setLoading(false);
+        setPokemon(data)
+      })
+  }, []);
 
-  render() {
-    return (
-      <table className='Pokedex'>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Ability</th>
-            <th>HP</th>
-            <th>Attack</th>
-            <th>Defense</th>
-            <th>Special Attack</th>
-            <th>Special Defense</th>
-            <th>Speed</th>
-            <th>Total</th>
-          </tr>
-        </thead>
-        <tbody>
-          {
-            this.state.pokemon.map((pokemon, index) => {
-              return (
-                <PokedexRow key={pokemon.id} index={index} pokemon={pokemon} />
-              )
-            })
-          }
-        </tbody>
-      </table>
-    )
-  }
+  return (
+    <Table
+      columns={[
+        'Name',
+        'Type',
+        'Abilitiy',
+        'HP',
+        'Attack',
+        'Defense',
+        'Special Attack',
+        'Special Defense',
+        'Speed',
+        'Total'
+      ]}
+      loading={loading}
+    >
+      {
+        pokemon.map((pokemon, index) =>
+          <PokedexRow key={pokemon.id} index={index} pokemon={pokemon} />
+        )
+      }
+    </Table>
+  )
 }
 
 export default Pokedex

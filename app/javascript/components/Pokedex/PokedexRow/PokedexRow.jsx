@@ -1,4 +1,5 @@
 import React from 'react'
+import TableRow from 'components/shared/Table/TableRow/TableRow'
 import PokedexNameCell from 'components/Pokedex/PokedexRow/PokedexNameCell/PokedexNameCell'
 import PokedexTypeCell from 'components/Pokedex/PokedexRow/PokedexTypeCell/PokedexTypeCell'
 import PokedexAbilityCell from 'components/Pokedex/PokedexRow/PokedexAbilityCell/PokedexAbilityCell'
@@ -6,7 +7,7 @@ import './PokedexRow.scss'
 
 function PokedexRow({ index, pokemon }) {
   return(
-    <tr className={`Pokedex__PokedexRow ${index % 2 === 0 ? 'Pokedex__PokedexRow--even' : 'Pokedex__PokedexRow--odd'}`}>
+    <TableRow className='Pokedex__PokedexRow' index={index}>
       <td className='Pokedex__PokedexRow__td'>
         <PokedexNameCell
           name={pokemon.name}
@@ -47,7 +48,7 @@ function PokedexRow({ index, pokemon }) {
       <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat Pokedex__PokedexRow__td--bst'>
         { pokemon.bst }
       </td>
-    </tr>
+    </TableRow>
   )
 }
 

@@ -7,6 +7,7 @@ function VoltorbFlipInfoTile({ totalValue, voltorbCount }) {
     <div className='VoltorbFlip__VoltorbFlipInfoTile'>
       <img
         src={InfoTile}
+        alt='Info Tile'
         className='VoltorbFlip__VoltorbFlipInfoTile__tile'
       />
       <span className='VoltorbFlip__VoltorbFlipInfoTile__value'>

@@ -1,18 +1,7 @@
 @import 'app/assets/stylesheets/colors';
 
 .Pokedex__PokedexRow {
-  height: 64px;
-
-  &--even {
-    background-color: $white;
-  }
-
-  &--odd {
-    background-color: $lightgray;
-  }
-
-  &__td {
-    align-items: center;
+  & &__td {
     padding: 8px;
 
     &--stat {

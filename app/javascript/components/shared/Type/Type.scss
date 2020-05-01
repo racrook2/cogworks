@@ -9,76 +9,76 @@
   justify-content: center;
   padding-top: 2px;
   width: 72px;
-}
 
-.Type--Bug {
-  background-color: $bug;
-}
+  &--Bug {
+    background-color: $bug;
+  }
 
-.Type--Dark {
-  background-color: $dark;
-}
+  &--Dark {
+    background-color: $dark;
+  }
 
-.Type--Dragon {
-  background-color: $dragon;
-}
+  &--Dragon {
+    background-color: $dragon;
+  }
 
-.Type--Electric {
-  background-color: $electric;
-}
+  &--Electric {
+    background-color: $electric;
+  }
 
-.Type--Fairy {
-  background-color: $fairy;
-}
+  &--Fairy {
+    background-color: $fairy;
+  }
 
-.Type--Fighting {
-  background-color: $fighting;
-}
+  &--Fighting {
+    background-color: $fighting;
+  }
 
-.Type--Fire {
-  background-color: $fire;
-}
+  &--Fire {
+    background-color: $fire;
+  }
 
-.Type--Flying {
-  background-color: $flying;
-}
+  &--Flying {
+    background-color: $flying;
+  }
 
-.Type--Ghost {
-  background-color: $ghost;
-}
+  &--Ghost {
+    background-color: $ghost;
+  }
 
-.Type--Grass {
-  background-color: $grass;
-}
+  &--Grass {
+    background-color: $grass;
+  }
 
-.Type--Ground {
-  background-color: $ground;
-}
+  &--Ground {
+    background-color: $ground;
+  }
 
-.Type--Ice {
-  background-color: $ice;
-}
+  &--Ice {
+    background-color: $ice;
+  }
 
-.Type--Normal {
-  background-color: $normal;
-}
+  &--Normal {
+    background-color: $normal;
+  }
 
-.Type--Poison {
-  background-color: $poison;
-}
+  &--Poison {
+    background-color: $poison;
+  }
 
-.Type--Psychic {
-  background-color: $psychic;
-}
+  &--Psychic {
+    background-color: $psychic;
+  }
 
-.Type--Rock {
-  background-color: $rock;
-}
+  &--Rock {
+    background-color: $rock;
+  }
 
-.Type--Steel {
-  background-color: $steel;
-}
+  &--Steel {
+    background-color: $steel;
+  }
 
-.Type--Water {
-  background-color: $water;
+  &--Water {
+    background-color: $water;
+  }
 }

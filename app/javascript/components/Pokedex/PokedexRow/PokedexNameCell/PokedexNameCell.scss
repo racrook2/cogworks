@@ -1,7 +1,7 @@
 @import 'app/assets/stylesheets/colors';
 
 .Pokedex__PokedexNameCell {
-  &__subname {
+  & &__subname {
     color: $darkgray;
     font-style: italic;
   }

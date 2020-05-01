@@ -1,0 +1,8 @@
+.Table {
+  border-collapse: collapse;
+
+  & &__loading {
+    height: 400px;
+    text-align: center;
+  }
+}
