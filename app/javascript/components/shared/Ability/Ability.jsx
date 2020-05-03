@@ -1,12 +1,17 @@
 import React from 'react'
-import './Type.scss'
+import './Ability.scss'
 
-function Type({ type }) {
+function Ability({ ability }) {
   return(
-    <div className={`Type Type--${type.name}`}>
-      { type.name }
+    <div className='Ability'>
+      <span className='Ability__name'>
+        { ability.name }
+      </span>
+      <span className='Ability__description'>
+        { ability.description }
+      </span>
     </div>
   )
 }
 
-export default Type
+export default Ability

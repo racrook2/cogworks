@@ -1,0 +1,27 @@
+@import 'app/assets/stylesheets/colors';
+
+.Ability {
+  position: relative;
+
+  & &__name {
+    border-bottom: 1px dashed $gray;
+    display: inline-block;
+  }
+
+  & &__description {
+    background: $white;
+    border: 1px solid $gray;
+    color: $black;
+    left: 0;
+    margin-left: -8px;
+    padding: 8px;
+    position: absolute;
+    bottom: calc(100% + 8px);
+    visibility: hidden;
+    z-index: 1;
+  }
+
+  &:hover &__description {
+    visibility: visible;
+  }
+}
