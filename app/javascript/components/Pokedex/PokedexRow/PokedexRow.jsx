@@ -3,49 +3,48 @@ import TableRow from 'components/shared/Table/TableRow/TableRow'
 import PokedexNameCell from 'components/Pokedex/PokedexRow/PokedexNameCell/PokedexNameCell'
 import PokedexTypeCell from 'components/Pokedex/PokedexRow/PokedexTypeCell/PokedexTypeCell'
 import PokedexAbilityCell from 'components/Pokedex/PokedexRow/PokedexAbilityCell/PokedexAbilityCell'
-import './PokedexRow.scss'
 
 function PokedexRow({ index, pokemon }) {
   return(
-    <TableRow className='Pokedex__PokedexRow' index={index}>
-      <td className='Pokedex__PokedexRow__td'>
+    <TableRow index={index}>
+      <td className='Table__TableRow__td'>
         <PokedexNameCell
           name={pokemon.name}
           subname={pokemon.subname}
         />
       </td>
-      <td className='Pokedex__PokedexRow__td'>
+      <td className='Table__TableRow__td'>
         <PokedexTypeCell
           type_1={pokemon.type_1}
           type_2={pokemon.type_2}
         />
       </td>
-      <td className='Pokedex__PokedexRow__td'>
+      <td className='Table__TableRow__td'>
         <PokedexAbilityCell
           ability_1={pokemon.ability_1}
           ability_2={pokemon.ability_2}
           hidden_ability={pokemon.hidden_ability}
         />
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.hp }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.atk }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.def }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.spa }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.spd }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat'>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { pokemon.spe }
       </td>
-      <td className='Pokedex__PokedexRow__td Pokedex__PokedexRow__td--stat Pokedex__PokedexRow__td--bst'>
+      <td className='Table__TableRow__td Table__TableRow__td--number Table__TableRow__td--strong'>
         { pokemon.bst }
       </td>
     </TableRow>

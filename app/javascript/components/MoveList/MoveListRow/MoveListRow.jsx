@@ -5,28 +5,28 @@ import Type from 'components/shared/Type/Type'
 function MoveListRow({ index, move }) {
   return(
     <TableRow index={index}>
-      <td>
+      <td className='Table__TableRow__td'>
         { move.name }
       </td>
-      <td>
+      <td className='Table__TableRow__td'>
         <Type type={move.type} />
       </td>
-      <td>
+      <td className='Table__TableRow__td'>
         { move.category }
       </td>
-      <td>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { move.power }
       </td>
-      <td>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { move.pp }
       </td>
-      <td>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { move.accuracy }
       </td>
-      <td>
+      <td className='Table__TableRow__td'>
         { move.description }
       </td>
-      <td>
+      <td className='Table__TableRow__td Table__TableRow__td--number'>
         { move.probability }
       </td>
     </TableRow>

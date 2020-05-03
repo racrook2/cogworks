@@ -10,4 +10,16 @@
   &--odd {
     background-color: $lightgray;
   }
+
+  & &__td {
+    padding: 8px;
+
+    &--number {
+      text-align: center;
+    }
+
+    &--strong {
+      font-weight: bold;
+    }
+  }
 }
