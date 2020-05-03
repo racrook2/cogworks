@@ -31,18 +31,30 @@ class Pokemon < ::ApplicationRecord
   end
 
   def ability_1
-    abilities.find_by(abilities_pokemon: { sort: 0 })
+    ability(0)
   end
 
   def ability_2
-    abilities.find_by(abilities_pokemon: { sort: 1 })
+    ability(1)
   end
 
   def hidden_ability
-    abilities.find_by(abilities_pokemon: { sort: 2 })
+    ability(2)
   end
 
   def bst
     hp + atk + self.def + spa + spd + spe
+  end
+
+  private
+
+  def ability(sort)
+    abilities.find do |ability|
+      ability_relation = abilities_pokemon.find do |ability_relation|
+        ability_relation.sort == sort
+      end
+
+      ability.id == ability_relation&.ability_id
+    end
   end
 end

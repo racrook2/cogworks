@@ -5,8 +5,13 @@ import PokedexTypeCell from 'components/Pokedex/PokedexRow/PokedexTypeCell/Poked
 import PokedexAbilityCell from 'components/Pokedex/PokedexRow/PokedexAbilityCell/PokedexAbilityCell'
 
 function PokedexRow({ index, pokemon }) {
+  const formatNumber = number => `#${String(number).padStart(3, 0)}`;
+
   return(
     <TableRow index={index}>
+      <td className='Table__TableRow__td Table__TableRow__td--number Table__TableRow__td--strong'>
+        { formatNumber(pokemon.number) }
+      </td>
       <td className='Table__TableRow__td'>
         <PokedexNameCell
           name={pokemon.name}

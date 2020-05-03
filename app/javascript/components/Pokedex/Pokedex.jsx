@@ -20,9 +20,10 @@ function Pokedex() {
   return (
     <Table
       columns={[
+        '',
         'Name',
         'Type',
-        'Abilitiy',
+        'Ability',
         'HP',
         'Attack',
         'Defense',

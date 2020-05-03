@@ -9,7 +9,12 @@ function Table({ columns, children, loading }) {
         <tr>
           {
             columns.map(column =>
-              <th key={column}>{ column }</th>
+              <th
+                className='Table__header'
+                key={column}
+              >
+                { column }
+              </th>
             )
           }
         </tr>

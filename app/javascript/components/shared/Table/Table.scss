@@ -1,6 +1,11 @@
 .Table {
   border-collapse: collapse;
 
+  & &__header {
+    padding: 8px;
+    text-align: left;
+  }
+
   & &__loading {
     height: 400px;
     text-align: center;

@@ -1,6 +1,6 @@
 class PokemonController < ApplicationController
   def index
-    render json: ::Pokemon.includes(:abilities).includes(:types).all.map(&:details)
+    render json: ::Pokemon.includes(:abilities).includes(:types).map(&:details)
   end
 
   def show

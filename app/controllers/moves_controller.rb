@@ -1,6 +1,6 @@
 class MovesController < ApplicationController
   def index
-    render json: ::Move.includes(:type).all.map(&:details)
+    render json: ::Move.includes(:type).map(&:details)
   end
 
   def show

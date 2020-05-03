@@ -3,6 +3,7 @@
 .Pokedex__PokedexNameCell {
   & &__subname {
     color: $darkgray;
+    font-size: 80%;
     font-style: italic;
   }
 }
