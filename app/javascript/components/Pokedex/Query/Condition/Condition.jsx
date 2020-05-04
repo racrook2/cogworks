@@ -5,17 +5,17 @@ import Number from 'components/shared/inputs/Number/Number'
 import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
 
 function Condition({ id, condition, updateCondition, removeCondition }) {
-  const isNumericalAttribute = attribute => (
-    ['hp', 'atk', 'def', 'spa', 'spd', 'spe'].includes(attribute)
+  const isNumericalAttribute = attr => (
+    ['hp', 'atk', 'def', 'spa', 'spd', 'spe'].includes(attr)
   );
 
-  const attributeCondition = attribute => {
-    let newCondition = { attribute: attribute };
+  const attributeCondition = attr => {
+    let newCondition = { attr: attr };
 
-    if (isNumericalAttribute(attribute)) {
-      newCondition.comparison = undefined
+    if (isNumericalAttribute(attr)) {
+      newCondition.operator = undefined
     } else {
-      newCondition.comparison = 'eq'
+      newCondition.operator = 'eq'
     }
 
     return newCondition;
@@ -23,7 +23,6 @@ function Condition({ id, condition, updateCondition, removeCondition }) {
 
   return(
     <div>
-      { id }
       <Select
         options={[
           ['name', 'Name'],
@@ -42,51 +41,51 @@ function Condition({ id, condition, updateCondition, removeCondition }) {
           )
         }
       />
-      { isNumericalAttribute(condition.attribute) &&
+      { isNumericalAttribute(condition.attr) &&
         <>
           is
           <Select
             options={[
               ['eq', 'Equal to'],
-              ['gt', 'Greater than'],
-              ['lt', 'Less than'],
+              ['gte', 'At least'],
+              ['lte', 'At most'],
               ['between', 'Between']
             ]}
             onChange={
               e => updateCondition(
-                id, { comparison: e.target.value }
+                id, { operator: e.target.value }
               )
             }
           />
         </>
       }
-      { !isNumericalAttribute(condition.attribute) &&
-        condition.comparison &&
+      { !isNumericalAttribute(condition.attr) &&
+        condition.operator &&
         <>
           is
           <Text
             onChange={
               e => updateCondition(
-                id, { value: e.target.value }
+                id, { val: e.target.value }
               )
             }
           />
         </>
       }
-      { isNumericalAttribute(condition.attribute) &&
-        condition.comparison &&
+      { isNumericalAttribute(condition.attr) &&
+        condition.operator &&
         <Number
           min={0}
           max={255}
           onChange={
             e => updateCondition(
-              id, { value: e.target.value }
+              id, { val: e.target.value }
             )
           }
         />
       }
-      { isNumericalAttribute(condition.attribute) &&
-        condition.comparison === 'between' &&
+      { isNumericalAttribute(condition.attr) &&
+        condition.operator === 'between' &&
         <>
           and
           <Number
@@ -94,7 +93,7 @@ function Condition({ id, condition, updateCondition, removeCondition }) {
             max={255}
             onChange={
               e => updateCondition(
-                id, { value: e.target.value }
+                id, { val: e.target.value }
               )
             }
           />
