@@ -1,27 +1,105 @@
-import React, { useState } from 'react'
-import LinkButton from 'components/shared/LinkButton/LinkButton'
+import React from 'react'
+import Select from 'components/shared/inputs/Select/Select'
+import Text from 'components/shared/inputs/Text/Text'
+import Number from 'components/shared/inputs/Number/Number'
+import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
 
-function Condition({ id, updateCondition, removeCondition }) {
-  const [ condition, setCondition ] = useState({});
+function Condition({ id, condition, updateCondition, removeCondition }) {
+  const isNumericalAttribute = attribute => (
+    ['hp', 'atk', 'def', 'spa', 'spd', 'spe'].includes(attribute)
+  );
 
-  const setAttribute = (e) => {
+  const attributeCondition = attribute => {
+    let newCondition = { attribute: attribute };
 
+    if (isNumericalAttribute(attribute)) {
+      newCondition.comparison = undefined
+    } else {
+      newCondition.comparison = 'eq'
+    }
+
+    return newCondition;
   };
 
   return(
     <div>
       { id }
-      <select onChange={(e) => setAttribute(e)}>
-        <option value='name'>Name</option>
-        <option value='types'>Type</option>
-        <option value='abilities'>Ability</option>
-        <option value='hp'>HP</option>
-        <option value='atk'>Attack</option>
-        <option value='def'>Defense</option>
-        <option value='spa'>Special Attack</option>
-        <option value='spd'>Special Defense</option>
-        <option value='spe'>Speed</option>
-      </select>
+      <Select
+        options={[
+          ['name', 'Name'],
+          ['types', 'Type'],
+          ['abilities', 'Ability'],
+          ['hp', 'HP'],
+          ['atk', 'Attack'],
+          ['def', 'Defense'],
+          ['spa', 'Special Attack'],
+          ['spd', 'Special Defense'],
+          ['spe', 'Speed'],
+        ]}
+        onChange={
+          e => updateCondition(
+            id, attributeCondition(e.target.value)
+          )
+        }
+      />
+      { isNumericalAttribute(condition.attribute) &&
+        <>
+          is
+          <Select
+            options={[
+              ['eq', 'Equal to'],
+              ['gt', 'Greater than'],
+              ['lt', 'Less than'],
+              ['between', 'Between']
+            ]}
+            onChange={
+              e => updateCondition(
+                id, { comparison: e.target.value }
+              )
+            }
+          />
+        </>
+      }
+      { !isNumericalAttribute(condition.attribute) &&
+        condition.comparison &&
+        <>
+          is
+          <Text
+            onChange={
+              e => updateCondition(
+                id, { value: e.target.value }
+              )
+            }
+          />
+        </>
+      }
+      { isNumericalAttribute(condition.attribute) &&
+        condition.comparison &&
+        <Number
+          min={0}
+          max={255}
+          onChange={
+            e => updateCondition(
+              id, { value: e.target.value }
+            )
+          }
+        />
+      }
+      { isNumericalAttribute(condition.attribute) &&
+        condition.comparison === 'between' &&
+        <>
+          and
+          <Number
+            min={0}
+            max={255}
+            onChange={
+              e => updateCondition(
+                id, { value: e.target.value }
+              )
+            }
+          />
+        </>
+      }
       <LinkButton onClick={() => removeCondition(id)}>╳</LinkButton>
     </div>
   )

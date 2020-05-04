@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import Condition from 'components/Pokedex/Query/Condition/Condition'
-import LinkButton from 'components/shared/LinkButton/LinkButton'
-import Button from 'components/shared/Button/Button'
+import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
+import Button from 'components/shared/buttons/Button/Button'
 
-function Query() {
+function Query({ handleSubmit }) {
   const [ conditionId, setConditionId ] = useState(0);
   const [ conditions, setConditions ] = useState({});
 
@@ -20,10 +20,11 @@ function Query() {
     setConditionId(conditionId + 1)
   };
 
-  const updateCondition = (id, condition) => {
+  const updateCondition = (id, newCondition) => {
     setConditions(() => {
       let newConditions = clonedConditions();
-      newConditions[conditionId] = condition;
+      const condition = newConditions[id];
+      newConditions[id] = Object.assign({}, condition, newCondition);
 
       return newConditions
     });
@@ -46,6 +47,7 @@ function Query() {
           <Condition
             key={id}
             id={id}
+            condition={conditions[id]}
             updateCondition={updateCondition}
             removeCondition={removeCondition}
           />
@@ -54,7 +56,9 @@ function Query() {
       <LinkButton onClick={addCondition}>
         + Add Condition
       </LinkButton>
-      <Button>Search</Button>
+      <Button onClick={() => handleSubmit(conditions)}>
+        Search
+      </Button>
     </div>
   )
 }

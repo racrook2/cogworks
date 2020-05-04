@@ -1,8 +1,8 @@
 import React from 'react'
 import TableRow from 'components/shared/Table/TableRow/TableRow'
-import PokedexNameCell from 'components/Pokedex/PokedexRow/PokedexNameCell/PokedexNameCell'
-import PokedexTypeCell from 'components/Pokedex/PokedexRow/PokedexTypeCell/PokedexTypeCell'
-import PokedexAbilityCell from 'components/Pokedex/PokedexRow/PokedexAbilityCell/PokedexAbilityCell'
+import PokedexNameCell from 'components/Pokedex/PokedexRow/NameCell/NameCell'
+import PokedexTypeCell from 'components/Pokedex/PokedexRow/TypeCell/TypeCell'
+import PokedexAbilityCell from 'components/Pokedex/PokedexRow/AbilityCell/AbilityCell'
 
 function PokedexRow({ index, pokemon }) {
   const formatNumber = number => `#${String(number).padStart(3, 0)}`;

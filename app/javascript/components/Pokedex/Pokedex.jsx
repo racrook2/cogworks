@@ -18,9 +18,22 @@ function Pokedex() {
       })
   }, []);
 
+  const handleSubmit = (data) => {
+    setLoading(true);
+
+    fetch(`/pokemon?conditions=${JSON.stringify(data)}`)
+      .then(response =>
+        response.json()
+      )
+      .then(data => {
+        setLoading(false);
+        setPokemon(data)
+      })
+  };
+
   return (
     <>
-      <Query />
+      <Query handleSubmit={handleSubmit} />
       <Table
         columns={[
           '',

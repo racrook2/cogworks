@@ -1,10 +1,10 @@
 import React from 'react'
 import Ability from 'components/shared/Ability/Ability'
-import './PokedexAbilityCell.scss'
+import './AbilityCell.scss'
 
-function PokedexAbilityCell({ ability_1, ability_2, hidden_ability }) {
+function AbilityCell({ ability_1, ability_2, hidden_ability }) {
   return(
-    <div className='Pokedex__PokedexAbilityCell'>
+    <div className='Pokedex__AbilityCell'>
       { ability_1 &&
         <Ability ability={ability_1} />
       }
@@ -12,7 +12,7 @@ function PokedexAbilityCell({ ability_1, ability_2, hidden_ability }) {
       <Ability ability={ability_2} />
       }
       { hidden_ability &&
-        <div className='Pokedex__PokedexAbilityCell__hidden-ability'>
+        <div className='Pokedex__AbilityCell__hidden-ability'>
           <Ability ability={hidden_ability} />
         </div>
       }
@@ -20,4 +20,4 @@ function PokedexAbilityCell({ ability_1, ability_2, hidden_ability }) {
   )
 }
 
-export default PokedexAbilityCell
+export default AbilityCell
