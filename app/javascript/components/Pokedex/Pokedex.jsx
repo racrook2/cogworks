@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react'
+import Query from 'components/Pokedex/Query/Query'
 import Table from 'components/shared/Table/Table'
 import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow'
 
@@ -18,28 +19,31 @@ function Pokedex() {
   }, []);
 
   return (
-    <Table
-      columns={[
-        '',
-        'Name',
-        'Type',
-        'Ability',
-        'HP',
-        'Attack',
-        'Defense',
-        'Special Attack',
-        'Special Defense',
-        'Speed',
-        'Total'
-      ]}
-      loading={loading}
-    >
-      {
-        pokemon.map((pokemon, index) =>
-          <PokedexRow key={pokemon.id} index={index} pokemon={pokemon} />
-        )
-      }
-    </Table>
+    <>
+      <Query />
+      <Table
+        columns={[
+          '',
+          'Name',
+          'Type',
+          'Ability',
+          'HP',
+          'Attack',
+          'Defense',
+          'Special Attack',
+          'Special Defense',
+          'Speed',
+          'Total'
+        ]}
+        loading={loading}
+      >
+        {
+          pokemon.map((pokemon, index) =>
+            <PokedexRow key={pokemon.id} index={index} pokemon={pokemon} />
+          )
+        }
+      </Table>
+    </>
   )
 }
 
