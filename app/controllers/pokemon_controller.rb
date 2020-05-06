@@ -16,7 +16,7 @@ class PokemonController < ApplicationController
 
   private
 
-  # TODO: Extract into service and expand
+  # TODO: Extract to service and expand
   def join_clause
     tables = conditions.each_with_object([]) do |(_, condition), memo|
       attr = condition['attr'].to_sym

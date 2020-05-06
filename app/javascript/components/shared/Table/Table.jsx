@@ -5,12 +5,12 @@ import './Table.scss'
 function Table({ columns, children, loading }) {
   return (
     <table className='Table'>
-      <thead>
+      <thead className='Table__header'>
         <tr>
           {
             columns.map(column =>
               <th
-                className='Table__header'
+                className='Table__th'
                 key={column}
               >
                 { column }

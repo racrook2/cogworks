@@ -20,7 +20,13 @@ function EvolutionList() {
   return (
     <Table
       columns={
-        []
+        [
+          'Basic',
+          '',
+          'Stage 1',
+          '',
+          'Stage 2'
+        ]
       }
       loading={loading}
     >

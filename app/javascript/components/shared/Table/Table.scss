@@ -1,7 +1,15 @@
+@import 'app/assets/stylesheets/colors';
+
 .Table {
   border-collapse: collapse;
 
   & &__header {
+    background-color: $white;
+    position: sticky;
+    top: 0;
+  }
+
+  & &__th {
     padding: 8px;
     text-align: left;
   }
