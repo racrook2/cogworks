@@ -8532,31 +8532,73 @@
   },
   {
     "name": "Frillish",
+    "subname": "Male",
     "ability": "Water Absorb",
     "sort": 0
   },
   {
     "name": "Frillish",
+    "subname": "Male",
     "ability": "Cursed Body",
     "sort": 1
   },
   {
     "name": "Frillish",
+    "subname": "Male",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
+    "ability": "Cursed Body",
+    "sort": 1
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
     "ability": "Damp",
     "sort": 2
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
     "ability": "Water Absorb",
     "sort": 0
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
     "ability": "Cursed Body",
     "sort": 1
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
+    "ability": "Damp",
+    "sort": 2
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
+    "ability": "Water Absorb",
+    "sort": 0
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
+    "ability": "Cursed Body",
+    "sort": 1
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
     "ability": "Damp",
     "sort": 2
   },

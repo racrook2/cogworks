@@ -32,13 +32,13 @@ def replace_abilities!(records)
   end
 end
 
-def replace_pokemon!(records)
+def replace_pokemon!(records, name_key: 'name', subname_key: 'subname', id_key: 'pokemon_id')
   records.each do |record|
-    pokemon_name = record.delete('name')
-    pokemon_subname = record.delete('subname')
+    pokemon_name = record.delete(name_key)
+    pokemon_subname = record.delete(subname_key)
     pokemon_full_name = pokemon_subname ? "#{pokemon_name} (#{pokemon_subname})" : pokemon_name
 
-    record['pokemon_id'] = pokemon_name_to_id[pokemon_full_name]
+    record[id_key] = pokemon_name_to_id[pokemon_full_name]
   end
 end
 
@@ -46,14 +46,29 @@ def seed(string)
   path = ::File.join(::File.dirname(__FILE__), "./seeds/#{string}.json")
   records = ::JSON.parse(::File.read(path))
 
-  if string == 'moves'
+  case string
+  when 'moves'
     replace_types!(records)
-  elsif string == 'pokemon_types'
+  when 'pokemon_types'
     replace_pokemon!(records)
     replace_types!(records)
-  elsif string == 'abilities_pokemon'
+  when 'abilities_pokemon'
     replace_abilities!(records)
     replace_pokemon!(records)
+  when 'evos_prevos'
+    replace_pokemon!(
+      records,
+      name_key: 'evo_name',
+      subname_key: 'evo_subname',
+      id_key: 'evo_id'
+    )
+
+    replace_pokemon!(
+      records,
+      name_key: 'prevo_name',
+      subname_key: 'prevo_subname',
+      id_key: 'prevo_id'
+    )
   end
 
   string.singularize.classify.constantize.create!(records)
@@ -66,4 +81,5 @@ end
   seed('moves') if ::Move.count.zero?
   seed('pokemon_types') if ::PokemonType.count.zero?
   seed('abilities_pokemon') if ::AbilitiesPokemon.count.zero?
+  seed('evos_prevos') if ::EvosPrevo.count.zero?
 end

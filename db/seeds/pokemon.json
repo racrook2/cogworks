@@ -7122,6 +7122,18 @@
   },
   {
     "name": "Frillish",
+    "subname": "Male",
+    "number": "592",
+    "hp": "55",
+    "atk": "40",
+    "def": "50",
+    "spa": "65",
+    "spd": "85",
+    "spe": "40"
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
     "number": "592",
     "hp": "55",
     "atk": "40",
@@ -7132,6 +7144,18 @@
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
+    "number": "593",
+    "hp": "100",
+    "atk": "60",
+    "def": "70",
+    "spa": "85",
+    "spd": "105",
+    "spe": "60"
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
     "number": "593",
     "hp": "100",
     "atk": "60",

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Query from 'components/Pokedex/Query/Query'
+import QueryBuilder from 'components/Pokedex/QueryBuilder/QueryBuilder'
 import Table from 'components/shared/Table/Table'
 import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow'
 
@@ -33,7 +33,7 @@ function Pokedex() {
 
   return (
     <>
-      <Query handleSubmit={handleSubmit} />
+      <QueryBuilder handleSubmit={handleSubmit} />
       <Table
         columns={[
           '',

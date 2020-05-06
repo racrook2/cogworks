@@ -5471,21 +5471,49 @@
   },
   {
     "name": "Frillish",
+    "subname": "Male",
     "type": "Water",
     "sort": 0
   },
   {
     "name": "Frillish",
+    "subname": "Male",
+    "type": "Ghost",
+    "sort": 1
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
+    "type": "Water",
+    "sort": 0
+  },
+  {
+    "name": "Frillish",
+    "subname": "Female",
     "type": "Ghost",
     "sort": 1
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
     "type": "Water",
     "sort": 0
   },
   {
     "name": "Jellicent",
+    "subname": "Male",
+    "type": "Ghost",
+    "sort": 1
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
+    "type": "Water",
+    "sort": 0
+  },
+  {
+    "name": "Jellicent",
+    "subname": "Female",
     "type": "Ghost",
     "sort": 1
   },

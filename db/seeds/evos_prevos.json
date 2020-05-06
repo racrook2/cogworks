@@ -1,0 +1,2432 @@
+[
+  {
+    "prevo_name": "Bulbasaur",
+    "evo_name": "Ivysaur",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Ivysaur",
+    "evo_name": "Venusaur",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Charmander",
+    "evo_name": "Charmeleon",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Charmeleon",
+    "evo_name": "Charizard",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Squirtle",
+    "evo_name": "Wartortle",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Wartortle",
+    "evo_name": "Blastoise",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Caterpie",
+    "evo_name": "Metapod",
+    "level": "7"
+  },
+  {
+    "prevo_name": "Metapod",
+    "evo_name": "Butterfree",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Weedle",
+    "evo_name": "Kakuna",
+    "level": "7"
+  },
+  {
+    "prevo_name": "Kakuna",
+    "evo_name": "Beedrill",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Pidgey",
+    "evo_name": "Pidgeotto",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Pidgeotto",
+    "evo_name": "Pidgeot",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Rattata",
+    "evo_name": "Raticate",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Rattata",
+    "prevo_subname": "Alolan Rattata",
+    "evo_name": "Raticate",
+    "evo_subname": "Alolan Raticate",
+    "level": "20",
+    "method": "Night"
+  },
+  {
+    "prevo_name": "Spearow",
+    "evo_name": "Fearow",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Ekans",
+    "evo_name": "Arbok",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Pichu",
+    "evo_name": "Pikachu",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Pikachu",
+    "evo_name": "Raichu",
+    "method": "Thunder Stone"
+  },
+  {
+    "prevo_name": "Pikachu",
+    "evo_name": "Raichu",
+    "evo_subname": "Alolan Raichu",
+    "method": "Thunder Stone"
+  },
+  {
+    "prevo_name": "Sandshrew",
+    "evo_name": "Sandslash",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Sandshrew",
+    "prevo_subname": "Alolan Sandshrew",
+    "evo_name": "Sandslash",
+    "evo_subname": "Alolan Sandslash",
+    "method": "Ice Stone"
+  },
+  {
+    "prevo_name": "Nidoran♀",
+    "evo_name": "Nidorina",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Nidorina",
+    "evo_name": "Nidoqueen",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Nidoran♂",
+    "evo_name": "Nidorino",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Nidorino",
+    "evo_name": "Nidoking",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Cleffa",
+    "evo_name": "Clefairy",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Clefairy",
+    "evo_name": "Clefable",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Vulpix",
+    "evo_name": "Ninetales",
+    "method": "Fire Stone"
+  },
+  {
+    "prevo_name": "Vulpix",
+    "prevo_subname": "Alolan Vulpix",
+    "evo_name": "Ninetales",
+    "evo_subname": "Alolan Ninetales",
+    "method": "Ice Stone"
+  },
+  {
+    "prevo_name": "Igglybuff",
+    "evo_name": "Jigglypuff",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Jigglypuff",
+    "evo_name": "Wigglytuff",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Zubat",
+    "evo_name": "Golbat",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Golbat",
+    "evo_name": "Crobat",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Oddish",
+    "evo_name": "Gloom",
+    "level": "21"
+  },
+  {
+    "prevo_name": "Gloom",
+    "evo_name": "Vileplume",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Gloom",
+    "evo_name": "Bellossom",
+    "method": "Sun Stone"
+  },
+  {
+    "prevo_name": "Paras",
+    "evo_name": "Parasect",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Venonat",
+    "evo_name": "Venomoth",
+    "level": "31"
+  },
+  {
+    "prevo_name": "Diglett",
+    "evo_name": "Dugtrio",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Diglett",
+    "prevo_subname": "Alolan Diglett",
+    "evo_name": "Dugtrio",
+    "evo_subname": "Alolan Dugtrio",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Meowth",
+    "evo_name": "Persian",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Meowth",
+    "prevo_subname": "Alolan Meowth",
+    "evo_name": "Persian",
+    "evo_subname": "Alolan Persian",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Meowth",
+    "prevo_subname": "Galarian Meowth",
+    "evo_name": "Perrserker",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Psyduck",
+    "evo_name": "Golduck",
+    "level": "33"
+  },
+  {
+    "prevo_name": "Mankey",
+    "evo_name": "Primeape",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Growlithe",
+    "evo_name": "Arcanine",
+    "method": "Fire Stone"
+  },
+  {
+    "prevo_name": "Poliwag",
+    "evo_name": "Poliwhirl",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Poliwhirl",
+    "evo_name": "Poliwrath",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Poliwhirl",
+    "evo_name": "Politoed",
+    "method": "Trade holding King's Rock"
+  },
+  {
+    "prevo_name": "Abra",
+    "evo_name": "Kadabra",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Kadabra",
+    "evo_name": "Alakazam",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Machop",
+    "evo_name": "Machoke",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Machoke",
+    "evo_name": "Machamp",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Bellsprout",
+    "evo_name": "Weepinbell",
+    "level": "21"
+  },
+  {
+    "prevo_name": "Weepinbell",
+    "evo_name": "Victreebel",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Tentacool",
+    "evo_name": "Tentacruel",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Geodude",
+    "evo_name": "Graveler",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Graveler",
+    "evo_name": "Golem",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Geodude",
+    "prevo_subname": "Alolan Geodude",
+    "evo_name": "Graveler",
+    "evo_subname": "Alolan Graveler",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Graveler",
+    "prevo_subname": "Alolan Graveler",
+    "evo_name": "Golem",
+    "evo_subname": "Alolan Golem",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Ponyta",
+    "evo_name": "Rapidash",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Ponyta",
+    "prevo_subname": "Galarian Ponyta",
+    "evo_name": "Rapidash",
+    "evo_subname": "Galarian Rapidash",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Slowpoke",
+    "evo_name": "Slowbro",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Slowpoke",
+    "evo_name": "Slowking",
+    "method": "Trade holding King's Rock"
+  },
+  {
+    "prevo_name": "Magnemite",
+    "evo_name": "Magneton",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Magneton",
+    "evo_name": "Magnezone",
+    "method": "Level up in a special magnetic field"
+  },
+  {
+    "prevo_name": "Farfetch'd",
+    "prevo_subname": "Galarian Farfetch'd",
+    "evo_name": "Sirfetch'd",
+    "method": "Land 3 critical hits in a single battle"
+  },
+  {
+    "prevo_name": "Doduo",
+    "evo_name": "Dodrio",
+    "level": "31"
+  },
+  {
+    "prevo_name": "Seel",
+    "evo_name": "Dewgong",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Grimer",
+    "evo_name": "Muk",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Grimer",
+    "prevo_subname": "Alolan Grimer",
+    "evo_name": "Muk",
+    "evo_subname": "Alolan Muk",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Shellder",
+    "evo_name": "Cloyster",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Gastly",
+    "evo_name": "Haunter",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Haunter",
+    "evo_name": "Gengar",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Onix",
+    "evo_name": "Steelix",
+    "method": "Trade holding Metal Coat"
+  },
+  {
+    "prevo_name": "Drowzee",
+    "evo_name": "Hypno",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Krabby",
+    "evo_name": "Kingler",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Voltorb",
+    "evo_name": "Electrode",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Exeggcute",
+    "evo_name": "Exeggutor",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Exeggcute",
+    "evo_name": "Exeggutor",
+    "evo_subname": "Alolan Exeggutor",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Cubone",
+    "evo_name": "Marowak",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Cubone",
+    "evo_name": "Marowak",
+    "evo_subname": "Alolan Marowak",
+    "level": "28",
+    "method": "Night"
+  },
+  {
+    "prevo_name": "Tyrogue",
+    "evo_name": "Hitmonlee",
+    "level": "20",
+    "method": "Attack > Defense"
+  },
+  {
+    "prevo_name": "Tyrogue",
+    "evo_name": "Hitmonchan",
+    "level": "20",
+    "method": "Attack < Defense"
+  },
+  {
+    "prevo_name": "Tyrogue",
+    "evo_name": "Hitmontop",
+    "level": "20",
+    "method": "Attack = Defense"
+  },
+  {
+    "prevo_name": "Lickitung",
+    "evo_name": "Lickilicky",
+    "method": "Level up knowing Rollout"
+  },
+  {
+    "prevo_name": "Koffing",
+    "evo_name": "Weezing",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Koffing",
+    "evo_name": "Weezing",
+    "evo_subname": "Galarian Weezing",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Rhyhorn",
+    "evo_name": "Rhydon",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Rhydon",
+    "evo_name": "Rhyperior",
+    "method": "Trade holding Protector"
+  },
+  {
+    "prevo_name": "Happiny",
+    "evo_name": "Chansey",
+    "method": "Level up holding Oval Stone (day)"
+  },
+  {
+    "prevo_name": "Chansey",
+    "evo_name": "Blissey",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Tangela",
+    "evo_name": "Tangrowth",
+    "method": "Level up knowing Ancient Power"
+  },
+  {
+    "prevo_name": "Horsea",
+    "evo_name": "Seadra",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Seadra",
+    "evo_name": "Kingdra",
+    "method": "Trade holding Dragon Scale"
+  },
+  {
+    "prevo_name": "Goldeen",
+    "evo_name": "Seaking",
+    "level": "33"
+  },
+  {
+    "prevo_name": "Staryu",
+    "evo_name": "Starmie",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Mime Jr.",
+    "evo_name": "Mr. Mime",
+    "method": "Level up knowing Mimic"
+  },
+  {
+    "prevo_name": "Mime Jr.",
+    "evo_name": "Mr. Mime",
+    "evo_subname": "Galarian Mr. Mime",
+    "method": "Level up knowing Mimic"
+  },
+  {
+    "prevo_name": "Mr. Mime",
+    "prevo_subname": "Galarian Mr. Mime",
+    "evo_name": "Mr. Rime",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Scyther",
+    "evo_name": "Scizor",
+    "method": "Trade holding Metal Coat"
+  },
+  {
+    "prevo_name": "Smoochum",
+    "evo_name": "Jynx",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Elekid",
+    "evo_name": "Electabuzz",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Electabuzz",
+    "evo_name": "Electivire",
+    "method": "Trade holding Electirizer"
+  },
+  {
+    "prevo_name": "Magby",
+    "evo_name": "Magmar",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Magmar",
+    "evo_name": "Magmortar",
+    "method": "Trade holding Magmarizer"
+  },
+  {
+    "prevo_name": "Magikarp",
+    "evo_name": "Gyarados",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Vaporeon",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Jolteon",
+    "method": "Thunder Stone"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Flareon",
+    "method": "Fire Stone"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Espeon",
+    "method": "Friendship (day)"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Umbreon",
+    "method": "Friendship (night)"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Leafeon",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Glaceon",
+    "method": "Ice Stone"
+  },
+  {
+    "prevo_name": "Eevee",
+    "evo_name": "Sylveon",
+    "method": "Level up with two hearts of Affection and know a Fairy-type move"
+  },
+  {
+    "prevo_name": "Porygon",
+    "evo_name": "Porygon2",
+    "method": "Trade holding Up-Grade"
+  },
+  {
+    "prevo_name": "Porygon2",
+    "evo_name": "Porygon-Z",
+    "method": "Trade holding Dubious Disc"
+  },
+  {
+    "prevo_name": "Omanyte",
+    "evo_name": "Omastar",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Kabuto",
+    "evo_name": "Kabutops",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Munchlax",
+    "evo_name": "Snorlax",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Dratini",
+    "evo_name": "Dragonair",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Dragonair",
+    "evo_name": "Dragonite",
+    "level": "55"
+  },
+  {
+    "prevo_name": "Chikorita",
+    "evo_name": "Bayleef",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Bayleef",
+    "evo_name": "Meganium",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Cyndaquil",
+    "evo_name": "Quilava",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Quilava",
+    "evo_name": "Typhlosion",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Totodile",
+    "evo_name": "Croconaw",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Croconaw",
+    "evo_name": "Feraligatr",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Sentret",
+    "evo_name": "Furret",
+    "level": "15"
+  },
+  {
+    "prevo_name": "Hoothoot",
+    "evo_name": "Noctowl",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Ledyba",
+    "evo_name": "Ledian",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Spinarak",
+    "evo_name": "Ariados",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Chinchou",
+    "evo_name": "Lanturn",
+    "level": "27"
+  },
+  {
+    "prevo_name": "Togepi",
+    "evo_name": "Togetic",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Togetic",
+    "evo_name": "Togekiss",
+    "method": "Shiny Stone"
+  },
+  {
+    "prevo_name": "Natu",
+    "evo_name": "Xatu",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Mareep",
+    "evo_name": "Flaaffy",
+    "level": "15"
+  },
+  {
+    "prevo_name": "Flaaffy",
+    "evo_name": "Ampharos",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Azurill",
+    "evo_name": "Marill",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Marill",
+    "evo_name": "Azumarill",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Bonsly",
+    "evo_name": "Sudowoodo",
+    "method": "Level up knowing Mimic"
+  },
+  {
+    "prevo_name": "Hoppip",
+    "evo_name": "Skiploom",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Skiploom",
+    "evo_name": "Jumpluff",
+    "level": "27"
+  },
+  {
+    "prevo_name": "Aipom",
+    "evo_name": "Ambipom",
+    "method": "Level up knowing Double Hit"
+  },
+  {
+    "prevo_name": "Sunkern",
+    "evo_name": "Sunflora",
+    "method": "Sun Stone"
+  },
+  {
+    "prevo_name": "Yanma",
+    "evo_name": "Yanmega",
+    "method": "Level up knowing Ancient Power"
+  },
+  {
+    "prevo_name": "Wooper",
+    "evo_name": "Quagsire",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Murkrow",
+    "evo_name": "Honchkrow",
+    "method": "Dusk Stone"
+  },
+  {
+    "prevo_name": "Misdreavus",
+    "evo_name": "Mismagius",
+    "method": "Dusk Stone"
+  },
+  {
+    "prevo_name": "Wynaut",
+    "evo_name": "Wobbuffet",
+    "level": "15"
+  },
+  {
+    "prevo_name": "Pineco",
+    "evo_name": "Forretress",
+    "level": "31"
+  },
+  {
+    "prevo_name": "Gligar",
+    "evo_name": "Gliscor",
+    "method": "Level up holding Razor Fang (night)"
+  },
+  {
+    "prevo_name": "Snubbull",
+    "evo_name": "Granbull",
+    "level": "23"
+  },
+  {
+    "prevo_name": "Sneasel",
+    "evo_name": "Weavile",
+    "method": "Level up holding Razor Claw (night)"
+  },
+  {
+    "prevo_name": "Teddiursa",
+    "evo_name": "Ursaring",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Slugma",
+    "evo_name": "Magcargo",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Swinub",
+    "evo_name": "Piloswine",
+    "level": "33"
+  },
+  {
+    "prevo_name": "Piloswine",
+    "evo_name": "Mamoswine",
+    "method": "Level up knowing Ancient Power"
+  },
+  {
+    "prevo_name": "Corsola",
+    "prevo_subname": "Galarian Corsola",
+    "evo_name": "Cursola",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Remoraid",
+    "evo_name": "Octillery",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Mantyke",
+    "evo_name": "Mantine",
+    "method": "Level up with Remoraid in party"
+  },
+  {
+    "prevo_name": "Houndour",
+    "evo_name": "Houndoom",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Phanpy",
+    "evo_name": "Donphan",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Larvitar",
+    "evo_name": "Pupitar",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Pupitar",
+    "evo_name": "Tyranitar",
+    "level": "55"
+  },
+  {
+    "prevo_name": "Treecko",
+    "evo_name": "Grovyle",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Grovyle",
+    "evo_name": "Sceptile",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Torchic",
+    "evo_name": "Combusken",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Combusken",
+    "evo_name": "Blaziken",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Mudkip",
+    "evo_name": "Marshtomp",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Marshtomp",
+    "evo_name": "Swampert",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Poochyena",
+    "evo_name": "Mightyena",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Zigzagoon",
+    "evo_name": "Linoone",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Zigzagoon",
+    "prevo_subname": "Galarian Zigzagoon",
+    "evo_name": "Linoone",
+    "evo_subname": "Galarian Linoone",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Linoone",
+    "prevo_subname": "Galarian Linoone",
+    "evo_name": "Obstagoon",
+    "level": "35",
+    "method": "Night"
+  },
+  {
+    "prevo_name": "Wurmple",
+    "evo_name": "Silcoon",
+    "level": "7"
+  },
+  {
+    "prevo_name": "Wurmple",
+    "evo_name": "Cascoon",
+    "level": "7"
+  },
+  {
+    "prevo_name": "Silcoon",
+    "evo_name": "Beautifly",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Cascoon",
+    "evo_name": "Dustox",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Lotad",
+    "evo_name": "Lombre",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Lombre",
+    "evo_name": "Ludicolo",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Seedot",
+    "evo_name": "Nuzleaf",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Nuzleaf",
+    "evo_name": "Shiftry",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Taillow",
+    "evo_name": "Swellow",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Wingull",
+    "evo_name": "Pelipper",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Ralts",
+    "evo_name": "Kirlia",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Kirlia",
+    "evo_name": "Gardevoir",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Kirlia",
+    "evo_name": "Gallade",
+    "method": "Dawn Stone (male)"
+  },
+  {
+    "prevo_name": "Surskit",
+    "evo_name": "Masquerain",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Shroomish",
+    "evo_name": "Breloom",
+    "level": "23"
+  },
+  {
+    "prevo_name": "Slakoth",
+    "evo_name": "Vigoroth",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Vigoroth",
+    "evo_name": "Slaking",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Nincada",
+    "evo_name": "Ninjask",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Nincada",
+    "evo_name": "Shedinja",
+    "level": "20",
+    "method": "Free space with additional Poké Ball"
+  },
+  {
+    "prevo_name": "Whismur",
+    "evo_name": "Loudred",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Loudred",
+    "evo_name": "Exploud",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Makuhita",
+    "evo_name": "Hariyama",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Nosepass",
+    "evo_name": "Probopass",
+    "method": "Level up in a special magnetic field"
+  },
+  {
+    "prevo_name": "Skitty",
+    "evo_name": "Delcatty",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Aron",
+    "evo_name": "Lairon",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Lairon",
+    "evo_name": "Aggron",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Meditite",
+    "evo_name": "Medicham",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Electrike",
+    "evo_name": "Manectric",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Budew",
+    "evo_name": "Roselia",
+    "method": "Friendship (day)"
+  },
+  {
+    "prevo_name": "Roselia",
+    "evo_name": "Roserade",
+    "method": "Shiny Stone"
+  },
+  {
+    "prevo_name": "Gulpin",
+    "evo_name": "Swalot",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Carvanha",
+    "evo_name": "Sharpedo",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Wailmer",
+    "evo_name": "Wailord",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Numel",
+    "evo_name": "Camerupt",
+    "level": "33"
+  },
+  {
+    "prevo_name": "Spoink",
+    "evo_name": "Grumpig",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Trapinch",
+    "evo_name": "Vibrava",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Vibrava",
+    "evo_name": "Flygon",
+    "level": "45"
+  },
+  {
+    "prevo_name": "Cacnea",
+    "evo_name": "Cacturne",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Swablu",
+    "evo_name": "Altaria",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Barboach",
+    "evo_name": "Whiscash",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Corphish",
+    "evo_name": "Crawdaunt",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Baltoy",
+    "evo_name": "Claydol",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Lileep",
+    "evo_name": "Cradily",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Anorith",
+    "evo_name": "Armaldo",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Feebas",
+    "evo_name": "Milotic",
+    "method": "Trade holding Prism Scale"
+  },
+  {
+    "prevo_name": "Shuppet",
+    "evo_name": "Banette",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Duskull",
+    "evo_name": "Dusclops",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Dusclops",
+    "evo_name": "Dusknoir",
+    "method": "Trade holding Reaper Cloth"
+  },
+  {
+    "prevo_name": "Chingling",
+    "evo_name": "Chimecho",
+    "method": "Friendship (night)"
+  },
+  {
+    "prevo_name": "Snorunt",
+    "evo_name": "Glalie",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Snorunt",
+    "evo_name": "Froslass",
+    "method": "Dawn Stone (female)"
+  },
+  {
+    "prevo_name": "Spheal",
+    "evo_name": "Sealeo",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Sealeo",
+    "evo_name": "Walrein",
+    "level": "44"
+  },
+  {
+    "prevo_name": "Clamperl",
+    "evo_name": "Huntail",
+    "method": "Trade holding Deep Sea Tooth"
+  },
+  {
+    "prevo_name": "Clamperl",
+    "evo_name": "Gorebyss",
+    "method": "Trade holding Deep Sea Scale"
+  },
+  {
+    "prevo_name": "Bagon",
+    "evo_name": "Shelgon",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Shelgon",
+    "evo_name": "Salamence",
+    "level": "50"
+  },
+  {
+    "prevo_name": "Beldum",
+    "evo_name": "Metang",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Metang",
+    "evo_name": "Metagross",
+    "level": "45"
+  },
+  {
+    "prevo_name": "Turtwig",
+    "evo_name": "Grotle",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Grotle",
+    "evo_name": "Torterra",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Chimchar",
+    "evo_name": "Monferno",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Monferno",
+    "evo_name": "Infernape",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Piplup",
+    "evo_name": "Prinplup",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Prinplup",
+    "evo_name": "Empoleon",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Starly",
+    "evo_name": "Staravia",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Staravia",
+    "evo_name": "Staraptor",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Bidoof",
+    "evo_name": "Bibarel",
+    "level": "15"
+  },
+  {
+    "prevo_name": "Kricketot",
+    "evo_name": "Kricketune",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Shinx",
+    "evo_name": "Luxio",
+    "level": "15"
+  },
+  {
+    "prevo_name": "Luxio",
+    "evo_name": "Luxray",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Cranidos",
+    "evo_name": "Rampardos",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Shieldon",
+    "evo_name": "Bastiodon",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Plant Cloak",
+    "evo_name": "Wormadam",
+    "evo_subname": "Plant Cloak",
+    "level": "20",
+    "method": "Female"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Sandy Cloak",
+    "evo_name": "Wormadam",
+    "evo_subname": "Sandy Cloak",
+    "level": "20",
+    "method": "Female"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Trash Cloak",
+    "evo_name": "Wormadam",
+    "evo_subname": "Trash Cloak",
+    "level": "20",
+    "method": "Female"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Plant Cloak",
+    "evo_name": "Mothim",
+    "level": "20",
+    "method": "Male"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Sandy Cloak",
+    "evo_name": "Mothim",
+    "level": "20",
+    "method": "Male"
+  },
+  {
+    "prevo_name": "Burmy",
+    "prevo_subname": "Trash Cloak",
+    "evo_name": "Mothim",
+    "level": "20",
+    "method": "Male"
+  },
+  {
+    "prevo_name": "Combee",
+    "evo_name": "Vespiquen",
+    "level": "21",
+    "method": "Female"
+  },
+  {
+    "prevo_name": "Buizel",
+    "evo_name": "Floatzel",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Cherubi",
+    "evo_name": "Cherrim",
+    "evo_subname": "Overcast Form",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Cherubi",
+    "evo_name": "Cherrim",
+    "evo_subname": "Sunshine Form",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Shellos",
+    "prevo_subname": "East Sea",
+    "evo_name": "Gastrodon",
+    "evo_subname": "East Sea",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Shellos",
+    "prevo_subname": "West Sea",
+    "evo_name": "Gastrodon",
+    "evo_subname": "West Sea",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Drifloon",
+    "evo_name": "Drifblim",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Buneary",
+    "evo_name": "Lopunny",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Glameow",
+    "evo_name": "Purugly",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Stunky",
+    "evo_name": "Skuntank",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Bronzor",
+    "evo_name": "Bronzong",
+    "level": "33"
+  },
+  {
+    "prevo_name": "Gible",
+    "evo_name": "Gabite",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Gabite",
+    "evo_name": "Garchomp",
+    "level": "48"
+  },
+  {
+    "prevo_name": "Riolu",
+    "evo_name": "Lucario",
+    "method": "Friendship (day)"
+  },
+  {
+    "prevo_name": "Hippopotas",
+    "evo_name": "Hippowdon",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Skorupi",
+    "evo_name": "Drapion",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Croagunk",
+    "evo_name": "Toxicroak",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Finneon",
+    "evo_name": "Lumineon",
+    "level": "31"
+  },
+  {
+    "prevo_name": "Snover",
+    "evo_name": "Abomasnow",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Snivy",
+    "evo_name": "Servine",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Servine",
+    "evo_name": "Serperior",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Tepig",
+    "evo_name": "Pignite",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Pignite",
+    "evo_name": "Emboar",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Oshawott",
+    "evo_name": "Dewott",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Dewott",
+    "evo_name": "Samurott",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Patrat",
+    "evo_name": "Watchog",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Lillipup",
+    "evo_name": "Herdier",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Herdier",
+    "evo_name": "Stoutland",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Purrloin",
+    "evo_name": "Liepard",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Pansage",
+    "evo_name": "Simisage",
+    "method": "Leaf Stone"
+  },
+  {
+    "prevo_name": "Pansear",
+    "evo_name": "Simisear",
+    "method": "Fire Stone"
+  },
+  {
+    "prevo_name": "Panpour",
+    "evo_name": "Simipour",
+    "method": "Water Stone"
+  },
+  {
+    "prevo_name": "Munna",
+    "evo_name": "Musharna",
+    "method": "Moon Stone"
+  },
+  {
+    "prevo_name": "Pidove",
+    "evo_name": "Tranquill",
+    "level": "21"
+  },
+  {
+    "prevo_name": "Tranquill",
+    "evo_name": "Unfezant",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Blitzle",
+    "evo_name": "Zebstrika",
+    "level": "27"
+  },
+  {
+    "prevo_name": "Roggenrola",
+    "evo_name": "Boldore",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Boldore",
+    "evo_name": "Gigalith",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Woobat",
+    "evo_name": "Swoobat",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Drilbur",
+    "evo_name": "Excadrill",
+    "level": "31"
+  },
+  {
+    "prevo_name": "Timburr",
+    "evo_name": "Gurdurr",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Gurdurr",
+    "evo_name": "Conkeldurr",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Tympole",
+    "evo_name": "Palpitoad",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Palpitoad",
+    "evo_name": "Seismitoad",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Sewaddle",
+    "evo_name": "Swadloon",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Swadloon",
+    "evo_name": "Leavanny",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Venipede",
+    "evo_name": "Whirlipede",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Whirlipede",
+    "evo_name": "Scolipede",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Cottonee",
+    "evo_name": "Whimsicott",
+    "method": "Sun Stone"
+  },
+  {
+    "prevo_name": "Petilil",
+    "evo_name": "Lilligant",
+    "method": "Sun Stone"
+  },
+  {
+    "prevo_name": "Sandile",
+    "evo_name": "Krokorok",
+    "level": "29"
+  },
+  {
+    "prevo_name": "Krokorok",
+    "evo_name": "Krookodile",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Darumaka",
+    "evo_name": "Darmanitan",
+    "evo_subname": "Standard Mode",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Darumaka",
+    "evo_name": "Darmanitan",
+    "evo_subname": "Zen Mode",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Darumaka",
+    "prevo_subname": "Galarian Darumaka",
+    "evo_name": "Darmanitan",
+    "evo_subname": "Galarian Standard Mode",
+    "method": "Ice Stone"
+  },
+  {
+    "prevo_name": "Darumaka",
+    "prevo_subname": "Galarian Darumaka",
+    "evo_name": "Darmanitan",
+    "evo_subname": "Galarian Zen Mode",
+    "method": "Ice Stone"
+  },
+  {
+    "prevo_name": "Dwebble",
+    "evo_name": "Crustle",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Scraggy",
+    "evo_name": "Scrafty",
+    "level": "39"
+  },
+  {
+    "prevo_name": "Yamask",
+    "evo_name": "Cofagrigus",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Yamask",
+    "evo_name": "Runerigus",
+    "method": "Under the stone bridge in Dusty Bowl after Yamask takes at least 49 HP in damage in one attack without fainting"
+  },
+  {
+    "prevo_name": "Tirtouga",
+    "evo_name": "Carracosta",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Archen",
+    "evo_name": "Archeops",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Trubbish",
+    "evo_name": "Garbodor",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Zorua",
+    "evo_name": "Zoroark",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Minccino",
+    "evo_name": "Cinccino",
+    "method": "Shiny Stone"
+  },
+  {
+    "prevo_name": "Gothita",
+    "evo_name": "Gothorita",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Gothorita",
+    "evo_name": "Gothitelle",
+    "level": "41"
+  },
+  {
+    "prevo_name": "Solosis",
+    "evo_name": "Duosion",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Duosion",
+    "evo_name": "Reuniclus",
+    "level": "41"
+  },
+  {
+    "prevo_name": "Ducklett",
+    "evo_name": "Swanna",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Vanillite",
+    "evo_name": "Vanillish",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Vanillish",
+    "evo_name": "Vanilluxe",
+    "level": "47"
+  },
+  {
+    "prevo_name": "Deerling",
+    "prevo_subname": "Spring Form",
+    "evo_name": "Sawsbuck",
+    "evo_subname": "Spring Form",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Deerling",
+    "prevo_subname": "Summer Form",
+    "evo_name": "Sawsbuck",
+    "evo_subname": "Summer Form",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Deerling",
+    "prevo_subname": "Autumn Form",
+    "evo_name": "Sawsbuck",
+    "evo_subname": "Autumn Form",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Deerling",
+    "prevo_subname": "Winter Form",
+    "evo_name": "Sawsbuck",
+    "evo_subname": "Winter Form",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Karrablast",
+    "evo_name": "Escavalier",
+    "method": "Trade for Shelmet"
+  },
+  {
+    "prevo_name": "Foongus",
+    "evo_name": "Amoonguss",
+    "level": "39"
+  },
+  {
+    "prevo_name": "Frillish",
+    "prevo_subname": "Male",
+    "evo_name": "Jellicent",
+    "evo_subname": "Male",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Frillish",
+    "prevo_subname": "Female",
+    "evo_name": "Jellicent",
+    "evo_subname": "Female",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Joltik",
+    "evo_name": "Galvantula",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Ferroseed",
+    "evo_name": "Ferrothorn",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Klink",
+    "evo_name": "Klang",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Klang",
+    "evo_name": "Klinklang",
+    "level": "49"
+  },
+  {
+    "prevo_name": "Tynamo",
+    "evo_name": "Eelektrik",
+    "level": "39"
+  },
+  {
+    "prevo_name": "Eelektrik",
+    "evo_name": "Eelektross",
+    "method": "Thunder Stone"
+  },
+  {
+    "prevo_name": "Elgyem",
+    "evo_name": "Beheeyem",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Litwick",
+    "evo_name": "Lampent",
+    "level": "41"
+  },
+  {
+    "prevo_name": "Lampent",
+    "evo_name": "Chandelure",
+    "method": "Dusk Stone"
+  },
+  {
+    "prevo_name": "Axew",
+    "evo_name": "Fraxure",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Fraxure",
+    "evo_name": "Haxorus",
+    "level": "48"
+  },
+  {
+    "prevo_name": "Cubchoo",
+    "evo_name": "Beartic",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Shelmet",
+    "evo_name": "Accelgor",
+    "method": "Trade for Karrablast"
+  },
+  {
+    "prevo_name": "Mienfoo",
+    "evo_name": "Mienshao",
+    "level": "50"
+  },
+  {
+    "prevo_name": "Golett",
+    "evo_name": "Golurk",
+    "level": "43"
+  },
+  {
+    "prevo_name": "Pawniard",
+    "evo_name": "Bisharp",
+    "level": "52"
+  },
+  {
+    "prevo_name": "Rufflet",
+    "evo_name": "Braviary",
+    "level": "54"
+  },
+  {
+    "prevo_name": "Vullaby",
+    "evo_name": "Mandibuzz",
+    "level": "54"
+  },
+  {
+    "prevo_name": "Deino",
+    "evo_name": "Zweilous",
+    "level": "50"
+  },
+  {
+    "prevo_name": "Zweilous",
+    "evo_name": "Hydreigon",
+    "level": "64"
+  },
+  {
+    "prevo_name": "Larvesta",
+    "evo_name": "Volcarona",
+    "level": "59"
+  },
+  {
+    "prevo_name": "Chespin",
+    "evo_name": "Quilladin",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Quilladin",
+    "evo_name": "Chesnaught",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Fennekin",
+    "evo_name": "Braixen",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Braixen",
+    "evo_name": "Delphox",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Froakie",
+    "evo_name": "Frogadier",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Frogadier",
+    "evo_name": "Greninja",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Bunnelby",
+    "evo_name": "Diggersby",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Fletchling",
+    "evo_name": "Fletchinder",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Fletchinder",
+    "evo_name": "Talonflame",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Scatterbug",
+    "evo_name": "Spewpa",
+    "level": "9"
+  },
+  {
+    "prevo_name": "Spewpa",
+    "evo_name": "Vivillon",
+    "level": "12"
+  },
+  {
+    "prevo_name": "Litleo",
+    "evo_name": "Pyroar",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Flabébé",
+    "evo_name": "Floette",
+    "level": "19"
+  },
+  {
+    "prevo_name": "Floette",
+    "evo_name": "Florges",
+    "method": "Shiny Stone"
+  },
+  {
+    "prevo_name": "Skiddo",
+    "evo_name": "Gogoat",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Pancham",
+    "evo_name": "Pangoro",
+    "level": "32",
+    "method": "With Dark-type in party"
+  },
+  {
+    "prevo_name": "Espurr",
+    "evo_name": "Meowstic",
+    "evo_subname": "Male",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Espurr",
+    "evo_name": "Meowstic",
+    "evo_subname": "Female",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Honedge",
+    "evo_name": "Doublade",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Doublade",
+    "evo_name": "Aegislash",
+    "evo_subname": "Blade Forme",
+    "method": "Dusk Stone"
+  },
+  {
+    "prevo_name": "Doublade",
+    "evo_name": "Aegislash",
+    "evo_subname": "Shield Forme",
+    "method": "Dusk Stone"
+  },
+  {
+    "prevo_name": "Spritzee",
+    "evo_name": "Aromatisse",
+    "method": "Trade holding Sachet"
+  },
+  {
+    "prevo_name": "Swirlix",
+    "evo_name": "Slurpuff",
+    "method": "Trade holding Whipped Dream"
+  },
+  {
+    "prevo_name": "Inkay",
+    "evo_name": "Malamar",
+    "level": "30",
+    "method": "With 3DS held upside down"
+  },
+  {
+    "prevo_name": "Binacle",
+    "evo_name": "Barbaracle",
+    "level": "39"
+  },
+  {
+    "prevo_name": "Skrelp",
+    "evo_name": "Dragalge",
+    "level": "48"
+  },
+  {
+    "prevo_name": "Clauncher",
+    "evo_name": "Clawitzer",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Helioptile",
+    "evo_name": "Heliolisk",
+    "method": "Sun Stone"
+  },
+  {
+    "prevo_name": "Tyrunt",
+    "evo_name": "Tyrantrum",
+    "level": "39",
+    "method": "Day"
+  },
+  {
+    "prevo_name": "Amaura",
+    "evo_name": "Aurorus",
+    "level": "39",
+    "method": "Night"
+  },
+  {
+    "prevo_name": "Goomy",
+    "evo_name": "Sliggoo",
+    "level": "40"
+  },
+  {
+    "prevo_name": "Sliggoo",
+    "evo_name": "Goodra",
+    "level": "50",
+    "method": "In rain or fog"
+  },
+  {
+    "prevo_name": "Phantump",
+    "evo_name": "Trevenant",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Pumpkaboo",
+    "prevo_subname": "Small Size",
+    "evo_name": "Gourgeist",
+    "evo_subname": "Small Size",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Pumpkaboo",
+    "prevo_subname": "Average Size",
+    "evo_name": "Gourgeist",
+    "evo_subname": "Average Size",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Pumpkaboo",
+    "prevo_subname": "Large Size",
+    "evo_name": "Gourgeist",
+    "evo_subname": "Large Size",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Pumpkaboo",
+    "prevo_subname": "Super Size",
+    "evo_name": "Gourgeist",
+    "evo_subname": "Super Size",
+    "method": "Trade"
+  },
+  {
+    "prevo_name": "Bergmite",
+    "evo_name": "Avalugg",
+    "level": "37"
+  },
+  {
+    "prevo_name": "Noibat",
+    "evo_name": "Noivern",
+    "level": "48"
+  },
+  {
+    "prevo_name": "Rowlet",
+    "evo_name": "Dartrix",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Dartrix",
+    "evo_name": "Decidueye",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Litten",
+    "evo_name": "Torracat",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Torracat",
+    "evo_name": "Incineroar",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Popplio",
+    "evo_name": "Brionne",
+    "level": "17"
+  },
+  {
+    "prevo_name": "Brionne",
+    "evo_name": "Primarina",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Pikipek",
+    "evo_name": "Trumbeak",
+    "level": "14"
+  },
+  {
+    "prevo_name": "Trumbeak",
+    "evo_name": "Toucannon",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Yungoos",
+    "evo_name": "Gumshoos",
+    "level": "20",
+    "method": "Day"
+  },
+  {
+    "prevo_name": "Grubbin",
+    "evo_name": "Charjabug",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Charjabug",
+    "evo_name": "Vikavolt",
+    "method": "Thunder Stone"
+  },
+  {
+    "prevo_name": "Crabrawler",
+    "evo_name": "Crabominable",
+    "method": "Level up at Mount Lanakila"
+  },
+  {
+    "prevo_name": "Cutiefly",
+    "evo_name": "Ribombee",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Rockruff",
+    "evo_name": "Lycanroc",
+    "evo_subname": "Midday Form",
+    "level": "25",
+    "method": "Day"
+  },
+  {
+    "prevo_name": "Rockruff",
+    "evo_name": "Lycanroc",
+    "evo_subname": "Midnight Form",
+    "level": "25",
+    "method": "Night"
+  },
+  {
+    "prevo_name": "Rockruff",
+    "evo_name": "Lycanroc",
+    "evo_subname": "Dusk Form",
+    "level": "25",
+    "method": "Between 17:00 and 17:59"
+  },
+  {
+    "prevo_name": "Mareanie",
+    "evo_name": "Toxapex",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Mudbray",
+    "evo_name": "Mudsdale",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Dewpider",
+    "evo_name": "Araquanid",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Fomantis",
+    "evo_name": "Lurantis",
+    "level": "34",
+    "method": "Day"
+  },
+  {
+    "prevo_name": "Morelull",
+    "evo_name": "Shiinotic",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Salandit",
+    "evo_name": "Salazzle",
+    "level": "33",
+    "method": "Female"
+  },
+  {
+    "prevo_name": "Stufful",
+    "evo_name": "Bewear",
+    "level": "27"
+  },
+  {
+    "prevo_name": "Bounsweet",
+    "evo_name": "Steenee",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Steenee",
+    "evo_name": "Tsareena",
+    "method": "Level up knowing Stomp"
+  },
+  {
+    "prevo_name": "Wimpod",
+    "evo_name": "Golisopod",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Sandygast",
+    "evo_name": "Palossand",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Type: Null",
+    "evo_name": "Silvally",
+    "method": "Friendship"
+  },
+  {
+    "prevo_name": "Jangmo-o",
+    "evo_name": "Hakamo-o",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Hakamo-o",
+    "evo_name": "Kommo-o",
+    "level": "45"
+  },
+  {
+    "prevo_name": "Cosmog",
+    "evo_name": "Cosmoem",
+    "level": "43"
+  },
+  {
+    "prevo_name": "Cosmoem",
+    "evo_name": "Solgaleo",
+    "level": "53"
+  },
+  {
+    "prevo_name": "Cosmoem",
+    "evo_name": "Lunala",
+    "level": "53"
+  },
+  {
+    "prevo_name": "Poipole",
+    "evo_name": "Naganadel",
+    "method": "Level up knowing Dragon Pulse"
+  },
+  {
+    "prevo_name": "Meltan",
+    "evo_name": "Melmetal",
+    "method": "400 Meltan Candy in Pokémon GO"
+  },
+  {
+    "prevo_name": "Grookey",
+    "evo_name": "Thwackey",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Thwackey",
+    "evo_name": "Rillaboom",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Scorbunny",
+    "evo_name": "Raboot",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Raboot",
+    "evo_name": "Cinderace",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Sobble",
+    "evo_name": "Drizzile",
+    "level": "16"
+  },
+  {
+    "prevo_name": "Drizzile",
+    "evo_name": "Inteleon",
+    "level": "35"
+  },
+  {
+    "prevo_name": "Skwovet",
+    "evo_name": "Greedent",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Rookidee",
+    "evo_name": "Corvisquire",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Corvisquire",
+    "evo_name": "Corviknight",
+    "level": "38"
+  },
+  {
+    "prevo_name": "Blipbug",
+    "evo_name": "Dottler",
+    "level": "10"
+  },
+  {
+    "prevo_name": "Dottler",
+    "evo_name": "Orbeetle",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Nickit",
+    "evo_name": "Thievul",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Gossifleur",
+    "evo_name": "Eldegoss",
+    "level": "20"
+  },
+  {
+    "prevo_name": "Wooloo",
+    "evo_name": "Dubwool",
+    "level": "24"
+  },
+  {
+    "prevo_name": "Chewtle",
+    "evo_name": "Drednaw",
+    "level": "22"
+  },
+  {
+    "prevo_name": "Yamper",
+    "evo_name": "Boltund",
+    "level": "25"
+  },
+  {
+    "prevo_name": "Rolycoly",
+    "evo_name": "Carkol",
+    "level": "18"
+  },
+  {
+    "prevo_name": "Carkol",
+    "evo_name": "Coalossal",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Applin",
+    "evo_name": "Flapple",
+    "method": "Tart Apple"
+  },
+  {
+    "prevo_name": "Applin",
+    "evo_name": "Appletun",
+    "method": "Sweet Apple"
+  },
+  {
+    "prevo_name": "Silicobra",
+    "evo_name": "Sandaconda",
+    "level": "36"
+  },
+  {
+    "prevo_name": "Arrokuda",
+    "evo_name": "Barraskewda",
+    "level": "26"
+  },
+  {
+    "prevo_name": "Toxel",
+    "evo_name": "Toxtricity",
+    "evo_subname": "Amped Form",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Toxel",
+    "evo_name": "Toxtricity",
+    "evo_subname": "Low Key Form",
+    "level": "30"
+  },
+  {
+    "prevo_name": "Sizzlipede",
+    "evo_name": "Centiskorch",
+    "level": "28"
+  },
+  {
+    "prevo_name": "Clobbopus",
+    "evo_name": "Grapploct",
+    "method": "Level up knowing Taunt"
+  },
+  {
+    "prevo_name": "Sinistea",
+    "evo_name": "Polteageist",
+    "method": "Chipped Pot or Cracked Pot"
+  },
+  {
+    "prevo_name": "Hatenna",
+    "evo_name": "Hattrem",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Hattrem",
+    "evo_name": "Hatterene",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Impidimp",
+    "evo_name": "Morgrem",
+    "level": "32"
+  },
+  {
+    "prevo_name": "Morgrem",
+    "evo_name": "Grimmsnarl",
+    "level": "42"
+  },
+  {
+    "prevo_name": "Milcery",
+    "evo_name": "Alcremie",
+    "method": "Sweet when its Trainer spins and strikes a pose"
+  },
+  {
+    "prevo_name": "Snom",
+    "evo_name": "Frosmoth",
+    "method": "Friendship (night)"
+  },
+  {
+    "prevo_name": "Cufant",
+    "evo_name": "Copperajah",
+    "level": "34"
+  },
+  {
+    "prevo_name": "Dreepy",
+    "evo_name": "Drakloak",
+    "level": "50"
+  },
+  {
+    "prevo_name": "Drakloak",
+    "evo_name": "Dragapult",
+    "level": "60"
+  }
+]

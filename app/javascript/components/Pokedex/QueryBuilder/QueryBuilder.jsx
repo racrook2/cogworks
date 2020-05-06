@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import Condition from 'components/Pokedex/Query/Condition/Condition'
+import Condition from 'components/Pokedex/QueryBuilder/Condition/Condition'
 import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
 import Button from 'components/shared/buttons/Button/Button'
 
-function Query({ handleSubmit }) {
+function QueryBuilder({ handleSubmit }) {
   const [ conditionId, setConditionId ] = useState(0);
   const [ conditions, setConditions ] = useState({});
 
@@ -63,4 +63,4 @@ function Query({ handleSubmit }) {
   )
 }
 
-export default Query
+export default QueryBuilder
