@@ -16,11 +16,11 @@ def pokemon_name_to_id
   end
 end
 
-def replace_types!(records)
+def replace_types!(records, type_key: 'type', id_key: 'type_id')
   records.each do |record|
-    type_name = record.delete('type')
+    type_name = record.delete(type_key)
 
-    record['type_id'] = type_name_to_id[type_name]
+    record[id_key] = type_name_to_id[type_name]
   end
 end
 
@@ -69,6 +69,18 @@ def seed(string)
       subname_key: 'prevo_subname',
       id_key: 'prevo_id'
     )
+  when 'attackings_defendings'
+    replace_types!(
+      records,
+      type_key: 'attacking',
+      id_key: 'attacking_id'
+    )
+
+    replace_types!(
+      records,
+      type_key: 'defending',
+      id_key: 'defending_id'
+    )
   end
 
   string.singularize.classify.constantize.create!(records)
@@ -82,4 +94,5 @@ end
   seed('pokemon_types') if ::PokemonType.count.zero?
   seed('abilities_pokemon') if ::AbilitiesPokemon.count.zero?
   seed('evos_prevos') if ::EvosPrevo.count.zero?
+  seed('attackings_defendings') if ::AttackingsDefending.count.zero?
 end

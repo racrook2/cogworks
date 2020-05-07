@@ -5,10 +5,10 @@ class Pokemon < ::ApplicationRecord
   has_many :pokemon_types, -> { order(:sort) }
   has_many :types, through: :pokemon_types
 
-  has_one :evos_prevo, foreign_key: :evo_id, class_name: ::EvosPrevo.to_s
+  has_one :evos_prevo, foreign_key: :evo_id
   has_one :prevo, through: :evos_prevo
 
-  has_many :evos_prevos, foreign_key: :prevo_id, class_name: ::EvosPrevo.to_s
+  has_many :evos_prevos, foreign_key: :prevo_id
   has_many :evos, through: :evos_prevos
 
   default_scope { order(:number, :id) }

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_05_06_012938) do
+ActiveRecord::Schema.define(version: 2020_05_07_021755) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,6 +26,13 @@ ActiveRecord::Schema.define(version: 2020_05_06_012938) do
     t.integer "pokemon_id", null: false
     t.integer "sort", null: false
     t.index ["ability_id", "pokemon_id"], name: "index_abilities_pokemon_on_ability_id_and_pokemon_id", unique: true
+  end
+
+  create_table "attackings_defendings", force: :cascade do |t|
+    t.integer "attacking_id", null: false
+    t.integer "defending_id", null: false
+    t.float "multiplier"
+    t.index ["attacking_id", "defending_id"], name: "index_attackings_defendings_on_attacking_id_and_defending_id", unique: true
   end
 
   create_table "evos_prevos", force: :cascade do |t|
@@ -75,6 +82,8 @@ ActiveRecord::Schema.define(version: 2020_05_06_012938) do
 
   add_foreign_key "abilities_pokemon", "abilities"
   add_foreign_key "abilities_pokemon", "pokemon"
+  add_foreign_key "attackings_defendings", "types", column: "attacking_id"
+  add_foreign_key "attackings_defendings", "types", column: "defending_id"
   add_foreign_key "evos_prevos", "pokemon", column: "evo_id"
   add_foreign_key "evos_prevos", "pokemon", column: "prevo_id"
   add_foreign_key "moves", "types"
