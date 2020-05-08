@@ -8,14 +8,16 @@ function Table({ columns, children, loading }) {
       <thead className='Table__header'>
         <tr>
           {
-            columns.map(column =>
-              <th
+            columns.map(column => {
+              const key = typeof column === 'object' ? column.props.type.name : column;
+
+              return <th
                 className='Table__th'
-                key={column}
+                key={key}
               >
                 { column }
               </th>
-            )
+            })
           }
         </tr>
       </thead>

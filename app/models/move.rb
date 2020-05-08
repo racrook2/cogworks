@@ -4,7 +4,7 @@ class Move < ::ApplicationRecord
   default_scope { order(:name) }
 
   def details
-    attributes.merge(
+    @details ||= attributes.merge(
       type: type
     )
   end

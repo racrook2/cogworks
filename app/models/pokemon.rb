@@ -14,7 +14,7 @@ class Pokemon < ::ApplicationRecord
   default_scope { order(:number, :id) }
 
   def details
-    attributes.merge(
+    @details ||= attributes.merge(
       type_1: type_1,
       type_2: type_2,
       ability_1: ability_1,
@@ -25,31 +25,71 @@ class Pokemon < ::ApplicationRecord
   end
 
   def full_name
-    subname ? "#{name} (#{subname})" : name
+    @full_name ||= subname ? "#{name} (#{subname})" : name
   end
 
   def type_1
-    types.first
+    @type_1 ||= types.first
   end
 
   def type_2
-    types.second
+    @type_2 ||= types.second
   end
 
   def ability_1
-    ability(0)
+    @ability_1 ||= ability(0)
   end
 
   def ability_2
-    ability(1)
+    @ability_2 ||= ability(1)
   end
 
   def hidden_ability
-    ability(2)
+    @hidden_ability ||= ability(2)
   end
 
   def bst
-    hp + atk + self.def + spa + spd + spe
+    @bst ||= hp + atk + self.def + spa + spd + spe
+  end
+
+  def weaknesses
+    @weaknesses ||= all_weaknesses.uniq
+  end
+
+  def quad_weaknesses
+    @quad_weaknesses ||= quad_relations(all_weaknesses)
+  end
+
+  def weak_to?(type)
+    weaknesses.include?(type)
+  end
+
+  def quad_weak_to?(type)
+    quad_weaknesses.include?(type)
+  end
+
+  def resistances
+    @resistances ||= all_resistances.uniq
+  end
+
+  def quad_resistances
+    @quad_resistances ||= quad_relations(all_resistances)
+  end
+
+  def resists?(type)
+    resistances.include?(type)
+  end
+
+  def quad_resists?(type)
+    quad_resistances.include?(type)
+  end
+
+  def immunities
+    @immunities ||= (type_1.immunities + type_2.immunities).uniq.sort
+  end
+
+  def immune_to?(type)
+    immunities.include?(type)
   end
 
   private
@@ -62,5 +102,25 @@ class Pokemon < ::ApplicationRecord
 
       ability.id == ability_relation&.ability_id
     end
+  end
+
+  def all_weaknesses
+    @all_weaknesses ||= (
+      type_1.weaknesses + type_2.weaknesses -
+        type_1.resistances - type_2.resistances -
+        type_1.immunities - type_2.immunities
+    ).sort
+  end
+
+  def all_resistances
+    @all_resistances ||= (
+      type_1.resistances + type_2.resistances -
+        type_1.weaknesses - type_2.weaknesses -
+        type_1.immunities - type_2.immunities
+    ).sort
+  end
+
+  def quad_relations(relation)
+    relation.select { |type| relation.count(type) > 1 }.uniq
   end
 end

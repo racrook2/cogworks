@@ -24,16 +24,22 @@ function EvolutionList() {
           'Basic',
           '',
           'Stage 1',
-          '',
+          ' ',
           'Stage 2'
         ]
       }
       loading={loading}
     >
       {
-        evolutions.map((evolution, index) =>
-          <EvolutionListRow key={evolution.id} index={index} evolution={evolution} />
-        )
+        evolutions.map((evolution, index) => {
+          const key = `${evolution.basic_id}-${evolution.stage_2_id || evolution.stage_1_id}`;
+
+          return <EvolutionListRow
+            key={key}
+            index={index}
+            evolution={evolution}
+          />
+        })
       }
     </Table>
   )
