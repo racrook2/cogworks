@@ -1,19 +1,22 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { useCookies } from 'react-cookie';
 import $ from 'jquery';
 
 window.$ = $;
 
-const BACKGROUND = '#FFC72C';
-const ACTIVE_BACKGROUND = 'darkorange';
+const BACKGROUND = 'white';
+const INACTIVE_BACKGROUND = 'gainsboro';
 const PRIMARY_TEXT = 'black';
 const SECONDARY_TEXT = 'brown';
 const BORDER = 'black';
+const SIDE_NAV_BACKGROUND = '#FFC72C';
+const SIDE_NAV_ACTIVE_BACKGROUND = 'darkorange';
 const PAPER_VERTICAL = 'lightblue';
 const PAPER_HORIZONTAL = 'pink';
 
 const sideNavStyle = {
-  background: BACKGROUND,
+  background: SIDE_NAV_BACKGROUND,
   border: `1px solid ${BORDER}`,
   borderRadius: '0.5rem',
   width: '15rem',
@@ -27,7 +30,7 @@ const sideNavStyle = {
     h2: {
       fontSize: '1.25rem',
       margin: '0.5rem 0 0.5rem',
-      background: ACTIVE_BACKGROUND,
+      background: SIDE_NAV_ACTIVE_BACKGROUND,
       width: '100%',
       padding: '0.5rem 0',
       textAlign: 'center',
@@ -80,7 +83,7 @@ const Item = ({ index, link, children }) => {
       padding: '0.25rem 0',
 
       '&:hover': {
-        background: ACTIVE_BACKGROUND
+        background: SIDE_NAV_ACTIVE_BACKGROUND
       },
 
       span: {
@@ -257,10 +260,54 @@ const SiteSection = ({ header, children }) => {
   );
 };
 
+const StyleToggle = () => {
+  const cookie = 'cogworksDarkMode';
+  const [cookies, setCookie, removeCookie] = useCookies([cookie]);
+  const darkMode = cookies[cookie];
+
+  const toggleStyle = {
+    height: '2.5rem',
+    width: '4.25rem',
+    borderRadius: '1.25rem',
+    background: INACTIVE_BACKGROUND,
+
+    button: {
+      fontSize: '1.75rem',
+      cursor: 'pointer',
+      background: BACKGROUND,
+      border: `2px solid ${BORDER}`,
+      borderRadius: '1.25rem',
+      float: darkMode ? 'right' : 'left',
+      height: '2.5rem',
+      width: '2.5rem'
+    }
+  };
+
+  const toggleCookie = () => {
+    if (darkMode) {
+      removeCookie(cookie);
+    } else {
+      setCookie(cookie, true);
+    }
+
+    window.location.reload();
+  };
+
+  return (
+    <div css={toggleStyle}>
+      <button onClick={toggleCookie}>
+        {darkMode ? '🌝' : '🌞'}
+      </button>
+    </div>
+  );
+};
+
 const Home = () => {
   return (
     <>
-      <div css={{ height: '10rem' }}></div>
+      <div css={{ height: '10rem' }}>
+        <StyleToggle />
+      </div>
       <div css={{display: 'flex'}}>
         <aside css={{ width: '22.5%', display: 'flex', justifyContent: 'right' }}>
           <nav css={sideNavStyle}>
