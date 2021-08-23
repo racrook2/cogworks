@@ -214,9 +214,11 @@ const SiteSection = ({ header, children }) => {
       backgroundSize: '100% 3rem',
 
       h2: {
-        height: '1.25rem',
+        height: '2rem',
         padding: '1rem 0.75rem 0',
         fontSize: '1.25rem',
+        display: 'flex',
+        alignItems: 'flex-end',
         ...marginStyle
       }
     },
