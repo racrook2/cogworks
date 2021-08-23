@@ -21,6 +21,7 @@ const sideNavStyle = {
   borderRadius: '0.5rem',
   width: '15rem',
   height: 'min-content',
+  color: PRIMARY_TEXT,
 
   ul: {
     counterReset: 'item',
@@ -76,7 +77,7 @@ const Section = ({ header, children }) => {
 const Item = ({ index, link, children }) => {
   const itemStyle = {
     textDecoration: 'none',
-    color: PRIMARY_TEXT,
+    color: 'inherit',
 
     li: {
       display: 'flex',
@@ -208,9 +209,11 @@ const SiteSection = ({ header, children }) => {
   const sectionStyle = {
     margin: '0 2rem',
     border: `1px solid ${BORDER}`,
+    color: PRIMARY_TEXT,
 
     header: {
-      backgroundImage: 'radial-gradient(circle at 1.5rem, white 0.5rem, black 0.6rem, transparent 1px)',
+      background: BACKGROUND,
+      backgroundImage: 'radial-gradient(circle at 1.5rem, whitesmoke 0.5rem, black 0.6rem, transparent 1px)',
       backgroundSize: '100% 3rem',
 
       h2: {
@@ -224,11 +227,11 @@ const SiteSection = ({ header, children }) => {
     },
 
     section: {
-      background: `linear-gradient(to bottom, ${PAPER_HORIZONTAL} 1px, transparent 1px)`,
+      background: `linear-gradient(to bottom, ${PAPER_HORIZONTAL} 1px, ${BACKGROUND} 1px)`,
       backgroundSize: '100% 1.5rem',
 
       '& > div': {
-        backgroundImage: 'radial-gradient(circle at 1.5rem, white 0.5rem, black 0.6rem, transparent 1px)',
+        backgroundImage: 'radial-gradient(circle at 1.5rem, whitesmoke 0.5rem, black 0.6rem, transparent 1px)',
         backgroundSize: '100% 3rem',
 
         div: {
