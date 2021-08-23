@@ -10,7 +10,6 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
-    "@svgr/webpack": "^5.5.0",
     "babel-plugin-emotion": "^11.0.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "jquery": "^3.5.0",

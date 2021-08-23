@@ -55,7 +55,12 @@ const Section = ({ header, children }) => {
   const chevronStyle = {
     cursor: 'pointer',
     background: 'none',
-    border: 'none'
+    border: 'none',
+    float: 'right',
+    fontWeight: 'bolder',
+    transform: 'scale(2, 1)',
+    marginRight: '0.75em',
+    color: SECONDARY_TEXT
   };
 
   return (
@@ -65,7 +70,7 @@ const Section = ({ header, children }) => {
         <button
           css={chevronStyle}
           onClick={() => { setOpen(!open) }}
-        >{open ? '^' : 'v'}</button>
+        >{open ? '˄' : '˅'}</button>
       </h2>
       {open && children}
     </>
