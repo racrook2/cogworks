@@ -8,23 +8,22 @@ window.$ = $;
 const BACKGROUND = 'white';
 const INACTIVE_BACKGROUND = 'gainsboro';
 const PRIMARY_TEXT = 'black';
-const SECONDARY_TEXT = 'brown';
+const SECONDARY_TEXT = 'gray';
 const BORDER = 'black';
-const SIDE_NAV_BACKGROUND = '#FFC72C';
-const SIDE_NAV_ACTIVE_BACKGROUND = 'darkorange';
+const SIDE_NAV_BACKGROUND = 'white';
+const SIDE_NAV_ACTIVE_BACKGROUND = 'whitesmoke';
 const PAPER_VERTICAL = 'lightblue';
 const PAPER_HORIZONTAL = 'pink';
 
 const sideNavStyle = {
   background: SIDE_NAV_BACKGROUND,
-  border: `1px solid ${BORDER}`,
   borderRadius: '0.5rem',
   width: '15rem',
   height: 'min-content',
   color: PRIMARY_TEXT,
+  boxShadow: '0 0 0.5rem lightgray',
 
   ul: {
-    counterReset: 'item',
     listStyleType: 'none',
     padding: 0,
 
@@ -47,26 +46,34 @@ const sideNavStyle = {
 const Section = ({ header, children }) => {
   const [open, setOpen] = useState(true);
 
-  const chevronStyle = {
+  const headerStyle = {
     cursor: 'pointer',
     background: 'none',
     border: 'none',
-    float: 'right',
     fontWeight: 'bolder',
+    fontSize: '1.25rem',
+    width: '100%'
+  };
+
+  const chevronStyle = {
+    float: 'right',
     transform: 'scale(2, 1)',
     marginRight: '0.75rem',
-    color: SECONDARY_TEXT
+    color: SECONDARY_TEXT,
+    fontSize: '1rem'
   };
 
   return (
     <>
       <h2>
-        {header}
         <button
-          css={chevronStyle}
+          css={headerStyle}
           onClick={() => { setOpen(!open) }}
         >
-          {open ? '˄' : '˅'}
+          {header}
+          <span css={chevronStyle}>
+            {open ? '˄' : '˅'}
+          </span>
         </button>
       </h2>
       {open && children}
@@ -206,15 +213,19 @@ const SiteSection = ({ header, children }) => {
     borderLeft: `1px solid ${PAPER_VERTICAL}`
   };
 
+  const holePunchStyle = {
+    backgroundImage: 'radial-gradient(circle at 1.5rem, whitesmoke 0.25rem, lightgray 0.5rem, transparent 1px)',
+    backgroundSize: '100% 3rem'
+  };
+
   const sectionStyle = {
     margin: '0 2rem',
-    border: `1px solid ${BORDER}`,
     color: PRIMARY_TEXT,
+    boxShadow: '0 0 0.5rem lightgray',
 
     header: {
       background: BACKGROUND,
-      backgroundImage: 'radial-gradient(circle at 1.5rem, whitesmoke 0.5rem, black 0.6rem, transparent 1px)',
-      backgroundSize: '100% 3rem',
+      ...holePunchStyle,
 
       h2: {
         height: '2rem',
@@ -231,8 +242,7 @@ const SiteSection = ({ header, children }) => {
       backgroundSize: '100% 1.5rem',
 
       '& > div': {
-        backgroundImage: 'radial-gradient(circle at 1.5rem, whitesmoke 0.5rem, black 0.6rem, transparent 1px)',
-        backgroundSize: '100% 3rem',
+        ...holePunchStyle,
 
         div: {
           lineHeight: '1.5rem',
