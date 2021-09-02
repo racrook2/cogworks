@@ -1,19 +1,20 @@
 import React, { useState } from 'react';
 import Tile from 'images/Tile.png'
-import { Link } from 'react-router-dom';
-import { useCookies } from 'react-cookie';
 import $ from 'jquery';
+import { Link } from 'react-router-dom';
+import {
+  BODY,
+  BACKGROUND,
+  SHADOW,
+  PRIMARY_TEXT,
+  SECONDARY_TEXT,
+  SIDE_NAV_BACKGROUND,
+  SIDE_NAV_ACTIVE_BACKGROUND,
+  PAPER_VERTICAL,
+  PAPER_HORIZONTAL
+} from 'utils/Colors';
 
 window.$ = $;
-
-const BACKGROUND = 'white';
-const SHADOW = 'lightgray';
-const PRIMARY_TEXT = 'black';
-const SECONDARY_TEXT = 'gray';
-const SIDE_NAV_BACKGROUND = 'white';
-const SIDE_NAV_ACTIVE_BACKGROUND = 'whitesmoke';
-const PAPER_VERTICAL = 'lightblue';
-const PAPER_HORIZONTAL = 'pink';
 
 const sideNavStyle = {
   background: SIDE_NAV_BACKGROUND,
@@ -52,7 +53,8 @@ const Section = ({ header, children }) => {
     border: 'none',
     fontWeight: 'bolder',
     fontSize: '1.25rem',
-    width: '100%'
+    width: '100%',
+    color: PRIMARY_TEXT
   };
 
   const chevronStyle = {
@@ -161,6 +163,7 @@ const renderSideNav = () => {
     {
       header: 'Writing',
       items: [
+        { link: '/', text: 'The Basics of Storytelling' },
         { link: '/', text: 'Pokémon Battles' },
         { link: '/', text: 'Choosing Your Team' },
       ]
@@ -214,7 +217,7 @@ const SiteSection = ({ header, children }) => {
   };
 
   const holePunchStyle = {
-    backgroundImage: `radial-gradient(circle at 1.5rem, whitesmoke 0.25rem, ${SHADOW} 0.5rem, transparent 1px)`,
+    backgroundImage: `radial-gradient(circle at 1.5rem, ${BODY} 0.25rem, ${SHADOW} 0.5rem, transparent 1px)`,
     backgroundSize: '100% 3rem'
   };
 
@@ -277,32 +280,33 @@ const SiteSection = ({ header, children }) => {
 
 const StyleToggle = () => {
   const cookie = 'cogworksDarkMode';
-  const [cookies, setCookie, removeCookie] = useCookies([cookie]);
-  const darkMode = cookies[cookie];
+  const darkMode = localStorage.getItem(cookie);
+  const BORDER = '0.25rem';
 
   const toggleStyle = {
-    height: '2.5rem',
+    height: '2.375rem',
     width: '4.25rem',
-    borderRadius: '1.25rem',
+    borderRadius: `calc(1.25rem + ${BORDER})`,
     background: SHADOW,
+    border: `${BORDER} solid ${SHADOW}`,
 
     button: {
       fontSize: '1.75rem',
       cursor: 'pointer',
-      background: BACKGROUND,
-      border: '2px solid black',
+      background: BODY,
+      border: 'none',
       borderRadius: '1.25rem',
       float: darkMode ? 'right' : 'left',
-      height: '2.5rem',
-      width: '2.5rem'
+      height: '2.375rem',
+      width: '2.375rem'
     }
   };
 
   const toggleCookie = () => {
     if (darkMode) {
-      removeCookie(cookie);
+      localStorage.removeItem(cookie);
     } else {
-      setCookie(cookie, true);
+      localStorage.setItem(cookie, true);
     }
 
     window.location.reload();
@@ -320,18 +324,32 @@ const StyleToggle = () => {
 const StickyNote = ({ image, caption, color, right = false }) => {
   const marginLeft = right ? '1rem' : '-3rem';
   const marginRight = right ? '-9rem' : '1rem';
+  let highlight, colors, fallback;
 
-  const colors = {
-    green: 'lightgreen',
-    pink: 'pink',
-    blue: 'lightblue',
-    yellow: 'lemonchiffon'
-  };
+  if (localStorage.getItem('cogworksDarkMode')) {
+    highlight = 'gray';
+    fallback = '#555555';
+    colors = {
+      green: '#18453B',
+      pink: '#722F37',
+      blue: '#2C3968',
+      yellow: '#954535'
+    };
+  } else {
+    highlight = 'white';
+    fallback = 'whitesmoke';
+    colors = {
+      green: 'lightgreen',
+      pink: 'pink',
+      blue: 'lightblue',
+      yellow: 'lemonchiffon'
+    };
+  }
 
   const stickyNoteStyle = {
     float: right ? 'right' : 'left',
     padding: '1rem',
-    background: `linear-gradient(135deg, white -100%, ${colors[color] || 'whitesmoke'})`,
+    background: `linear-gradient(135deg, ${highlight} -100%, ${colors[color] || fallback})`,
     border: `1px solid ${SHADOW}`,
     boxShadow: `0 0.5rem 0.5rem ${SHADOW}`,
     margin: `0.25rem ${marginRight} 0.5rem ${marginLeft}`,
