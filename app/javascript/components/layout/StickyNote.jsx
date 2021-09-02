@@ -31,7 +31,8 @@ const stickyNoteStyle = {
   height: '12.5rem',
   display: 'flex',
   flexDirection: 'column',
-  alignItems: 'center'
+  alignItems: 'center',
+  justifyContent: 'space-between'
 };
 
 const StickyNote = ({ image, caption, color, right = false }) => {
