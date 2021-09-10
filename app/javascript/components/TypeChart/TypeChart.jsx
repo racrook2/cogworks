@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import Table from 'components/shared/Table/Table'
-import TypeChartRow from 'components/TypeChart/TypeChartRow/TypeChartRow'
-import Type from 'components/shared/Type'
+import Table from 'components/shared/Table/Table';
+import Row from 'components/TypeChart/Row';
+import Type from 'components/shared/Type';
+import PageLayout from 'components/layout/PageLayout';
 
 function TypeChart() {
   const [ loading, setLoading ] = useState(true);
@@ -28,22 +29,24 @@ function TypeChart() {
   }, []);
 
   return (
-    <Table
-      columns={[ ...[ '' ], ...typeObjects() ]}
-      loading={loading}
-    >
-      {
-        types.map((type, index) =>
-          <TypeChartRow
-            key={type.name}
-            index={index}
-            type={type}
-            columns={types}
-            typeRelations={typeRelations[type.name]}
-          />
-        )
-      }
-    </Table>
+    <PageLayout>
+      <Table
+        columns={[ ...[ '' ], ...typeObjects() ]}
+        loading={loading}
+      >
+        {
+          types.map((type, index) =>
+            <Row
+              key={type.name}
+              index={index}
+              type={type}
+              columns={types}
+              typeRelations={typeRelations[type.name]}
+            />
+          )
+        }
+      </Table>
+    </PageLayout>
   )
 }
 

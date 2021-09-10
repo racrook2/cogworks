@@ -2,7 +2,7 @@ import React from 'react'
 import TableRow from 'components/shared/Table/TableRow'
 import Type from 'components/shared/Type'
 
-function TypeChartRow({ index, type, columns, typeRelations }) {
+function Row({ index, type, columns, typeRelations }) {
   return(
     <>
       { typeRelations &&
@@ -27,4 +27,4 @@ function TypeChartRow({ index, type, columns, typeRelations }) {
   )
 }
 
-export default TypeChartRow
+export default Row

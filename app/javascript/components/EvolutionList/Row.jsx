@@ -1,7 +1,7 @@
 import React from 'react'
 import TableRow from 'components/shared/Table/TableRow'
 
-function EvolutionListRow({ index, evolution }) {
+function Row({ index, evolution }) {
   return(
     <TableRow index={index}>
       <td className='Table__TableRow__td'>
@@ -38,4 +38,4 @@ function EvolutionListRow({ index, evolution }) {
   )
 }
 
-export default EvolutionListRow
+export default Row

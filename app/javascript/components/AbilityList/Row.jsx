@@ -1,7 +1,7 @@
 import React from 'react'
 import TableRow from 'components/shared/Table/TableRow'
 
-function AbilityListRow({ index, ability }) {
+function Row({ index, ability }) {
   return(
     <TableRow index={index}>
       <td className='Table__TableRow__td'>
@@ -14,4 +14,4 @@ function AbilityListRow({ index, ability }) {
   )
 }
 
-export default AbilityListRow
+export default Row

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Table from 'components/shared/Table/Table'
-import AbilityListRow from 'components/AbilityList/AbilityListRow/AbilityListRow'
+import Table from 'components/shared/Table/Table';
+import Row from 'components/AbilityList/Row';
+import PageLayout from 'components/layout/PageLayout';
 
 function AbilityList() {
   const [ loading, setLoading ] = useState(true);
@@ -18,21 +19,23 @@ function AbilityList() {
   }, []);
 
   return (
-    <Table
-      columns={
-        [
-          'Name',
-          'Description'
-        ]
-      }
-      loading={loading}
-    >
-      {
-        abilities.map((ability, index) =>
-          <AbilityListRow key={ability.id} index={index} ability={ability} />
-        )
-      }
-    </Table>
+    <PageLayout>
+      <Table
+        columns={
+          [
+            'Name',
+            'Description'
+          ]
+        }
+        loading={loading}
+      >
+        {
+          abilities.map((ability, index) =>
+            <Row key={ability.id} index={index} ability={ability} />
+          )
+        }
+      </Table>
+    </PageLayout>
   )
 }
 

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import QueryBuilder from 'components/Pokedex/QueryBuilder/QueryBuilder';
 import Table from 'components/shared/Table/Table';
-import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow';
+import Row from 'components/Pokedex/Row/Row';
 import PageLayout from 'components/layout/PageLayout';
 
 function Pokedex() {
@@ -53,7 +53,7 @@ function Pokedex() {
       >
         {
           pokemon.map((pokemon, index) =>
-            <PokedexRow key={pokemon.id} index={index} pokemon={pokemon} />
+            <Row key={pokemon.id} index={index} pokemon={pokemon} />
           )
         }
       </Table>

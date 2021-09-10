@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Table from 'components/shared/Table/Table'
-import MoveListRow from 'components/MoveList/MoveListRow/MoveListRow'
+import Table from 'components/shared/Table/Table';
+import Row from 'components/MoveList/Row';
+import PageLayout from 'components/layout/PageLayout';
 
 function MoveList() {
   const [ loading, setLoading ] = useState(true);
@@ -18,27 +19,29 @@ function MoveList() {
   }, []);
 
   return (
-    <Table
-      columns={
-        [
-          'Name',
-          'Type',
-          'Category',
-          'Power',
-          'Accuracy',
-          'PP',
-          'Description',
-          'Probability'
-        ]
-      }
-      loading={loading}
-    >
-      {
-        moves.map((move, index) =>
-          <MoveListRow key={move.id} index={index} move={move} />
-        )
-      }
-    </Table>
+    <PageLayout>
+      <Table
+        columns={
+          [
+            'Name',
+            'Type',
+            'Category',
+            'Power',
+            'Accuracy',
+            'PP',
+            'Description',
+            'Probability'
+          ]
+        }
+        loading={loading}
+      >
+        {
+          moves.map((move, index) =>
+            <Row key={move.id} index={index} move={move} />
+          )
+        }
+      </Table>
+    </PageLayout>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 import TableRow from 'components/shared/Table/TableRow'
 import Type from 'components/shared/Type'
 
-function MoveListRow({ index, move }) {
+function Row({ index, move }) {
   return(
     <TableRow index={index}>
       <td className='Table__TableRow__td'>
@@ -33,4 +33,4 @@ function MoveListRow({ index, move }) {
   )
 }
 
-export default MoveListRow
+export default Row
