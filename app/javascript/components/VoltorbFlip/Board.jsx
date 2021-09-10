@@ -1,9 +1,14 @@
 import React from 'react'
-import VoltorbFlipNumberTile from 'components/VoltorbFlip/VoltorbFlipBoard/VoltorbFlipNumberTile/VoltorbFlipNumberTile'
-import VoltorbFlipInfoTile from 'components/VoltorbFlip/VoltorbFlipBoard/VoltorbFlipInfoTile/VoltorbFlipInfoTile'
-import './VoltorbFlipBoard.scss'
+import NumberTile from 'components/VoltorbFlip/NumberTile'
+import InfoTile from 'components/VoltorbFlip/InfoTile'
 
-class VoltorbFlipBoard extends React.Component {
+const boardStyle = {
+  borderCollapse: 'separate',
+  borderSpacing: '2px',
+  margin: 'auto'
+};
+
+class Board extends React.Component {
   constructor(props) {
     super(props);
 
@@ -116,7 +121,7 @@ class VoltorbFlipBoard extends React.Component {
         for (let col = 0; col < this.props.cols; col++) {
           tiles.push(
             <td key={col}>
-              <VoltorbFlipInfoTile
+              <InfoTile
                 totalValue={colTotalValues[col]}
                 voltorbCount={colVoltorbCounts[col]}
               />
@@ -133,7 +138,7 @@ class VoltorbFlipBoard extends React.Component {
           }
 
           if (col === this.props.cols) {
-            tile = <VoltorbFlipInfoTile
+            tile = <InfoTile
               totalValue={rowTotalValue}
               voltorbCount={rowVoltorbCount}
             />
@@ -148,7 +153,7 @@ class VoltorbFlipBoard extends React.Component {
               colVoltorbCounts[col]++
             }
 
-            tile = <VoltorbFlipNumberTile
+            tile = <NumberTile
               value={tileValue}
               selected={row === this.state.selected.row && col === this.state.selected.col}
               flipped={this.state.flipped[row][col]}
@@ -172,7 +177,7 @@ class VoltorbFlipBoard extends React.Component {
 
   render() {
     return (
-      <table className='VoltorbFlip__VoltorbFlipBoard'>
+      <table css={boardStyle}>
         <tbody>
           { this.createBoard() }
         </tbody>
@@ -181,4 +186,4 @@ class VoltorbFlipBoard extends React.Component {
   }
 }
 
-export default VoltorbFlipBoard
+export default Board

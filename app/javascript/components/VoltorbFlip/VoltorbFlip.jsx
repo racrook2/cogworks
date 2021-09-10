@@ -1,9 +1,12 @@
 import React from 'react'
-import VoltorbFlipBoard from 'components/VoltorbFlip/VoltorbFlipBoard/VoltorbFlipBoard'
+import Board from 'components/VoltorbFlip/Board'
+import PageLayout from 'components/layout/PageLayout';
 
 function VoltorbFlip() {
   return(
-    <VoltorbFlipBoard rows={5} cols={5} />
+    <PageLayout>
+      <Board rows={5} cols={5} />
+    </PageLayout>
   )
 }
 

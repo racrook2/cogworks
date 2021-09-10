@@ -1,7 +1,7 @@
 import React from 'react'
-import Select from 'components/shared/inputs/Select/Select'
-import Text from 'components/shared/inputs/Text/Text'
-import Number from 'components/shared/inputs/Number/Number'
+import Select from 'components/shared/inputs/Select'
+import Text from 'components/shared/inputs/Text'
+import Number from 'components/shared/inputs/Number'
 import LinkButton from 'components/shared/buttons/LinkButton'
 
 function Condition({ id, condition, updateCondition, removeCondition }) {
