@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Table from 'components/shared/Table/Table'
 import TypeChartRow from 'components/TypeChart/TypeChartRow/TypeChartRow'
-import Type from 'components/shared/Type/Type'
+import Type from 'components/shared/Type'
 
 function TypeChart() {
   const [ loading, setLoading ] = useState(true);

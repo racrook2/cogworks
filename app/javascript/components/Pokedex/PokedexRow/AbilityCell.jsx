@@ -1,5 +1,5 @@
 import React from 'react'
-import Ability from 'components/shared/Ability/Ability'
+import Ability from 'components/shared/Ability'
 import { SECONDARY_TEXT } from 'utils/Colors';
 
 const hiddenAbilityStyle = {

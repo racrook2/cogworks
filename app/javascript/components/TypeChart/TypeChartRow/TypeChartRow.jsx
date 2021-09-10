@@ -1,6 +1,6 @@
 import React from 'react'
 import TableRow from 'components/shared/Table/TableRow'
-import Type from 'components/shared/Type/Type'
+import Type from 'components/shared/Type'
 
 function TypeChartRow({ index, type, columns, typeRelations }) {
   return(

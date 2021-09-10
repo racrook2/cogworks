@@ -1,5 +1,5 @@
 import React from 'react'
-import Type from 'components/shared/Type/Type'
+import Type from 'components/shared/Type'
 
 const typeStyle = {
   display: 'flex',

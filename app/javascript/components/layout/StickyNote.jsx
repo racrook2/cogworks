@@ -1,5 +1,6 @@
 import React from 'react';
 import { SHADOW } from 'utils/Colors';
+import { LOWERED_BOX_SHADOW } from 'utils/BoxShadow';
 
 let HIGHLIGHT, COLORS, FALLBACK;
 
@@ -26,7 +27,7 @@ if (localStorage.getItem('cogworksDarkMode')) {
 const stickyNoteStyle = {
   padding: '1rem',
   border: `1px solid ${SHADOW}`,
-  boxShadow: `0 0.5rem 0.5rem ${SHADOW}`,
+  boxShadow: LOWERED_BOX_SHADOW,
   width: '12.5rem',
   height: '12.5rem',
   display: 'flex',

@@ -1,7 +1,7 @@
 import React from 'react';
 import Spinner from 'images/Spinner.gif'
 import { BACKGROUND } from 'utils/Colors';
-import { BOX_SHADOW } from 'utils/BoxShadow';
+import { BOX_SHADOW, LOWERED_BOX_SHADOW } from 'utils/BoxShadow';
 
 const tableStyle = {
   borderCollapse: 'collapse',
@@ -10,7 +10,9 @@ const tableStyle = {
   thead: {
     backgroundColor: BACKGROUND,
     position: 'sticky',
-    top: 0
+    top: 0,
+    boxShadow: LOWERED_BOX_SHADOW,
+    zIndex: 1
   },
 
   th: {
