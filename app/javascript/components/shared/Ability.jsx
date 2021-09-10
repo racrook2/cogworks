@@ -5,7 +5,7 @@ const abilityStyle = {
   position: 'relative',
 
   'span:first-of-type': {
-    borderBottom: `1px dashed ${SECONDARY_TEXT}`,
+    textDecoration: `underline dashed ${SECONDARY_TEXT}`,
     display: 'inline-block'
   },
 
