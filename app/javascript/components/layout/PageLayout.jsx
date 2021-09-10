@@ -12,7 +12,7 @@ const PageLayout = ({ children }) => {
         <aside css={{ width: '22.5%', display: 'flex', justifyContent: 'right' }}>
           <SideNav />
         </aside>
-        <main css={{ width: '55%' }}>
+        <main css={{ width: '55%', padding: '0 2rem' }}>
           {children}
         </main>
         <aside css={{ width: '22.5%' }}></aside>

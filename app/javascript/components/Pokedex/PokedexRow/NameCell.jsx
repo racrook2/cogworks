@@ -1,13 +1,19 @@
 import React from 'react'
-import './NameCell.scss'
+import { SECONDARY_TEXT } from 'utils/Colors';
+
+const subnameStyle = {
+  color: SECONDARY_TEXT,
+  fontSize: '0.75rem',
+  fontStyle: 'italic'
+};
 
 function NameCell({ name, subname }) {
   return(
-    <div className='Pokedex__NameCell'>
+    <div>
       <div>
         { name }
       </div>
-      <div className='Pokedex__NameCell__subname'>
+      <div css={subnameStyle}>
         { subname }
       </div>
     </div>

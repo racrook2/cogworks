@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react'
-import QueryBuilder from 'components/Pokedex/QueryBuilder/QueryBuilder'
-import Table from 'components/shared/Table/Table'
-import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow'
+import React, { useState, useEffect } from 'react';
+import QueryBuilder from 'components/Pokedex/QueryBuilder/QueryBuilder';
+import Table from 'components/shared/Table/Table';
+import PokedexRow from 'components/Pokedex/PokedexRow/PokedexRow';
+import PageLayout from 'components/layout/PageLayout';
 
 function Pokedex() {
   const [ loading, setLoading ] = useState(true);
@@ -32,7 +33,7 @@ function Pokedex() {
   };
 
   return (
-    <>
+    <PageLayout>
       <QueryBuilder handleSubmit={handleSubmit} />
       <Table
         columns={[
@@ -56,7 +57,7 @@ function Pokedex() {
           )
         }
       </Table>
-    </>
+    </PageLayout>
   )
 }
 

@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import Condition from 'components/Pokedex/QueryBuilder/Condition/Condition'
-import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
-import Button from 'components/shared/buttons/Button/Button'
+import Condition from 'components/Pokedex/QueryBuilder/Condition'
+import LinkButton from 'components/shared/buttons/LinkButton'
+import Button from 'components/shared/buttons/Button'
 
 function QueryBuilder({ handleSubmit }) {
   const [ conditionId, setConditionId ] = useState(0);

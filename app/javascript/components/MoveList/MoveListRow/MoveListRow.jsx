@@ -1,5 +1,5 @@
 import React from 'react'
-import TableRow from 'components/shared/Table/TableRow/TableRow'
+import TableRow from 'components/shared/Table/TableRow'
 import Type from 'components/shared/Type/Type'
 
 function MoveListRow({ index, move }) {

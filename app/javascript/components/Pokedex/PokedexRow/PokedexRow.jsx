@@ -1,8 +1,8 @@
 import React from 'react'
-import TableRow from 'components/shared/Table/TableRow/TableRow'
-import PokedexNameCell from 'components/Pokedex/PokedexRow/NameCell/NameCell'
-import PokedexTypeCell from 'components/Pokedex/PokedexRow/TypeCell/TypeCell'
-import PokedexAbilityCell from 'components/Pokedex/PokedexRow/AbilityCell/AbilityCell'
+import TableRow from 'components/shared/Table/TableRow'
+import NameCell from 'components/Pokedex/PokedexRow/NameCell'
+import TypeCell from 'components/Pokedex/PokedexRow/TypeCell'
+import AbilityCell from 'components/Pokedex/PokedexRow/AbilityCell'
 
 function PokedexRow({ index, pokemon }) {
   const formatNumber = number => `#${String(number).padStart(3, 0)}`;
@@ -13,19 +13,19 @@ function PokedexRow({ index, pokemon }) {
         { formatNumber(pokemon.number) }
       </td>
       <td className='Table__TableRow__td'>
-        <PokedexNameCell
+        <NameCell
           name={pokemon.name}
           subname={pokemon.subname}
         />
       </td>
       <td className='Table__TableRow__td'>
-        <PokedexTypeCell
+        <TypeCell
           type_1={pokemon.type_1}
           type_2={pokemon.type_2}
         />
       </td>
       <td className='Table__TableRow__td'>
-        <PokedexAbilityCell
+        <AbilityCell
           ability_1={pokemon.ability_1}
           ability_2={pokemon.ability_2}
           hidden_ability={pokemon.hidden_ability}

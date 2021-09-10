@@ -1,5 +1,5 @@
 import React from 'react'
-import TableRow from 'components/shared/Table/TableRow/TableRow'
+import TableRow from 'components/shared/Table/TableRow'
 
 function EvolutionListRow({ index, evolution }) {
   return(

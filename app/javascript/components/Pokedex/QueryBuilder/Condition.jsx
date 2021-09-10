@@ -2,7 +2,7 @@ import React from 'react'
 import Select from 'components/shared/inputs/Select/Select'
 import Text from 'components/shared/inputs/Text/Text'
 import Number from 'components/shared/inputs/Number/Number'
-import LinkButton from 'components/shared/buttons/LinkButton/LinkButton'
+import LinkButton from 'components/shared/buttons/LinkButton'
 
 function Condition({ id, condition, updateCondition, removeCondition }) {
   const isNumericalAttribute = attr => (

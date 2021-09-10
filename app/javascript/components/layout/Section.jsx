@@ -7,6 +7,7 @@ import {
   PAPER_VERTICAL,
   PAPER_HORIZONTAL
 } from 'utils/Colors';
+import { BOX_SHADOW } from 'utils/BoxShadow';
 
 const marginStyle = {
   margin: '0 6rem',
@@ -19,9 +20,9 @@ const holePunchStyle = {
 };
 
 const sectionStyle = {
-  margin: '0 2rem 2rem',
+  marginBottom: '2rem',
   color: PRIMARY_TEXT,
-  boxShadow: `0 0 0.5rem ${SHADOW}`,
+  boxShadow: BOX_SHADOW,
 
   header: {
     background: BACKGROUND,

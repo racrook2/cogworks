@@ -1,17 +1,25 @@
 import React from 'react'
 import Type from 'components/shared/Type/Type'
-import './TypeCell.scss'
+
+const typeStyle = {
+  display: 'flex',
+  justifyContent: 'center',
+
+  'span + span': {
+    marginLeft: '6px'
+  }
+};
 
 function TypeCell({ type_1, type_2 }) {
   return(
-    <div className='Pokedex__TypeCell'>
+    <div css={typeStyle}>
       { type_1 &&
-        <span className='Pokedex__TypeCell__type'>
+        <span>
           <Type type={type_1} />
         </span>
       }
       { type_2 &&
-        <span className='Pokedex__TypeCell__type'>
+        <span>
           <Type type={type_2} />
         </span>
       }

@@ -1,10 +1,15 @@
 import React from 'react'
 import Ability from 'components/shared/Ability/Ability'
-import './AbilityCell.scss'
+import { SECONDARY_TEXT } from 'utils/Colors';
+
+const hiddenAbilityStyle = {
+  color: SECONDARY_TEXT,
+  fontStyle: 'italic'
+};
 
 function AbilityCell({ ability_1, ability_2, hidden_ability }) {
   return(
-    <div className='Pokedex__AbilityCell'>
+    <div>
       { ability_1 &&
         <Ability ability={ability_1} />
       }
@@ -12,7 +17,7 @@ function AbilityCell({ ability_1, ability_2, hidden_ability }) {
       <Ability ability={ability_2} />
       }
       { hidden_ability &&
-        <div className='Pokedex__AbilityCell__hidden-ability'>
+        <div css={hiddenAbilityStyle}>
           <Ability ability={hidden_ability} />
         </div>
       }

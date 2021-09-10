@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import sections from 'utils/Sections';
 import { Link } from 'react-router-dom';
 import {
-  SHADOW,
   PRIMARY_TEXT,
   SECONDARY_TEXT,
   SIDE_NAV_BACKGROUND,
   SIDE_NAV_ACTIVE_BACKGROUND
 } from 'utils/Colors';
+import { BOX_SHADOW } from 'utils/BoxShadow';
 
 const headerStyle = {
   cursor: 'pointer',
@@ -129,7 +129,7 @@ const sideNavStyle = {
   width: '15rem',
   height: 'min-content',
   color: PRIMARY_TEXT,
-  boxShadow: `0 0 0.5rem ${SHADOW}`,
+  boxShadow: BOX_SHADOW,
 
   ul: {
     listStyleType: 'none',
