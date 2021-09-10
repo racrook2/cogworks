@@ -20,8 +20,9 @@ function Row({ index, pokemon }) {
       </td>
       <td className='Table__TableRow__td'>
         <TypeCell
-          type_1={pokemon.type_1}
-          type_2={pokemon.type_2}
+          type1={pokemon.type_1}
+          type2={pokemon.type_2}
+          centered
         />
       </td>
       <td className='Table__TableRow__td'>

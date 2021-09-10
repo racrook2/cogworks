@@ -1,12 +1,25 @@
 import React from 'react';
 import SideNav from 'components/layout/SideNav';
 import StyleToggle from 'components/layout/StyleToggle';
+import { Link } from 'react-router-dom';
+
+const headerStyle = {
+  height: '10rem',
+  display: 'grid',
+
+  a: {
+    justifySelf: 'center'
+  }
+};
 
 const PageLayout = ({ children }) => {
   return (
     <>
-      <div css={{ height: '10rem' }}>
+      <div css={headerStyle}>
         <StyleToggle />
+        <Link to='/'>
+          <img alt='logo'/>
+        </Link>
       </div>
       <div css={{display: 'flex'}}>
         <aside css={{ width: '22.5%', display: 'flex', justifyContent: 'right' }}>

@@ -29,11 +29,11 @@ class Pokemon < ::ApplicationRecord
   end
 
   def type_1
-    @type_1 ||= types.first
+    @type_1 ||= type(0)
   end
 
   def type_2
-    @type_2 ||= types.second
+    @type_2 ||= type(1)
   end
 
   def ability_1
@@ -93,6 +93,16 @@ class Pokemon < ::ApplicationRecord
   end
 
   private
+
+  def type(sort)
+    types.find do |type|
+      type_relation = pokemon_types.find do |type_relation|
+        type_relation.sort == sort
+      end
+
+      type.id == type_relation&.type_id
+    end
+  end
 
   def ability(sort)
     abilities.find do |ability|

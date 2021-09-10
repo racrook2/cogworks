@@ -14,8 +14,8 @@ const typeStyle = {
 
 function Type({ type }) {
   return(
-    <div css={[typeStyle, { backgroundColor: TYPE_COLORS[type.name] }]}>
-      { type.name }
+    <div css={[typeStyle, { backgroundColor: TYPE_COLORS[type.name || type] }]}>
+      { type.name || type }
     </div>
   )
 }

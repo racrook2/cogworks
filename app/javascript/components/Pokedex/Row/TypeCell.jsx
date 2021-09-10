@@ -3,24 +3,23 @@ import Type from 'components/shared/Type'
 
 const typeStyle = {
   display: 'flex',
-  justifyContent: 'center',
 
   'span + span': {
     marginLeft: '6px'
   }
 };
 
-function TypeCell({ type_1, type_2 }) {
+function TypeCell({ type1, type2, centered }) {
   return(
-    <div css={typeStyle}>
-      { type_1 &&
+    <div css={[typeStyle, centered ? { justifyContent: 'center' } : {}]}>
+      { type1 &&
         <span>
-          <Type type={type_1} />
+          <Type type={type1} />
         </span>
       }
-      { type_2 &&
+      { type2 &&
         <span>
-          <Type type={type_2} />
+          <Type type={type2} />
         </span>
       }
     </div>
