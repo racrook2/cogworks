@@ -5,7 +5,7 @@ const typeStyle = {
   display: 'flex',
 
   'span + span': {
-    marginLeft: '6px'
+    marginLeft: '0.375rem'
   }
 };
 

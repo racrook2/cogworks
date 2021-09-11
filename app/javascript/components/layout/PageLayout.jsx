@@ -18,7 +18,7 @@ const PageLayout = ({ children }) => {
       <div css={headerStyle}>
         <StyleToggle />
         <Link to='/'>
-          <img alt='logo'/>
+          <img alt='Logo'/>
         </Link>
       </div>
       <div css={{display: 'flex'}}>

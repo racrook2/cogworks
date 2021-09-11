@@ -23,11 +23,11 @@ function EvolutionList() {
       <Table
         columns={
           [
-            'Basic',
-            '',
-            'Stage 1',
-            ' ',
-            'Stage 2'
+            { content: 'Basic', width: '25%' },
+            { content: '' },
+            { content: 'Stage 1', width: '25%' },
+            { content: ' ' },
+            { content: 'Stage 2', width: '25%' }
           ]
         }
         loading={loading}

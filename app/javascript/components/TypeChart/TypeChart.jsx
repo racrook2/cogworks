@@ -9,9 +9,11 @@ function TypeChart() {
   const [ types, setTypes ] = useState([]);
   const [ typeRelations, setTypeRelations ] = useState({});
 
-  const typeObjects = () => types.map(type =>
-    <Type type={type} />
-  );
+  const typeObjects = () => types.map(type => {
+    return {
+      content: <Type type={type} sideways />
+    }
+  });
 
   useEffect(() => {
     Promise.all([
@@ -31,7 +33,7 @@ function TypeChart() {
   return (
     <PageLayout>
       <Table
-        columns={[ ...[ '' ], ...typeObjects() ]}
+        columns={[ { content: '', width: '5.5rem' }, ...typeObjects() ]}
         loading={loading}
       >
         {

@@ -37,17 +37,17 @@ function Pokedex() {
       <QueryBuilder handleSubmit={handleSubmit} />
       <Table
         columns={[
-          '',
-          'Name',
-          'Type',
-          'Ability',
-          'HP',
-          'Attack',
-          'Defense',
-          'Special Attack',
-          'Special Defense',
-          'Speed',
-          'Total'
+          { content: '', width: '3rem' },
+          { content: 'Name', width: '7.5rem' },
+          { content: 'Type', width: '10.5rem' },
+          { content: 'Ability', width: '7.5rem' },
+          { content: 'HP' },
+          { content: 'Attack' },
+          { content: 'Defense' },
+          { content: 'Special Attack' },
+          { content: 'Special Defense' },
+          { content: 'Speed' },
+          { content: 'Total' }
         ]}
         loading={loading}
       >

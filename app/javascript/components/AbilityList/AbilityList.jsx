@@ -23,8 +23,8 @@ function AbilityList() {
       <Table
         columns={
           [
-            'Name',
-            'Description'
+            { content: 'Name', width: '10.5rem' },
+            { content: 'Description' }
           ]
         }
         loading={loading}

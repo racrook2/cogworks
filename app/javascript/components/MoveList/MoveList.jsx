@@ -23,14 +23,14 @@ function MoveList() {
       <Table
         columns={
           [
-            'Name',
-            'Type',
-            'Category',
-            'Power',
-            'Accuracy',
-            'PP',
-            'Description',
-            'Probability'
+            { content: 'Name', width: '7.5rem' },
+            { content: 'Type', width: '5.5rem' },
+            { content: 'Category', width: '5.5rem' },
+            { content: 'Power' },
+            { content: 'Accuracy' },
+            { content: 'PP' },
+            { content: 'Description', width: '15rem' },
+            { content: 'Probability' }
           ]
         }
         loading={loading}

@@ -12,9 +12,21 @@ const typeStyle = {
   width: '4.5rem'
 };
 
-function Type({ type }) {
+const sidewaysStyle = {
+  height: '4.5rem',
+  width: '1.5rem',
+  writingMode: 'vertical-rl'
+};
+
+function Type({ type, sideways }) {
   return(
-    <div css={[typeStyle, { backgroundColor: TYPE_COLORS[type.name || type] }]}>
+    <div
+      css={[
+        typeStyle,
+        { backgroundColor: TYPE_COLORS[type.name || type] },
+        sideways ? sidewaysStyle : {}
+      ]}
+    >
       { type.name || type }
     </div>
   )

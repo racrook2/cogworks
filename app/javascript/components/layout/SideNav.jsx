@@ -96,30 +96,28 @@ const renderSideNav = () => {
   let i = 0;
 
   return (
-    sections.map((section) => {
-      return (
-        <Section key={section.header} header={section.header}>
-          <hr css={{ margin: 0, width: '0.5rem' }}/>
-          {
-            section.items.map((item) => {
-              i++;
+    sections.map(section =>
+      <Section key={section.header} header={section.header}>
+        <hr css={{ margin: 0, width: '0.5rem' }}/>
+        {
+          section.items.map((item) => {
+            i++;
 
-              return (
-                <span key={item.text}>
-                  <Item
-                    index={i}
-                    link={item.link}
-                  >
-                    {item.text}
-                  </Item>
-                  <hr css={{ margin: 0, width: '0.5rem' }}/>
-                </span>
-              );
-            })
-          }
-        </Section>
-      )
-    })
+            return (
+              <span key={item.text}>
+                <Item
+                  index={i}
+                  link={item.link}
+                >
+                  {item.text}
+                </Item>
+                <hr css={{ margin: 0, width: '0.5rem' }}/>
+              </span>
+            );
+          })
+        }
+      </Section>
+    )
   )
 };
 
