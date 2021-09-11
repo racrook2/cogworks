@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Condition from 'components/Pokedex/QueryBuilder/Condition'
 import LinkButton from 'components/shared/buttons/LinkButton'
 import Button from 'components/shared/buttons/Button'
@@ -7,7 +7,20 @@ function QueryBuilder({ handleSubmit }) {
   const [ conditionId, setConditionId ] = useState(0);
   const [ conditions, setConditions ] = useState({});
 
+  useEffect(() => {
+    if (conditionsValid()) handleSubmit(conditions);
+  }, [conditions]);
+
   const clonedConditions = () => Object.assign({}, conditions);
+
+  const conditionsValid = () =>
+    Object.values(conditions).every(condition => {
+      const values = Object.values(condition);
+
+      return values.length === 3 && values.every(value =>
+        value.length > 0
+      );
+    });
 
   const addCondition = () => {
     setConditions(() => {
@@ -56,9 +69,6 @@ function QueryBuilder({ handleSubmit }) {
       <LinkButton onClick={addCondition}>
         + Add Condition
       </LinkButton>
-      <Button onClick={() => handleSubmit(conditions)}>
-        Search
-      </Button>
     </div>
   )
 }
