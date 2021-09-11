@@ -14,20 +14,29 @@ class Board extends React.Component {
 
     let values = [];
     let flipped = [];
+    let notes = [];
 
     for (let row = 0; row < props.rows; row++) {
       values[row] = [];
       flipped[row] = [];
+      notes[row] = [];
 
       for (let col = 0; col < props.cols; col++) {
         values[row][col] = Math.floor(Math.random() * 4);
-        flipped[row][col] = false
+        flipped[row][col] = false;
+        notes[row][col] = {
+          0: false,
+          1: false,
+          2: false,
+          3: false
+        };
       }
     }
 
     this.state = {
       values,
       flipped,
+      notes,
       selected: {}
     }
   }
@@ -35,14 +44,22 @@ class Board extends React.Component {
   componentDidMount() {
     document.onkeydown = (e) => {
       if (e.key === 'ArrowLeft') {
+        e.preventDefault();
         this.onKeyDown(0, -1)
       } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
         this.onKeyDown(-1, 0)
       } else if (e.key === 'ArrowRight') {
+        e.preventDefault();
         this.onKeyDown(0, 1)
       } else if (e.key === 'ArrowDown') {
+        e.preventDefault();
         this.onKeyDown(1, 0)
+      } else if (e.key === '0' || e.key === '1' || e.key === '2' || e.key === '3' ) {
+        e.preventDefault();
+        this.setNote(this.state.selected.row, this.state.selected.col, parseInt(e.key))
       } else if (e.key === ' ') {
+        e.preventDefault();
         this.onClick(this.state.selected.row, this.state.selected.col)
       }
     }
@@ -107,6 +124,21 @@ class Board extends React.Component {
     }
   };
 
+  setNote = (row, col, key) => {
+    if (row === undefined || col === undefined || this.state.flipped[row][col]) {
+      return
+    }
+
+    this.setState(state => {
+      let notes = state.notes;
+      notes[row][col][key] = !notes[row][col][key];
+
+      return {
+        notes
+      }
+    });
+  };
+
   createBoard = () => {
     let board = [];
     let colTotalValues = [];
@@ -157,6 +189,7 @@ class Board extends React.Component {
               value={tileValue}
               selected={row === this.state.selected.row && col === this.state.selected.col}
               flipped={this.state.flipped[row][col]}
+              notes={this.state.notes[row][col]}
               onClick={() => this.onClick(row, col)}
             />
           }

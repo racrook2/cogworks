@@ -18,7 +18,7 @@ const sections = [
   {
     header: 'Worldbuilding',
     items: [
-      { link: '/', text: 'Are Humans Pokémon?' },
+      { link: '/', text: 'Pokémon World Biology' },
       { link: '/', text: 'What Are Pokémon Types?' },
       { link: '/', text: 'What Are Pokémon Moves?' },
       { link: '/', text: 'The Ethics of Pokémon Training' }
@@ -27,8 +27,9 @@ const sections = [
   {
     header: 'Game Design',
     items: [
-      { link: '/', text: 'In Defense of Pokémon GSC\'s Level Curve' },
       { link: '/', text: 'Pokémon RBY\'s Story Structure' },
+      { link: '/', text: 'In Defense of Pokémon GSC\'s Level Curve' },
+      { link: '/', text: 'The Shift Towards Linearity' },
     ]
   },
   {

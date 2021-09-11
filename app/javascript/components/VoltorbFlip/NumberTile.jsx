@@ -12,21 +12,58 @@ const tiles = {
   3: Tile3
 };
 
+const numberTileStyle = {
+  color: 'white',
+  fontWeight: 'bold',
+  position: 'relative',
+
+  span: {
+    position: 'absolute'
+  },
+
+  'span:first-of-type': {
+    left: '9px',
+    top: '7px',
+
+    '& + span': {
+      right: '8px',
+      top: '7px',
+
+      '& + span': {
+        left: '9px',
+        bottom: '4px',
+
+        '& + span': {
+          right: '8px',
+          bottom: '4px'
+        }
+      }
+    }
+  },
+
+  img: {
+    verticalAlign: 'middle'
+  }
+};
+
 const selectedStyle = {
   outline: '0.25rem red solid'
 };
 
-const imageStyle = {
-  verticalAlign: 'middle'
-};
-
-function NumberTile({ value, selected, flipped, onClick }) {
+function NumberTile({ value, selected, flipped, notes, onClick }) {
   return (
-    <div css={selected ? selectedStyle : {}}>
+    <div css={[numberTileStyle, selected ? selectedStyle : {}]}>
+      {!flipped &&
+        <>
+          <span>{notes[0] && '0'}</span>
+          <span>{notes[1] && '1'}</span>
+          <span>{notes[2] && '2'}</span>
+          <span>{notes[3] && '3'}</span>
+        </>
+      }
       <img
         src={flipped ? tiles[value] : Tile}
         alt='Number Tile'
-        css={imageStyle}
         onClick={onClick}
       />
     </div>
